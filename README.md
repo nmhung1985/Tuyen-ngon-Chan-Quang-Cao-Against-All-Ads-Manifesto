@@ -61,11 +61,11 @@ Từ các cách phân loại này, ngoài việc các chương trình và ứng 
 
 ## Vậy chặn như thế nào?
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dung kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
-1. Chương trình, phần mềm là để xử lý.
-2. Ngoài ra còn bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do phần mềm là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
-3. Do đó, bạn lưu ý 2 bộ lọc dành cho Việt Nam tốt nhất hiện nay:
-3.1 HostsVN của BigDargon
-3.2 ABPVN của Nhóm ABPVN
+- Chương trình, phần mềm là để xử lý.
+- Ngoài ra còn cần bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do phần mềm là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
+- Do đó, bạn lưu ý 2 bộ lọc dành cho Việt Nam tốt nhất hiện nay:
+  + HostsVN của BigDargon
+  + ABPVN của Nhóm ABPVN
 
 ## Hướng dẫn tổng quan
 
@@ -153,7 +153,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODEyNzAxOCwtMTgyMjcxNDc2NSwtNT
+eyJoaXN0b3J5IjpbMTA5MDk0NjE5MiwtMTgyMjcxNDc2NSwtNT
 Q1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2
 NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtOD
 IxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5
