@@ -20,8 +20,6 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 1.2. Hệ thống của bạn vẫn tải dữ liệu từ các tên miền quảng cáo, nhưng sẽ không hiển thị cho bạn thấy (lọc trang trí - cosmetic filter): băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube.
 
-Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
-
 2. Cấp 2, phân loại theo phương thức:
 
 2.1. Hosts/Tường lửa: 
@@ -54,6 +52,8 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 3.3. Cấp độ Trình duyệt:
 - chỉ hoạt động trên trình duyệt được thiết lập hoặc sử dụng trình duyệt chuyên chặn quảng cáo (ví dụ Brave)
 - thường áp dụng được cả 2 nguyên lý
+
+Từ các cách , ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
 ## Hướng dẫn
 
@@ -116,7 +116,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1ODQ4NTM5NSwtMTA5NTc5MjI2LDE2ND
-kzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMwNDIsNjY3NTE0NTks
-ODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mzg2NDgyMl19
+eyJoaXN0b3J5IjpbLTg3MzM3MTc4NCwtNDU4NDg1Mzk1LC0xMD
+k1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3ODIsMTUxNTA4MzA0
+Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0MiwtNzczOD
+Y0ODIyXX0=
 -->
