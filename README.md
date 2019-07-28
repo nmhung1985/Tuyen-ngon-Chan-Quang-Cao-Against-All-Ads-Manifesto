@@ -16,7 +16,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 ## Cấp độ chặn quảng cáo
 #### 1. Cấp 1 (tạm coi là "nguyên lý", "tiên đề"):
 
-1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn (lọc mạng - network filter): đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube.
+1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn (lọc mạng - network filter): đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube, cũng như có thể làm giao diện trang web bị vỡ bố cục.
 
 1.2. Hệ thống của bạn vẫn tải dữ liệu từ các tên miền quảng cáo, nhưng sẽ không hiển thị cho bạn thấy (lọc trang trí - cosmetic filter): băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube.
 
@@ -154,11 +154,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODExNjYwNCwtMTgwNzI0OTMwNywxMT
-k3OTAwMzUzLC0xODIyNzE0NzY1LC01NDUyODQyNjksNzE1NzI0
-MDY3LC0xNDQ3NzY4MTU4LDEyMDExMDY0NDgsMjAwMTAxMjAxLD
-gyNjU4MjkyLC0xMjg4NjMzNzE4LC04MjE0NzkxOTUsLTc5ODI3
-OTk5NCwtNDU4NDg1Mzk1LC0xMDk1NzkyMjYsMTY0OTMzNjkzMy
-w0MzM1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAz
-MzBdfQ==
+eyJoaXN0b3J5IjpbLTE1NDA0OTYyMDksMTAxODExNjYwNCwtMT
+gwNzI0OTMwNywxMTk3OTAwMzUzLC0xODIyNzE0NzY1LC01NDUy
+ODQyNjksNzE1NzI0MDY3LC0xNDQ3NzY4MTU4LDEyMDExMDY0ND
+gsMjAwMTAxMjAxLDgyNjU4MjkyLC0xMjg4NjMzNzE4LC04MjE0
+NzkxOTUsLTc5ODI3OTk5NCwtNDU4NDg1Mzk1LC0xMDk1NzkyMj
+YsMTY0OTMzNjkzMyw0MzM1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1
+MTQ1OV19
 -->
