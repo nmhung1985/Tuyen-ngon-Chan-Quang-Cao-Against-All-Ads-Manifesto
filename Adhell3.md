@@ -41,9 +41,10 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 a) Do Google tích hợp thêm khả năng cho phép Chrome tự bỏ qua DNS trên máy để dùng trực tiếp DNS 8.8.8.8 của họ (tính năng "Data Saver" cũng tương tự), khiến bộ lọc có thể không còn tác dụng. Khi đó, bạn tắt các tính năng này bằng cách sau:
 - Gõ chính xác cụm sau **chrome://flags** để truy cập trang cấu hình. Ở ô tìm kiếm, gõ "async", bạn sẽ thấy "Async DNS Resolver". Chọn "Disable" để tắt.
 - Chạm dấu ba chấm dọc để vào "Settings", chọn tiếp "Data Saver" và gạt sang "Off" để tắt.
+
 b) Firefox đang dần tích hợp tính năng bảo mật DNS (DNS-over-HTTPS) nên có thể cũng bỏ qua DNS trên máy, khiến cũng bị tình trạng tương tự như trên. Bạn tắt bằng cách sau:
 - Gõ chính xác cụm sau **about:config** để truy cập trang cấu hình.
-- Gõ vào thanh tìm kiếm để tìm **network.trr.mode**. Chỉnh lại nếu cần để đảm bảo giá trị cho thuộc tính này là "0".
+- Gõ vào thanh tìm kiếm để tìm **network.trr.mode**. Chỉnh lại nếu cần để đảm bảo giá trị cho thuộc tính này là **0**
 
 ### Khắc phục một số vấn đề
 Nếu bạn cần gỡ bỏ Adhell3 thì nhớ hủy quyền hạn quản trị bằng cách vào `Cài đặt> Màn hình khóa và bảo mật> Cài đặt bảo mật khác> Ứng dụng quản trị thiết bị` (Settings> Lock screen and security> Other security settings> Device admin apps).  
@@ -55,5 +56,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5ODg2MzA0Ml19
+eyJoaXN0b3J5IjpbMTA2MTU0MTEzMl19
 -->
