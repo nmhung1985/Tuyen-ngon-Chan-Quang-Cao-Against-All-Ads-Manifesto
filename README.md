@@ -40,12 +40,11 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 
 ## Hướng dẫn
 
-|[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính](#máy-tính)|[Android](#android)  |[iOS](#ios)|
+|[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac/Linux)](#máy-tính)|[Android](#android)  |[iOS](#ios)|
 |:-:|:-:|:-:|:-:|
 
-
-
-#
+### Mạng nội bộ
+Thường ai biết
 
 |[Android](#android)  |[iOS](#ios)|[Máy tính](#máy-tính)|
 |:-:|:-:|:-:|
@@ -96,7 +95,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDUwMzIyOSwxNjQ5MzM2OTMzLDQzMz
+eyJoaXN0b3J5IjpbLTEzMjc3MDQ0MiwxNjQ5MzM2OTMzLDQzMz
 UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
 OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
