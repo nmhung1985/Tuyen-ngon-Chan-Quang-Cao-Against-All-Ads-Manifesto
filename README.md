@@ -74,7 +74,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### Máy tính
 
-1. Adguard (Windows, Mac): phần mềm chặn cho toàn bộ máy tính (cấp độ 3.2) tốt nhất. Có đủ loa
+1. Adguard (Windows, Mac): phần mềm chặn cho toàn bộ máy tính (cấp độ 3.2) tốt nhất. Cũng đa dạng nhất hiện nay khi có gần như đầy đủ phiên bản phủ hết các cấp độ trình bày ở trên.
 
 
 ### Android
@@ -121,9 +121,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjE2NjQwOCwtMTI4ODYzMzcxOCwtOD
-IxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5
-MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMwNDIsNj
-Y3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mzg2NDgy
-Ml19
+eyJoaXN0b3J5IjpbODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMT
+Q3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3OTIy
+NiwxNjQ5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2Nz
+UxNDU5LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJd
+fQ==
 -->
