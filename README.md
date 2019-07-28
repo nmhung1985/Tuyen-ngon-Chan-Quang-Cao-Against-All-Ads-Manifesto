@@ -12,7 +12,8 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 ## Phương thức chặn quảng cáo
 Có 2 phương thức chính:
-1. Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn: đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị tiêu
+1. Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn: đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị chiếm bởi quảng cáo, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube.
+2. Hệ thống của bạn vẫn tải dữ liê
 
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
@@ -53,6 +54,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MzA4MDkzMSw2Njc1MTQ1OSw4NzQ2Mj
-AzMzAsLTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbMjA0MTYxNDYzLDY2NzUxNDU5LDg3NDYyMD
+MzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
