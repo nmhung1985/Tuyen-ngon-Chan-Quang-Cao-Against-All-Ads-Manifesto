@@ -28,7 +28,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 2.2. DNS:
 - thiết lập hệ thống hoặc thiết bị dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm kiểm tra thông tin chặn
-- chi tiết kỹ thuật 
+- người dùng Việt Nam có thể cảm thấy chậm, nhưng không quá khác biệt
 - áp dụng nguyên lý 1.1
 
 2.3. VPN:
@@ -63,7 +63,7 @@ Từ các cách phân loại này, ngoài việc các chương trình và ứng 
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dung kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
 1. Chương trình, phần mềm là để xử lý.
 2. Ngoài ra còn bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do phần mềm là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
-3. Do đó, bạn lưu ý 2 bộ lọc dành cho Việt Nam mà sẽ được nhắc đến xuyên suốt bài viết này:
+3. Do đó, bạn lưu ý 2 bộ lọc dành cho Việt Nam tốt nhất hiện nay:
 3.1 HostsVN của BigDargon
 3.2 ABPVN của Nhóm ABPVN
 
@@ -130,7 +130,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5OTIzMDA3NSwyMDAxMDEyMDEsODI2NT
+eyJoaXN0b3J5IjpbLTIzOTU2Mjk1OSwyMDAxMDEyMDEsODI2NT
 gyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0
 LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMz
 UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
