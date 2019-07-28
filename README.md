@@ -14,13 +14,13 @@ Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các h�
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải hoặc thể hiện các thông tin rác rưởi và độc hại.
 
 ## Cấp độ chặn quảng cáo
-1. Cấp 1, mà ta tạm coi là "nguyên lý", "tiên đề" có 2 phương thức:
+#### 1. Cấp 1, mà ta tạm coi là "nguyên lý", "tiên đề" có 2 phương thức:
 
 1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn (lọc mạng - network filter): đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube.
 
 1.2. Hệ thống của bạn vẫn tải dữ liệu từ các tên miền quảng cáo, nhưng sẽ không hiển thị cho bạn thấy (lọc trang trí - cosmetic filter): băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube.
 
-2. Cấp 2, phân loại theo phương thức:
+#### 2. Cấp 2, phân loại theo phương thức:
 
 2.1. Hosts/Tường lửa: 
 - danh sách chặn được ghi trực tiếp vào hệ thống nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, hệ thống đa ứng dụng Knox trên điện thoại Samsung)
@@ -37,9 +37,9 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 2.4. Tiện ích (addon/extension) cho trình duyệt:
 
-3. Cấp 3, phân loại theo độ phủ:
+#### 3. Cấp 3, phân loại theo độ phủ:
 
-3.1. Cấp độ Mạng Nội Bộ (Network): 
+3.1. Cấp độ Mạng Nội Bộ: 
 - chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense v.v...).
 - toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
 - chủ yếu áp dụng nguyên lý 1.1 (ngoại trừ cách hệ thống kiểu pfSense)
@@ -121,8 +121,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NT
-g0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4
-MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4Nj
-Q1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNz
+k4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2
+OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3ND
+YyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
