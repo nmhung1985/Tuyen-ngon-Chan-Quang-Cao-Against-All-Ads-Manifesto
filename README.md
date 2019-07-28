@@ -100,6 +100,8 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 6. Disconnect Pro (Trả phí): ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN".
 
+*Ba ứng dụng đặc biệt*
+
 7. YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
 
 8. Brave Browser: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
@@ -149,10 +151,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NjMzMjI5LDcxNTcyNDA2NywtMTQ0Nz
-c2ODE1OCwxMjAxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5Miwt
-MTI4ODYzMzcxOCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1OD
-Q4NTM5NSwtMTA5NTc5MjI2LDE2NDkzMzY5MzMsNDMzNTI0Nzgy
-LDE1MTUwODMwNDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2ND
-U5NDIsLTc3Mzg2NDgyMl19
+eyJoaXN0b3J5IjpbLTU0NTI4NDI2OSw3MTU3MjQwNjcsLTE0ND
+c3NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIs
+LTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NT
+g0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4
+MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4Nj
+Q1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
