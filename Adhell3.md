@@ -5,7 +5,7 @@ ___________________
 ### Adhell3 - App chặn quảng cáo hiệu quả nhất cho riêng dòng máy Samsung
 Riêng đối với Samsung, hãng này có tích hợp module Knox trong các dòng máy của họ để thực hiện các tính năng bảo mật đặc biệt độc quyền, trong đó có tính năng tường lửa. Tận dụng module này, các nhà phát triển đã viết app Adhell3 để hỗ trợ chặn quảng cáo trên máy Samsung với các ưu điểm sau:
 - **KHÔNG CẦN** root 
--  **KHÔNG** chạy VPN giả lập, **KHÔNG** chạy nền, **KHÔNG** làm tốn pin
+-  **KHÔNG** chạy nền, **KHÔNG** làm tốn pin như cách chặn dạng tạo VPN giả lập
 - **KHÔNG** bị chậm như cách chặn bằng DNS (như trên Android Pie)
 - cực kỳ nhanh và hiệu quả do mọi thứ được chính module tường lửa chính hãng xử lý
 - có thêm tính năng vô hiệu hóa thành phần của app (vd một số app đòi nhiều quyền truy cập danh bạ, hình ảnh không cần thiết)
@@ -13,7 +13,7 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 - Điểm trừ: Samsung đã chặn cách kích hoạt miễn phí, nên hiện tại phải tốn phí. Nhưng phí chỉ tương đương 1-2 ly cà phê mà có giấy phép vĩnh viễn (không bị phiền với việc thao tác nhiều bước và phải làm mỗi 3 tháng một lần như lúc miễn phí).
 
 ### Thông tin về cách cài đặt
-- Samsung không hỗ trợ các loại app chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên. Nên các loại app này sẽ không bao giờ có bản public chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không build sẵn app để tải về, mà đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của app. Tuy nhiên, trong cộng đồng có một người khác (CitizenXVIL) hỗ trợ build và đưa lên. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
+- Samsung không hỗ trợ các loại app chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên, nên các loại app này sẽ không bao giờ có bản công khai chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không build sẵn app để tải về, mà đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của app. Tuy nhiên, trong cộng đồng có một người khác (CitizenXVIL) hỗ trợ build cho mọi người. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
 
 - Chỉ hỗ trợ Knox 2.6 trở lên. Để biết phiên bản Knox máy mình là gì, bạn vào `Cài đặt> Về điện thoại> Thông tin phần mềm` (Settings> About Phone> Software Information)
 
@@ -55,5 +55,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTkyOTU4ODddfQ==
+eyJoaXN0b3J5IjpbMzU5MzczODkzXX0=
 -->
