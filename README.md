@@ -44,9 +44,9 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 #### 3. Cấp 3, phân loại theo độ bao phủ:
 
 3.1. Cấp độ Mạng Nội Bộ: 
-- chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense, pi-hole v.v...).
+- chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
 - toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
-- chủ yếu áp dụng nguyên lý 1.1 (ngoại trừ cách hệ thống kiểu pfSense)
+- chủ yếu áp dụng nguyên lý 1.1 (ngoại trừ pfSense và một vài hệ thống tương đương)
 
 3.2. Cấp độ Thiết bị: 
 - thiết lập trên từng thiết bị muốn chặn quảng cáo
@@ -153,7 +153,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTkwNzc5MiwtMTgyMjcxNDc2NSwtNT
+eyJoaXN0b3J5IjpbLTc1ODEyNzAxOCwtMTgyMjcxNDc2NSwtNT
 Q1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2
 NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtOD
 IxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5
