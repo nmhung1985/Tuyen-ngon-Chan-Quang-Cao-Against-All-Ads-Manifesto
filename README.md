@@ -1,5 +1,5 @@
 # Tuyên ngôn Chặn Quảng Cáo
-Có nhiều cách thức chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để bạn hiể
+Có nhiều phương thức chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để giúp bạn chọn phương thức và ứng dụng tốt nhất cho mình.
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
 
@@ -39,5 +39,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4MzUyNDM4LC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbLTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
 -->
