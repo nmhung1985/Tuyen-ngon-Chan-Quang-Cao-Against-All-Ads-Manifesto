@@ -36,7 +36,9 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 - thường áp dụng nguyên lý 1.1 (có ngoại lệ)
 
 2.4. Tiện ích (addon/extension) cho trình duyệt:
-- 
+- tiện ích riêng đảm nhiệm chặn quảng cáo cho trình duyệt
+- chủ yếu cho máy tính
+- áp dụng kết hợp được cả 2
 
 #### 3. Cấp 3, phân loại theo độ phủ:
 
@@ -125,7 +127,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDc3MjUxOTUsODI2NTgyOTIsLTEyOD
+eyJoaXN0b3J5IjpbLTExMzk0MzYyNTUsODI2NTgyOTIsLTEyOD
 g2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUz
 OTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4MiwxNT
 E1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4NjQ1OTQy
