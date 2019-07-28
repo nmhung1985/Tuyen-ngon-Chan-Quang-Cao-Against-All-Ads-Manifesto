@@ -8,6 +8,8 @@ Bạn có biết gói data 4G của bạn bị hết dung lượng sớm vì b�
 
 Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các hệ thống hay thiết bị kết nối mạng của bạn, vừa làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn, vừa gây ảnh hưởng tới việc bạn tận hưởng các nội dung thú vị.
 
+[link thử] (#dành-cho-android) 
+
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải hoặc thể hiện các thông tin rác rưởi và độc hại.
 
 ## Phương thức chặn quảng cáo
@@ -16,6 +18,8 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 2. Hệ thống của bạn vẫn tải dữ liệu từ các tên miền quảng cáo, nhưng sẽ không hiển thị cho bạn thấy: băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube.
 
 Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
+
+### Dành cho Android
 
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
@@ -56,6 +60,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2Mj
-AzMzAsLTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbLTE2ODY0NjcwMTYsMTUxNTA4MzA0Miw2Nj
+c1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0MiwtNzczODY0ODIy
+XX0=
 -->
