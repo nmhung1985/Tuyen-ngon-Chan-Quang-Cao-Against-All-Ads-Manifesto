@@ -75,9 +75,6 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 ### Máy tính
 
 
-|[Android](#android)  |[iOS](#ios)|[Máy tính](#máy-tính)|
-|:-:|:-:|:-:|
-| fdsa | asdffdsa |
 
 
 ### Android
@@ -124,7 +121,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjYxODI4NywtNzk4Mjc5OTk0LC00NT
+eyJoaXN0b3J5IjpbLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NT
 g0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4
 MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4Nj
 Q1OTQyLC03NzM4NjQ4MjJdfQ==
