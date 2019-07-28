@@ -1,4 +1,6 @@
 # Tuyên ngôn Chặn Quảng Cáo
+[Dành cho Android] (#dành-cho-android) 
+
 Có nhiều phương thức chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để giúp bạn chọn phương thức và ứng dụng tốt nhất cho mình.
 
 ## Tại sao cần chặn quảng cáo
@@ -8,7 +10,7 @@ Bạn có biết gói data 4G của bạn bị hết dung lượng sớm vì b�
 
 Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các hệ thống hay thiết bị kết nối mạng của bạn, vừa làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn, vừa gây ảnh hưởng tới việc bạn tận hưởng các nội dung thú vị.
 
-[Dành cho Android] (#dành-cho-android) 
+
 
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải hoặc thể hiện các thông tin rác rưởi và độc hại.
 
@@ -60,7 +62,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mjk4NDE4OCw0MzM1MjQ3ODIsMTUxNT
-A4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0Miwt
-NzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbLTE1NzI0NDIzNjgsNDMzNTI0NzgyLDE1MT
+UwODMwNDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIs
+LTc3Mzg2NDgyMl19
 -->
