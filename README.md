@@ -13,8 +13,8 @@ Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các h�
 
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải hoặc thể hiện các thông tin rác rưởi và độc hại.
 
-## Phương thức & chặn quảng cáo
-1. Ở cấp cơ sở nhất mang tính nguyên lý, mà ta tạm gọi là cấp 1, có 2 phương thức:
+## Cấp độ chặn quảng cáo
+1. Cấp 1, mà ta tạm coi là "nguyên lý", "tiên đề" có 2 phương thức:
 
 1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn: đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube.
 
@@ -22,19 +22,23 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-2. Phân loại theo độ phủ:
+2. Cấp 2, tạm phân loại theo phương thức:
 
-2.1. Cấp độ Mạng Nội Bộ (Network): 
+2.1.
+
+3. Phân loại theo độ phủ:
+
+3.1. Cấp độ Mạng Nội Bộ (Network): 
 - chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense v.v...).
 - toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
 - chủ yếu áp dụng nguyên lý 1.1 (ngoại trừ cách hệ thống kiểu pfSense)
 
-2.2. Cấp độ Thiết bị: 
+3.2. Cấp độ Thiết bị: 
 - thiết lập trên từng thiết bị muốn chặn quảng cáo
 - toàn bộ các phần mềm, ứng dụng trên thiết bị đó sẽ được chặn quảng cáo
 - chủ yếu áp dụng nguyên lý 1.1 (tất nhiên cũng có ngoại lệ sẽ đề cập ở dưới)
 
-2.3. Cấp độ Trình duyệt:
+3.3. Cấp độ Trình duyệt:
 - chỉ hoạt động trên trình duyệt được thiết lập hoặc sử dụng trình duyệt chuyên chặn quảng cáo (ví dụ Brave)
 - thường áp dụng được cả 2 nguyên lý
 
@@ -99,7 +103,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2ODA0MjI1LDE2NDkzMzY5MzMsNDMzNT
-I0NzgyLDE1MTUwODMwNDIsNjY3NTE0NTksODc0NjIwMzMwLC05
-NTg2NDU5NDIsLTc3Mzg2NDgyMl19
+eyJoaXN0b3J5IjpbLTk0NjQ2MTcwNywxNjQ5MzM2OTMzLDQzMz
+UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
+OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
