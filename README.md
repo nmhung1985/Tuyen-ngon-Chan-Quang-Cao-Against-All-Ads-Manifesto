@@ -16,9 +16,9 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 ## Cấp độ chặn quảng cáo
 1. Cấp 1, mà ta tạm coi là "nguyên lý", "tiên đề" có 2 phương thức:
 
-1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn: đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube.
+1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn (lọc mạng - network filter): đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube.
 
-1.2. Hệ thống của bạn vẫn tải dữ liệu từ các tên miền quảng cáo, nhưng sẽ không hiển thị cho bạn thấy: băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube.
+1.2. Hệ thống của bạn vẫn tải dữ liệu từ các tên miền quảng cáo, nhưng sẽ không hiển thị cho bạn thấy (lọc trang trí - cosmetic filter): băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube.
 
 Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
@@ -116,7 +116,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE5OTE5NDAsLTEwOTU3OTIyNiwxNj
-Q5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5
-LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbLTQ1ODQ4NTM5NSwtMTA5NTc5MjI2LDE2ND
+kzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMwNDIsNjY3NTE0NTks
+ODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mzg2NDgyMl19
 -->
