@@ -45,7 +45,10 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 
 ### Mạng nội bộ
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là tay chuyên và không cần đọc bài viết này. Do đó, phần này sẽ không có nhiều thông tin.
-Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá dễ cho người có kiến thức máy tính trung bình. Mời bạn 
+Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá dễ cho người có kiến thức máy tính trung bình. Mời bạn xem ở đây.
+
+### Máy tính
+
 
 |[Android](#android)  |[iOS](#ios)|[Máy tính](#máy-tính)|
 |:-:|:-:|:-:|
@@ -96,7 +99,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNTIyMTc2MywxNjQ5MzM2OTMzLDQzMz
+eyJoaXN0b3J5IjpbMTU0MTI4MzA2NywxNjQ5MzM2OTMzLDQzMz
 UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
 OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
