@@ -20,12 +20,12 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-|fdsa  |  asdf| fdsaf |
+|[Android](#android)  |[iOS](#ios)|[Windows](#windows)|
 |--|--|--|
 | fdsa | asdffdsa |
 
 
-### Dành cho Android {#mht}
+### Android
 
 
 
@@ -69,7 +69,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTU1MDMwMTAsNDMzNTI0NzgyLDE1MT
-UwODMwNDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIs
-LTc3Mzg2NDgyMl19
+eyJoaXN0b3J5IjpbMTExNjI2NzI2MCw0MzM1MjQ3ODIsMTUxNT
+A4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0Miwt
+NzczODY0ODIyXX0=
 -->
