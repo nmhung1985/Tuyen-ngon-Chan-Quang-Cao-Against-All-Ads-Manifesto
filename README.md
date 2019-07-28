@@ -2,7 +2,7 @@
 
 
 
-Có nhiều phương thức chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để giúp bạn chọn phương thức và ứng dụng tốt nhất cho mình.
+Có nhiều phương thức và ứng dụng chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để giúp bạn chọn phương thức và ứng dụng tốt nhất cho mình.
 
 ## Tại sao cần chặn quảng cáo
 Bạn chắc hẳn đã trải qua cảm giác mất hứng khi đang xem phim đến đoạn hay trên TV thì nhà đài cho dừng một lúc để quảng cáo? Cũng như xem YouTube được một chút thì gặp video quảng cáo cả vài phút?
@@ -38,7 +38,7 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 - chỉ hoạt động trên trình duyệt được thiết lập hoặc sử dụng trình duyệt chuyên chặn quảng cáo (ví dụ Brave)
 - thường áp dụng được cả 2 nguyên lý
 
-
+## Hướng dẫn
 
 |[Android](#android)  |[iOS](#ios)|[Máy tính](#máy-tính)|
 |:-:|:-:|:-:|
@@ -89,7 +89,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjk0NjQ3NiwxNjQ5MzM2OTMzLDQzMz
-UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
-OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2Njk4NzQ0NTMsMTY0OTMzNjkzMyw0Mz
+M1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAs
+LTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
 -->
