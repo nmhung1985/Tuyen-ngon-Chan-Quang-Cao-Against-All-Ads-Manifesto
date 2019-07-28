@@ -58,6 +58,7 @@ Từ các cách phân loại này, ngoài việc các chương trình và ứng 
 ## Vậy chặn như thế nào?
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dung kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
 1. Chương trình, phần mềm là để xử lý.
+2. Ngoài ra còn bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do đa số phần mềm là của nước ngoài nên mặc định họ sẽ không kích hoạt bộ lọc
 
 ## Hướng dẫn
 
@@ -120,8 +121,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjQ0MDY5MywtNzk4Mjc5OTk0LC00NT
-g0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4
-MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4Nj
-Q1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbLTIwMTY1NTM5NTIsLTc5ODI3OTk5NCwtND
+U4NDg1Mzk1LC0xMDk1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3
+ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1OD
+Y0NTk0MiwtNzczODY0ODIyXX0=
 -->
