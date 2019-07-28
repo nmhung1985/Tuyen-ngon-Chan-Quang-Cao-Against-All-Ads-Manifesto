@@ -34,7 +34,7 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 
 2.3. Cấp độ Trình duyệt:
 - chỉ hoạt động trên trình duyệt được thiết lập hoặc sử dụng trình duyệt chuyên chặn quảng cáo (ví dụ Brave)
-- chủ yếu áp dụng nguyên lý 1.2 (ngoại trừ trình duyệt dạng
+- thường áp dụng được cả 2 nguyên lý
 
 
 
@@ -87,7 +87,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjA3MjQ0OCwxNjQ5MzM2OTMzLDQzMz
-UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
-OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5ODY5MDI5MTUsMTY0OTMzNjkzMyw0Mz
+M1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAs
+LTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
 -->
