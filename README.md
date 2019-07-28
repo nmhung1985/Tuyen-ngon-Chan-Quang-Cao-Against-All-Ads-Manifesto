@@ -23,7 +23,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 #### 2. Cấp 2, phân loại theo phương thức:
 
 2.1. Hosts/Tường lửa: 
-- danh sách chặn được ghi trực tiếp vào hệ thống nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, hệ thống đa ứng dụng Knox trên điện thoại Samsung)
+- danh sách chặn được ghi trực tiếp vào hệ thống nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, hệ thống bảo mật Knox trên điện thoại Samsung)
 - áp dụng nguyên lý 1.1
 
 2.2. DNS:
@@ -41,10 +41,10 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 - chủ yếu cho máy tính
 - áp dụng kết hợp được cả 2 nguyên lý
 
-#### 3. Cấp 3, phân loại theo độ phủ:
+#### 3. Cấp 3, phân loại theo độ bao phủ:
 
 3.1. Cấp độ Mạng Nội Bộ: 
-- chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense v.v...).
+- chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense, pi-hole v.v...).
 - toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
 - chủ yếu áp dụng nguyên lý 1.1 (ngoại trừ cách hệ thống kiểu pfSense)
 
@@ -153,11 +153,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMzc0Njk4LC0xODIyNzE0NzY1LC01ND
-UyODQyNjksNzE1NzI0MDY3LC0xNDQ3NzY4MTU4LDEyMDExMDY0
-NDgsMjAwMTAxMjAxLDgyNjU4MjkyLC0xMjg4NjMzNzE4LC04Mj
-E0NzkxOTUsLTc5ODI3OTk5NCwtNDU4NDg1Mzk1LC0xMDk1Nzky
-MjYsMTY0OTMzNjkzMyw0MzM1MjQ3ODIsMTUxNTA4MzA0Miw2Nj
-c1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0MiwtNzczODY0ODIy
-XX0=
+eyJoaXN0b3J5IjpbMTE2OTkwNzc5MiwtMTgyMjcxNDc2NSwtNT
+Q1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2
+NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtOD
+IxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5
+MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMwNDIsNj
+Y3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mzg2NDgy
+Ml19
 -->
