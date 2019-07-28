@@ -37,7 +37,7 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 - phổ biến trên điện thoại
 - thường áp dụng nguyên lý 1.1 (có ngoại lệ)
 
-2.4. Tiện ích 
+2.4. Tiện ích (addon/extension) cho trình duyệt:
 
 3. Cấp 3, phân loại theo độ phủ:
 
@@ -116,7 +116,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NDczNjc4LC0xMDk1NzkyMjYsMTY0OT
-MzNjkzMyw0MzM1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4
-NzQ2MjAzMzAsLTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbLTIxMjE5OTE5NDAsLTEwOTU3OTIyNiwxNj
+Q5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5
+LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
