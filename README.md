@@ -97,7 +97,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 5. AdClear (Miễn phí): giả lập VPN, DNS, hỗ trợ HTTPS
 
-6. Blokada (Miễn phí): 
+6. Blokada (Miễn phí): giả lập VPN, có kết nối VPN thật (cần trả phí), DNS, không hỗ trợ HTTPS
 
 
 
@@ -140,7 +140,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODE3ODc5NTIsLTE0NDc3NjgxNTgsMT
+eyJoaXN0b3J5IjpbLTE5NDEwODkyNTQsLTE0NDc3NjgxNTgsMT
 IwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2MzM3
 MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLT
 EwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgz
