@@ -74,7 +74,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### Máy tính
 
-
+1. Adg
 
 
 ### Android
@@ -121,8 +121,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNz
-k4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2
-OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3ND
-YyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbOTI2MDcxNDk5LC0xMjg4NjMzNzE4LC04Mj
+E0NzkxOTUsLTc5ODI3OTk5NCwtNDU4NDg1Mzk1LC0xMDk1Nzky
+MjYsMTY0OTMzNjkzMyw0MzM1MjQ3ODIsMTUxNTA4MzA0Miw2Nj
+c1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0MiwtNzczODY0ODIy
+XX0=
 -->
