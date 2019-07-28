@@ -6,7 +6,9 @@ Bạn chắc hẳn đã trải qua cảm giác mất hứng khi đang xem phim �
 
 Bạn có biết gói data 4G của bạn bị hết dung lượng sớm vì bị quảng cáo chiếm tới 80% không?
 
-Nói chung quảng cáo thường chie
+Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các hệ thống hay thiết bị kết nối mạng của bạn, vừa làm tốn dung lượng vừa khiến thông tin bạn cần bị tải chậm hơn.
+
+Do đó, có 
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
 
@@ -46,6 +48,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3MTkxODY3LDg3NDYyMDMzMCwtOTU4Nj
+eyJoaXN0b3J5IjpbNjg4MDA0OTMwLDg3NDYyMDMzMCwtOTU4Nj
 Q1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
