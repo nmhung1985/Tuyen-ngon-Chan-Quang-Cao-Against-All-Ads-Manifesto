@@ -89,7 +89,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 1. Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**. Chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung. Không hỗ
 
 2. Adaway (**Root**, miễn phí): chặn dạng hosts.
-3. Disconnect Pro (Trả phí): 
+3. Disconnect Pro (Trả phí): ứng dụng duy nhất được Samsung chính thức cho phép kết nối với Knox.
 
 *Ngoại trừ 2 app trên, còn lại tất cả app ở dưới đều chạy dạng VPN nội bộ*
 
@@ -140,9 +140,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OCwyMD
-AxMDEyMDEsODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5
-NSwtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNj
-Q5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5
-LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbMTIyNDQyMjc1OSwtMTQ0Nzc2ODE1OCwxMj
+AxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcx
+OCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMT
+A5NTc5MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMw
+NDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mz
+g2NDgyMl19
 -->
