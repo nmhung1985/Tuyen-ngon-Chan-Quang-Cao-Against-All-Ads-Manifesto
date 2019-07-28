@@ -28,6 +28,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 2.2. DNS:
 - thiết lập hệ thống hoặc thiết bị dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm kiểm tra thông tin chặn
+- chi tiết kỹ thuật 
 - áp dụng nguyên lý 1.1
 
 2.3. VPN:
@@ -81,7 +82,8 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 2. Tiện ích cho trình duyệt: Cách tốt nhất không bị quảng cáo YouTube trên máy tính.
 - uBlock Origin: tiện ích phổ biến nhất, nhưng lời khuyên là nên dùng 2 tiện ích ở dưới
 - Nano Adblocker & Nano Defender: Nano Adblocker là bản fork của uBlock Origin với một số tối ưu, nên dùng kết hợp Nano Defender để tránh bị các trang web nhận diện là đang dùng trình chặn quảng cáo.
-- Loại này có rất nhiều: điển hình là ngay cả Adguard nhắc ở trên cũng có phiên bản riêng, Adblock Plus,
+- Loại này có rất nhiều: điển hình là ngay cả Adguard nhắc ở trên cũng có phiên bản riêng, Adblock Plus, Adblock, Adblocker v.v...
+3. DNS: Xem trong bài hướng dẫn chung
 
 
 ### Android
@@ -128,7 +130,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTExNjg1NiwyMDAxMDEyMDEsODI2NT
+eyJoaXN0b3J5IjpbMTQ5OTIzMDA3NSwyMDAxMDEyMDEsODI2NT
 gyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0
 LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMz
 UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
