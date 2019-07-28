@@ -75,6 +75,9 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 ### Máy tính
 
 1. Adguard (Windows, Mac): phần mềm chặn cho toàn bộ máy tính (cấp độ 3.2) tốt nhất. Cũng đa dạng nhất hiện nay khi có gần như đầy đủ phiên bản phủ hết các cấp độ trình bày ở trên.
+2. Tiện ích cho trình duyệt: 
+- uBlock Origin: tiện ích phổ biến nhất
+- Nano Adblocker & Nano Defender: Nano Adblocker là bản fork của uBlock Origin nhưng
 
 
 ### Android
@@ -121,9 +124,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMT
-Q3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3OTIy
-NiwxNjQ5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2Nz
-UxNDU5LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJd
-fQ==
+eyJoaXN0b3J5IjpbOTY0ODQzMTA5LDgyNjU4MjkyLC0xMjg4Nj
+MzNzE4LC04MjE0NzkxOTUsLTc5ODI3OTk5NCwtNDU4NDg1Mzk1
+LC0xMDk1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3ODIsMTUxNT
+A4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0Miwt
+NzczODY0ODIyXX0=
 -->
