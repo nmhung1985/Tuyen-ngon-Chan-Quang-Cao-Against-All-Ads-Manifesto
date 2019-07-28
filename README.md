@@ -1,5 +1,6 @@
 # Tuyên ngôn Chặn Quảng Cáo
-[Dành cho Android] (#dành-cho-android) 
+# Contents
+- [Dành cho Android](#dành-cho-android)
 
 Có nhiều phương thức chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để giúp bạn chọn phương thức và ứng dụng tốt nhất cho mình.
 
@@ -62,7 +63,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzI0NDIzNjgsNDMzNTI0NzgyLDE1MT
-UwODMwNDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIs
-LTc3Mzg2NDgyMl19
+eyJoaXN0b3J5IjpbMjA1MTcxMzU3OCw0MzM1MjQ3ODIsMTUxNT
+A4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0Miwt
+NzczODY0ODIyXX0=
 -->
