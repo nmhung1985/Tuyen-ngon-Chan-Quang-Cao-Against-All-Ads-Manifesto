@@ -34,8 +34,8 @@ Vào link MediaFire dưới đây và chỉ cần tải tập tin có tên **ah3
 2. Vào "Domains"> "Providers", thêm hostsVN-dạng-domain theo link sau:
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 3. Vào "Domains"> "Blacklist", tạo thêm các rule sau:
- Trình duyệt Chrome: `com.android.chrome|*|53`
-**Lưu ý cho Note 9 và/hoặc Pie**: thêm `com.sec.android.app.sbrowser|*|53`
+  Trình duyệt Chrome: `com.android.chrome|*|53`
+  Trình duyệt của Samsung (**có thể chỉ cần làm cho Note 9 và/hoặc Pie**): `com.sec.android.app.sbrowser|*|53`
 4. Về "Home", gạt để kích hoạt "Domain rules" và "Firewall rules".
 5. 
 a) Do Google tích hợp thêm khả năng cho phép Chrome tự bỏ qua DNS trên máy để dùng trực tiếp DNS 8.8.8.8 của họ (tính năng "Data Saver" cũng tương tự), khiến bộ lọc có thể không còn tác dụng. Khi đó, bạn tắt các tính năng này bằng cách sau:
@@ -55,5 +55,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTA2MDk1MTRdfQ==
+eyJoaXN0b3J5IjpbLTQ5ODg2MzA0Ml19
 -->
