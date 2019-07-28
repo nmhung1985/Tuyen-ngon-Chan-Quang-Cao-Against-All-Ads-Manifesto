@@ -34,7 +34,7 @@ Vào link MediaFire dưới đây và chỉ cần tải tập tin có tên **ah3
 2. Vào "Domains"> "Providers", thêm hostsVN-dạng-domain theo link sau:
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 3. Vào "Domains"> "Blacklist", tạo thêm các rule sau:
-`com.android.chrome|*|53`
+ Trình duyệt Chrome: `com.android.chrome|*|53`
 **Lưu ý cho Note 9 và/hoặc Pie**: thêm `com.sec.android.app.sbrowser|*|53`
 4. Về "Home", gạt để kích hoạt "Domain rules" và "Firewall rules".
 5. 
@@ -55,5 +55,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTczMTk2OV19
+eyJoaXN0b3J5IjpbLTE4NTA2MDk1MTRdfQ==
 -->
