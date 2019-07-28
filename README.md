@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Tuyên ngôn Chặn Quảng Cáo
+
+
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
 
 You can use the [editor on GitHub](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -37,5 +39,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mzg2NDgyMl19
+eyJoaXN0b3J5IjpbLTg5MDM3MjQ4MSwtNzczODY0ODIyXX0=
 -->
