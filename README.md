@@ -93,6 +93,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 *Ngoại trừ 2 app trên, còn lại tất cả app ở dưới đều chạy dạng VPN nội bộ*
 
 3. Adguard (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ cả cách DNS
+4. 4
 
 
 
@@ -135,9 +136,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NT
-gyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0
-LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMz
-UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
-OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbMTE1NzEzNDgzMiwxMjAxMTA2NDQ4LDIwMD
+EwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtODIxNDc5MTk1
+LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5MjI2LDE2ND
+kzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMwNDIsNjY3NTE0NTks
+ODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mzg2NDgyMl19
 -->
