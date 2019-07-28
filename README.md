@@ -98,7 +98,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 4. AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa
 
-5. Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, không hỗ trợ HTTPS
+5. Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS
 
 6. Disconnect Pro (Trả phí): ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN".
 
@@ -153,10 +153,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTE2NzM1MSwtNTQ1Mjg0MjY5LDcxNT
-cyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2NDQ4LDIwMDEwMTIw
-MSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtODIxNDc5MTk1LC03OT
-gyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5MjI2LDE2NDkzMzY5
-MzMsNDMzNTI0NzgyLDE1MTUwODMwNDIsNjY3NTE0NTksODc0Nj
-IwMzMwLC05NTg2NDU5NDIsLTc3Mzg2NDgyMl19
+eyJoaXN0b3J5IjpbLTE4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MT
+U3MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEy
+MDEsODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNz
+k4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2
+OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3ND
+YyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
