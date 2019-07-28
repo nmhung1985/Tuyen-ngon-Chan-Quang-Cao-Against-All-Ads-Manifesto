@@ -99,7 +99,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 6. Blokada (Miễn phí): giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, không hỗ trợ HTTPS
 7. YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
-
+8. Brave Browser: 
 
 ### iOS
 Đều là dạng chạy giả lập VPN
@@ -144,10 +144,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzU2ODI5NSwtMTQ0Nzc2ODE1OCwxMj
-AxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcx
-OCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMT
-A5NTc5MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMw
-NDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mz
-g2NDgyMl19
+eyJoaXN0b3J5IjpbNzE1NzI0MDY3LC0xNDQ3NzY4MTU4LDEyMD
+ExMDY0NDgsMjAwMTAxMjAxLDgyNjU4MjkyLC0xMjg4NjMzNzE4
+LC04MjE0NzkxOTUsLTc5ODI3OTk5NCwtNDU4NDg1Mzk1LC0xMD
+k1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3ODIsMTUxNTA4MzA0
+Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0MiwtNzczOD
+Y0ODIyXX0=
 -->
