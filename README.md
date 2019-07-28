@@ -33,9 +33,11 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 - áp dụng nguyên lý 1.1
 
 2.3. VPN:
-- chạy một VPN giả lập nội bộ để đọc và xử lý các truy xuất
+- chạy một VPN giả lập nội bộ để đọc các kết nối và đưa ra quyết định chặn hay không
 - phổ biến trên điện thoại
-- thường áp dụng nguyên lý 1.1 (ngoại lệ cũng sẽ liệt kê sau)
+- thường áp dụng nguyên lý 1.1 (có ngoại lệ)
+
+2.4. Tiện ích 
 
 3. Cấp 3, phân loại theo độ phủ:
 
@@ -114,7 +116,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE5Nzg0OTgsLTEwOTU3OTIyNiwxNj
-Q5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5
-LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbNDU2NDczNjc4LC0xMDk1NzkyMjYsMTY0OT
+MzNjkzMyw0MzM1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4
+NzQ2MjAzMzAsLTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
 -->
