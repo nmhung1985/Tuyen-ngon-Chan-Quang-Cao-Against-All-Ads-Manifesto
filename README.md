@@ -15,7 +15,9 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 ## Phương thức chặn quảng cáo
 1. Ở cấp cơ sở nhất mang tính nguyên lý, mà ta tạm gọi là cấp 1, có 2 phương thức:
+
 1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn: đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube.
+
 1.2. Hệ thống của bạn vẫn tải dữ liệu từ các tên miền quảng cáo, nhưng sẽ không hiển thị cho bạn thấy: băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube.
 
 Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
@@ -25,7 +27,7 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 2.1. Cấp độ Mạng Nội Bộ (Network): 
 - chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense v.v...).
 - toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
-- chủ yếu áp dụng nguyên lý 1.1 (ngoại trừ cách cài kiểu pfSense)
+- chủ yếu áp dụng nguyên lý 1.1 (ngoại trừ cách hệ thống kiểu pfSense)
 
 2.2. Cấp độ Thiết bị: 
 - thiết lập trên từng thiết bị muốn chặn quảng cáo
@@ -87,7 +89,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY5MDI5MTUsMTY0OTMzNjkzMyw0Mz
-M1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAs
-LTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbMTgyMjk0NjQ3NiwxNjQ5MzM2OTMzLDQzMz
+UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
+OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
