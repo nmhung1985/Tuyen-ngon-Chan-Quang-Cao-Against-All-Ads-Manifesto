@@ -97,10 +97,10 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 5. AdClear (Miễn phí): giả lập VPN, DNS, hỗ trợ HTTPS
 
-6. Blokada (Miễn phí): giả lập VPN, có kết nối VPN thật (cần trả phí), DNS, không hỗ trợ HTTPS
+6. Blokada (Miễn phí): giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, không hỗ trợ HTTPS
 
-
-
+### iOS
+1. Quantu
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
 
@@ -140,10 +140,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDEwODkyNTQsLTE0NDc3NjgxNTgsMT
-IwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2MzM3
-MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLT
-EwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgz
-MDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03Nz
-M4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbMTY0OTY2Nzg3MCwtMTQ0Nzc2ODE1OCwxMj
+AxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcx
+OCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMT
+A5NTc5MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMw
+NDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mz
+g2NDgyMl19
 -->
