@@ -21,7 +21,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
 2. Phân loại theo độ phủ:
-2.1. Thiết lập chặn cho toàn bộ hệ thống tại một địa điể
+2.1. Thiết lập chặn cho toàn bộ hệ thống mạng tại nhà (tạm gọi là cấp độ Router): 
 
 |[Android](#android)  |[iOS](#ios)|[Máy tính](#máy-tính)|
 |:-:|:-:|:-:|
@@ -72,7 +72,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjU4MDM5NiwxNjQ5MzM2OTMzLDQzMz
-UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
-OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbNzkxNTI4OTQ2LDE2NDkzMzY5MzMsNDMzNT
+I0NzgyLDE1MTUwODMwNDIsNjY3NTE0NTksODc0NjIwMzMwLC05
+NTg2NDU5NDIsLTc3Mzg2NDgyMl19
 -->
