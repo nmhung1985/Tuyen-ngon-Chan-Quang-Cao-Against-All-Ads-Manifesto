@@ -63,7 +63,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 3.1 HostsVN của BigDargon
 3.2 ABPVN của Nhóm ABPVN
 
-## Hướng dẫn
+## Hướng dẫn tổng quan
 
 |[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac)](#máy-tính)|[Android](#android)  |[iOS](#ios)|
 |:-:|:-:|:-:|:-:|
@@ -124,8 +124,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzE0ODYzMzAsLTc5ODI3OTk5NCwtND
-U4NDg1Mzk1LC0xMDk1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3
-ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1OD
-Y0NTk0MiwtNzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbMjAyMjYxODI4NywtNzk4Mjc5OTk0LC00NT
+g0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4
+MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4Nj
+Q1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
