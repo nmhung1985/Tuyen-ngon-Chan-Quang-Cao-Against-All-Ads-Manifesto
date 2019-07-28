@@ -69,13 +69,14 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 
 ## Hướng dẫn tổng quan
 
-Các chương trình, phần mềm, ứng dụng được liệt kê theo thứ tự tốt nhất và miễn phí. Tuy nhiên nếu phần mềm trả phí quá vượt trội thì vẫn sẽ được liệt kê trước.
+Các chương trình, phần mềm, ứng dụng được liệt kê theo thứ tự tốt nhất và miễn phí. Tuy nhiên nếu ứng dụng trả phí quá vượt trội thì vẫn sẽ được liệt kê trước.
 
 |[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac)](#máy-tính)|[Android](#android)  |[iOS](#ios)|
 |:-:|:-:|:-:|:-:|
 
 ### Mạng nội bộ
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là tay chuyên và không cần đọc bài viết này. Do đó, phần này sẽ không có nhiều thông tin.
+
 Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá dễ cho người có kiến thức máy tính trung bình. Mời bạn xem ở đây.
 
 ### Máy tính
@@ -153,11 +154,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYyNjA3NDgsLTE4MjI3MTQ3NjUsLT
-U0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEw
-NjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2MzM3MTgsLT
-gyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3
-OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLD
-Y2NzUxNDU5LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4
-MjJdfQ==
+eyJoaXN0b3J5IjpbLTY5NTE1MTc3NCwtMTgyMjcxNDc2NSwtNT
+Q1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2
+NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtOD
+IxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5
+MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMwNDIsNj
+Y3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mzg2NDgy
+Ml19
 -->
