@@ -89,17 +89,17 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 1. Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**. Chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức)
 
 2. AdAway (**Root**, miễn phí): chặn dạng hosts.
-3. Disconnect Pro (Trả phí): ứng dụng duy nhất được Samsung chính thức cho phép kết nối với Knox. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN".
-
-*Ngoại trừ 3 app trên, còn lại tất cả app ở dưới đều chạy dạng VPN nội bộ*
+3. Disconnect Pro (Trả phí): ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN".
 
 4. Adguard (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ cả cách DNS
 
 5. AdClear (Miễn phí): giả lập VPN, DNS, hỗ trợ HTTPS
 
 6. Blokada (Miễn phí): giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, không hỗ trợ HTTPS
-7. YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
-8. Brave Browser: 
+7. 
+8. YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
+9. 
+10. Brave Browser: 
 
 ### iOS
 Đều là dạng chạy giả lập VPN
@@ -144,10 +144,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NzI0MDY3LC0xNDQ3NzY4MTU4LDEyMD
-ExMDY0NDgsMjAwMTAxMjAxLDgyNjU4MjkyLC0xMjg4NjMzNzE4
-LC04MjE0NzkxOTUsLTc5ODI3OTk5NCwtNDU4NDg1Mzk1LC0xMD
-k1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3ODIsMTUxNTA4MzA0
-Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0MiwtNzczOD
-Y0ODIyXX0=
+eyJoaXN0b3J5IjpbLTEyMTA0MTEwMzUsNzE1NzI0MDY3LC0xND
+Q3NzY4MTU4LDEyMDExMDY0NDgsMjAwMTAxMjAxLDgyNjU4Mjky
+LC0xMjg4NjMzNzE4LC04MjE0NzkxOTUsLTc5ODI3OTk5NCwtND
+U4NDg1Mzk1LC0xMDk1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3
+ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1OD
+Y0NTk0MiwtNzczODY0ODIyXX0=
 -->
