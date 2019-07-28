@@ -22,11 +22,11 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-2. Cấp 2, tạm phân loại theo phương thức:
+2. Cấp 2, phân loại theo phương thức:
 
-2.1.
+2.1. 
 
-3. Phân loại theo độ phủ:
+3. Cấp 3, phân loại theo độ phủ:
 
 3.1. Cấp độ Mạng Nội Bộ (Network): 
 - chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense v.v...).
@@ -103,7 +103,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjQ2MTcwNywxNjQ5MzM2OTMzLDQzMz
+eyJoaXN0b3J5IjpbMjA5OTMyNjUzMCwxNjQ5MzM2OTMzLDQzMz
 UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
 OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
