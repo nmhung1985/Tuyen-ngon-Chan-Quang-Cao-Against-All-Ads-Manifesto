@@ -10,6 +10,8 @@ Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các h�
 
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải các thông tin rác rưởi và độc hại.
 
+## Phương thức chặn quảng cáo
+
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
 
 You can use the [editor on GitHub](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -48,6 +50,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MTI2OTkyLDg3NDYyMDMzMCwtOTU4Nj
-Q1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbNjY3NTE0NTksODc0NjIwMzMwLC05NTg2ND
+U5NDIsLTc3Mzg2NDgyMl19
 -->
