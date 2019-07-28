@@ -30,7 +30,10 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 2.2. Cấp độ Thiết bị: 
 - thiết lập trên từng thiết bị muốn chặn quảng cáo
 - toàn bộ các phần mềm, ứng dụng trên thiết bị đó sẽ được chặn quảng cáo
-- chủ yếu áp dụng nguyên lý 1.1 (tất nh
+- chủ yếu áp dụng nguyên lý 1.1 (tất nhiên cũng có ngoại lệ sẽ đề cập ở dưới)
+
+2.3. Cấp độ Trình duyệt:
+- chỉ hoạt động trên trình duyệt được thiết lập
 
 
 
@@ -83,7 +86,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjI4MDUyNywxNjQ5MzM2OTMzLDQzMz
+eyJoaXN0b3J5IjpbLTM3ODQxNDMwMSwxNjQ5MzM2OTMzLDQzMz
 UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
 OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
