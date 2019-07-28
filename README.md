@@ -1,6 +1,6 @@
 # Tuyên ngôn Chặn Quảng Cáo
 # Contents
-- [Dành cho Android](#dành-cho-android)
+- [Dành cho Android](#mht)
 
 Có nhiều phương thức chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để giúp bạn chọn phương thức và ứng dụng tốt nhất cho mình.
 
@@ -22,7 +22,10 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-### Dành cho Android
+### Dành cho Android {#mht}
+
+
+
 
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
@@ -63,7 +66,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MTcxMzU3OCw0MzM1MjQ3ODIsMTUxNT
-A4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0Miwt
-NzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbLTE4NzU3NzI2ODYsNDMzNTI0NzgyLDE1MT
+UwODMwNDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIs
+LTc3Mzg2NDgyMl19
 -->
