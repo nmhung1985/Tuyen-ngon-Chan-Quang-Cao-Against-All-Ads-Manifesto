@@ -1,5 +1,6 @@
 # Tuyên ngôn Chặn Quảng Cáo
-
+Tổng hợp các phương pháp chặn quảng cáo
+Nếu trên
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
 
@@ -39,5 +40,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MDM3MjQ4MSwtNzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbNjAzNTc3NDUzLC03NzM4NjQ4MjJdfQ==
 -->
