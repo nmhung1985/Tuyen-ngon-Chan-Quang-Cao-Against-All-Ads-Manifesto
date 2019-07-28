@@ -14,7 +14,7 @@ Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các h�
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải hoặc thể hiện các thông tin rác rưởi và độc hại.
 
 ## Cấp độ chặn quảng cáo
-#### 1. Cấp 1, mà ta tạm coi là "nguyên lý", "tiên đề" có 2 phương thức:
+#### 1. Cấp 1 (tạm coi là "nguyên lý", "tiên đề"), gồm có 2 phương thức:
 
 1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn (lọc mạng - network filter): đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube.
 
@@ -153,10 +153,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MT
-U3MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEy
-MDEsODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNz
-k4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2
-OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3ND
-YyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbNDAyNDkzNTMsLTE4MjI3MTQ3NjUsLTU0NT
+I4NDI2OSw3MTU3MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEwNjQ0
+OCwyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMT
+Q3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3OTIy
+NiwxNjQ5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgzMDQyLDY2Nz
+UxNDU5LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03NzM4NjQ4MjJd
+fQ==
 -->
