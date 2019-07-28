@@ -98,7 +98,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 6. Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, không hỗ trợ HTTPS
 7. YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
 8. Brave Browser: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
-9. Firefox cho Android: do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như
+9. Firefox cho Android: do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
 
 ### iOS
 Đều là dạng chạy giả lập VPN
@@ -143,7 +143,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODMwNTkxNyw3MTU3MjQwNjcsLTE0ND
+eyJoaXN0b3J5IjpbLTQyMTE1MTEyNiw3MTU3MjQwNjcsLTE0ND
 c3NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIs
 LTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NT
 g0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4
