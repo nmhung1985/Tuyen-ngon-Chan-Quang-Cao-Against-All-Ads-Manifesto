@@ -86,18 +86,18 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 
 ### Android
-1. Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**. Chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung. Không hỗ
+1. Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**. Chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức)
 
 2. Adaway (**Root**, miễn phí): chặn dạng hosts.
-3. Disconnect Pro (Trả phí): ứng dụng duy nhất được Samsung chính thức cho phép kết nối với Knox.
+3. Disconnect Pro (Trả phí): ứng dụng duy nhất được Samsung chính thức cho phép kết nối với Knox. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN".
 
-*Ngoại trừ 2 app trên, còn lại tất cả app ở dưới đều chạy dạng VPN nội bộ*
+*Ngoại trừ 3 app trên, còn lại tất cả app ở dưới đều chạy dạng VPN nội bộ*
 
-3. Adguard (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ cả cách DNS
+4. Adguard (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ cả cách DNS
 
-4. AdClear (Miễn phí): giả lập VPN, DNS, hỗ trợ HTTPS
+5. AdClear (Miễn phí): giả lập VPN, DNS, hỗ trợ HTTPS
 
-5. Blokada (
+6. Blokada (Miễn phí): 
 
 
 
@@ -140,10 +140,10 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDQyMjc1OSwtMTQ0Nzc2ODE1OCwxMj
-AxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcx
-OCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMT
-A5NTc5MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMw
-NDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mz
-g2NDgyMl19
+eyJoaXN0b3J5IjpbLTEyODE3ODc5NTIsLTE0NDc3NjgxNTgsMT
+IwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2MzM3
+MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLT
+EwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4MiwxNTE1MDgz
+MDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4NjQ1OTQyLC03Nz
+M4NjQ4MjJdfQ==
 -->
