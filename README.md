@@ -39,6 +39,11 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 - thường áp dụng được cả 2 nguyên lý
 
 ## Hướng dẫn
+|[Mạng nội bộ](#mạng-nội|[Máy tính](#máy-tính)|[Android](#android)  |[iOS](#ios)|[Máy tính](#máy-tính)|
+|:-:|:-:|:-:|:-:|
+
+
+#
 
 |[Android](#android)  |[iOS](#ios)|[Máy tính](#máy-tính)|
 |:-:|:-:|:-:|
@@ -89,7 +94,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk4NzQ0NTMsMTY0OTMzNjkzMyw0Mz
+eyJoaXN0b3J5IjpbLTExMzg2MDM1MjksMTY0OTMzNjkzMyw0Mz
 M1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAs
 LTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
 -->
