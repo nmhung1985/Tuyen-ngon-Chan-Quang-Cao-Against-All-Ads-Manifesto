@@ -91,7 +91,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 
 ### Android
-- Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức)
+- Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
 
 - AdAway (**Root**): chặn dạng hosts
 
@@ -154,11 +154,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzkwMDM1MywtMTgyMjcxNDc2NSwtNT
-Q1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2
-NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtOD
-IxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5
-MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLDE1MTUwODMwNDIsNj
-Y3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5NDIsLTc3Mzg2NDgy
-Ml19
+eyJoaXN0b3J5IjpbLTE4MDcyNDkzMDcsMTE5NzkwMDM1MywtMT
+gyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2
+ODE1OCwxMjAxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMT
+I4ODYzMzcxOCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4
+NTM5NSwtMTA5NTc5MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLD
+E1MTUwODMwNDIsNjY3NTE0NTksODc0NjIwMzMwLC05NTg2NDU5
+NDJdfQ==
 -->
