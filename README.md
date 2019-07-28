@@ -23,7 +23,8 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 2. Phân loại theo độ phủ:
 2.1. Cấp độ Mạng Nội Bộ (Network): 
 - chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense v.v...).
-- toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này 
+- toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
+- chủ yếu áp dụng nguyên lý 1.1 (ngoại trừ cách cài kiểu pfSense)
 2.2. Cấp độ Thiết bị: 
 
 |[Android](#android)  |[iOS](#ios)|[Máy tính](#máy-tính)|
@@ -75,7 +76,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzIxMzQzNiwxNjQ5MzM2OTMzLDQzMz
-UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
-OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbLTE5MTU3ODg1MjEsMTY0OTMzNjkzMyw0Mz
+M1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAs
+LTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
 -->
