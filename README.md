@@ -3,7 +3,8 @@ Có nhiều phương thức chặn quảng cáo, bài viết này sẽ cố gắ
 
 ## Tại sao cần chặn quảng cáo
 Bạn chắc hẳn đã trải qua cảm giác mất hứng khi đang xem phim đến đoạn hay trên TV thì nhà đài cho dừng một lúc để quảng cáo? Cũng như xem YouTube được một chút thì gặp video quảng cáo cả vài phút?
-Bạn có biết lưu lượng thông tin của các hệ thống quảng cáo
+
+Bạn có biết lưu lượng thông tin của các hệ thống quảng cáo thông thường chiếm 
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
 
@@ -43,6 +44,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MzU3MjUyLC05NTg2NDU5NDIsLTc3Mz
-g2NDgyMl19
+eyJoaXN0b3J5IjpbLTEwNDgxMjUyMTEsLTk1ODY0NTk0MiwtNz
+czODY0ODIyXX0=
 -->
