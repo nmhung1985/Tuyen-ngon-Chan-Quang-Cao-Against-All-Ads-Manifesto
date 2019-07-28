@@ -8,9 +8,12 @@ Bạn có biết gói data 4G của bạn bị hết dung lượng sớm vì b�
 
 Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các hệ thống hay thiết bị kết nối mạng của bạn, vừa làm tốn dung lượng vừa khiến thông tin bạn cần bị tải chậm hơn.
 
-Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải các thông tin rác rưởi và độc hại.
+Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải hoặc thể hiện các thông tin rác rưởi và độc hại.
 
 ## Phương thức chặn quảng cáo
+Có 2 phương thức chính:
+1. 
+
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
 
@@ -50,6 +53,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NTE0NTksODc0NjIwMzMwLC05NTg2ND
-U5NDIsLTc3Mzg2NDgyMl19
+eyJoaXN0b3J5IjpbLTEwNTk4ODM2Niw2Njc1MTQ1OSw4NzQ2Mj
+AzMzAsLTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
 -->
