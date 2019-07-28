@@ -13,7 +13,7 @@ Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các h�
 
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải hoặc thể hiện các thông tin rác rưởi và độc hại.
 
-## Phương thức chặn quảng cáo
+## Phương thức & chặn quảng cáo
 1. Ở cấp cơ sở nhất mang tính nguyên lý, mà ta tạm gọi là cấp 1, có 2 phương thức:
 
 1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn: đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube.
@@ -99,7 +99,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MTI4MzA2NywxNjQ5MzM2OTMzLDQzMz
-UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
-OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbNzQ2ODA0MjI1LDE2NDkzMzY5MzMsNDMzNT
+I0NzgyLDE1MTUwODMwNDIsNjY3NTE0NTksODc0NjIwMzMwLC05
+NTg2NDU5NDIsLTc3Mzg2NDgyMl19
 -->
