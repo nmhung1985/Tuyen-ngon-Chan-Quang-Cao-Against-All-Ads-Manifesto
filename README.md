@@ -33,7 +33,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 2.3. VPN:
 - chạy một VPN giả lập nội bộ để can thiệp thông tin lưu lượng mạng
-- có thể hỗ trợ thêm 2 tính năng trên với khác biệt là:
+- có thể hỗ trợ thêm 2 tính năng trên với đặc điểm: ứng dụng tự xử lý chứ hệ thống không xử lý
 - phổ biến trên điện thoại
 - thường áp dụng nguyên lý 1.1 (có ngoại lệ)
 
@@ -155,11 +155,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA2MTcyMDEsMTU0Njc2MTkyMSwxMD
-E4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3
-MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3NjgxNT
-gsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2
-MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUzOT
-UsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4MiwxNTE1
-MDgzMDQyXX0=
+eyJoaXN0b3J5IjpbMTE5NzMwNzg3MSwxNTQ2NzYxOTIxLDEwMT
+gxMTY2MDQsLTE4MDcyNDkzMDcsMTE5NzkwMDM1MywtMTgyMjcx
+NDc2NSwtNTQ1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OC
+wxMjAxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYz
+MzcxOCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NS
+wtMTA5NTc5MjI2LDE2NDkzMzY5MzMsNDMzNTI0NzgyLDE1MTUw
+ODMwNDJdfQ==
 -->
