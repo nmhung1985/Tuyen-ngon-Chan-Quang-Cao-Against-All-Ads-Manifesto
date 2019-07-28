@@ -24,7 +24,7 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 
 2. Cấp 2, phân loại theo phương thức:
 
-2.1. Hosts/Tường lửa: thông tin chặn được ghi trực tiếp vào hệ thống nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, Knox trên điện thoại Samsung)
+2.1. Hosts/Tường lửa: thông tin chặn quảng cáo được ghi trực tiếp vào hệ thống nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, đa ứng dụng Knox trên điện thoại Samsung)
 
 3. Cấp 3, phân loại theo độ phủ:
 
@@ -103,7 +103,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMTYzMTQ5NywxNjQ5MzM2OTMzLDQzMz
-UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
-OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyNDk3OTA2OTYsMTY0OTMzNjkzMyw0Mz
+M1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAs
+LTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
 -->
