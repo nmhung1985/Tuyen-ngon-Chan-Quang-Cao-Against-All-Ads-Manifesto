@@ -5,8 +5,8 @@ ___________________
 ### Adhell3 - App chặn quảng cáo hiệu quả nhất cho riêng dòng máy Samsung
 Riêng đối với Samsung, hãng này có tích hợp module Knox trong các dòng máy của họ để thực hiện các tính năng bảo mật đặc biệt độc quyền, trong đó có tính năng tường lửa. Tận dụng module này, các nhà phát triển đã viết app Adhell3 để hỗ trợ chặn quảng cáo trên máy Samsung với các ưu điểm sau:
 - **KHÔNG CẦN** root 
--  **KHÔNG** chạy nền, **KHÔNG** làm tốn pin như cách chặn dạng tạo VPN giả lập
-- **KHÔNG** bị chậm như cách chặn bằng DNS (như trên Android Pie)
+-  **KHÔNG** chạy nền, **KHÔNG** làm tốn pin như cách chặn dạng tạo VPN giả lập nội bộ
+- **KHÔNG** bị chậm như cách chặn dạng DNS
 - cực kỳ nhanh và hiệu quả do mọi thứ được chính module tường lửa chính hãng xử lý
 - có thêm tính năng vô hiệu hóa thành phần của app (vd một số app đòi nhiều quyền truy cập danh bạ, hình ảnh không cần thiết)
 - có thêm tính năng vô hiệu hóa các app ít dùng
@@ -55,5 +55,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5MzczODkzXX0=
+eyJoaXN0b3J5IjpbLTUxOTk1MjU2XX0=
 -->
