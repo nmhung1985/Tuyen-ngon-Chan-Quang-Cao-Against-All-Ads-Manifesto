@@ -55,6 +55,10 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 Từ các cách phân loại này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
+## Vậy chặn như thế nào?
+Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dung kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
+1. Chương trình, phần mềm là để xử lý.
+
 ## Hướng dẫn
 
 |[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac/Linux)](#máy-tính)|[Android](#android)  |[iOS](#ios)|
@@ -116,8 +120,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODI3OTk5NCwtNDU4NDg1Mzk1LC0xMD
-k1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3ODIsMTUxNTA4MzA0
-Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0MiwtNzczOD
-Y0ODIyXX0=
+eyJoaXN0b3J5IjpbMTIwMjQ0MDY5MywtNzk4Mjc5OTk0LC00NT
+g0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4
+MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4Nj
+Q1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
