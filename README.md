@@ -29,7 +29,7 @@ Từ 2 phương thức cơ sở này, ngoài việc các chương trình và ứ
 - áp dụng nguyên lý 1.1
 
 2.2. DNS:
-- f
+- thiết lập hệ thống hoặc thiết bị dùng DNS
 
 3. Cấp 3, phân loại theo độ phủ:
 
@@ -108,7 +108,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjA4MTMxNywxNjQ5MzM2OTMzLDQzMz
-UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
-OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjI1OTE4MjIsMTY0OTMzNjkzMyw0Mz
+M1MjQ3ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAs
+LTk1ODY0NTk0MiwtNzczODY0ODIyXX0=
 -->
