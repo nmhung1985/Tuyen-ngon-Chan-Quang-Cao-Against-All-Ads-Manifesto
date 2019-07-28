@@ -81,6 +81,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 2. Tiện ích cho trình duyệt: Cách tốt nhất không bị quảng cáo YouTube trên máy tính.
 - uBlock Origin: tiện ích phổ biến nhất, nhưng lời khuyên là nên dùng 2 tiện ích ở dưới
 - Nano Adblocker & Nano Defender: Nano Adblocker là bản fork của uBlock Origin với một số tối ưu, nên dùng kết hợp Nano Defender để tránh bị các trang web nhận diện là đang dùng trình chặn quảng cáo.
+- Loại này có rất nhiều: điển hình là ngay cả Adguard nhắc ở trên cũng có phiên bản riêng, Adblock Plus,
 
 
 ### Android
@@ -127,9 +128,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTAxMjAxLDgyNjU4MjkyLC0xMjg4Nj
-MzNzE4LC04MjE0NzkxOTUsLTc5ODI3OTk5NCwtNDU4NDg1Mzk1
-LC0xMDk1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3ODIsMTUxNT
-A4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1ODY0NTk0Miwt
-NzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbMTExOTExNjg1NiwyMDAxMDEyMDEsODI2NT
+gyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0
+LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMz
+UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
+OTU4NjQ1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
