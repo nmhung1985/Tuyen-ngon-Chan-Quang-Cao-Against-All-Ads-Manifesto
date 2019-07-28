@@ -91,25 +91,25 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 
 ### Android
-1. Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**. Chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức)
+- Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức)
 
-2. AdAway (**Root**): chặn dạng hosts.
+- AdAway (**Root**): chặn dạng hosts
 
-3. Adguard (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ cả cách DNS
+- Adguard (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ cả cách DNS
 
-4. AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa
+- AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa
 
-5. Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS
+- Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS
 
-6. Disconnect Pro (Trả phí): ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN".
+- Disconnect Pro (Trả phí): ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN".
 
 *Ba ứng dụng đặc biệt*
 
-7. YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
+- YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
 
-8. Brave Browser: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
+- Brave Browser: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
 
-9. Firefox cho Android: do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
+- Firefox cho Android: do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
 
 ### iOS
 Đều là dạng chạy giả lập VPN
@@ -154,7 +154,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTE1MTc3NCwtMTgyMjcxNDc2NSwtNT
+eyJoaXN0b3J5IjpbMTgxMjcxMDI0NCwtMTgyMjcxNDc2NSwtNT
 Q1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2
 NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtOD
 IxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5
