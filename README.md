@@ -88,7 +88,9 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 ### Android
 1. Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**. Chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung.
 
-2. Adguard (Trả phí): 
+2. Adaway (**Root**, miễn phí): chặn dạng hosts.
+
+3. Adguard (Trả phí): 
 
 
 
@@ -131,7 +133,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODE3NzQ4OSwyMDAxMDEyMDEsODI2NT
+eyJoaXN0b3J5IjpbLTU1MzgxMjUwOSwyMDAxMDEyMDEsODI2NT
 gyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0
 LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMz
 UyNDc4MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwt
