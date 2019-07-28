@@ -60,8 +60,8 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 1. Chương trình, phần mềm là để xử lý.
 2. Ngoài ra còn bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do phần mềm là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Do đó, bạn lưu ý 2 bộ lọc dành cho Việt Nam mà sẽ được nhắc đến xuyên suốt bài viết này:
-3.1 HostsVN (tác giả BigDargon)
-3.2 ABPVN (tác gi
+3.1 HostsVN của BigDargon
+3.2 ABPVN của Nhóm ABPVN
 
 ## Hướng dẫn
 
@@ -124,8 +124,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU2NzY2MjAsLTc5ODI3OTk5NCwtND
-U4NDg1Mzk1LC0xMDk1NzkyMjYsMTY0OTMzNjkzMyw0MzM1MjQ3
-ODIsMTUxNTA4MzA0Miw2Njc1MTQ1OSw4NzQ2MjAzMzAsLTk1OD
-Y0NTk0MiwtNzczODY0ODIyXX0=
+eyJoaXN0b3J5IjpbMTY5NDM0OTY0MywtNzk4Mjc5OTk0LC00NT
+g0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5MzM2OTMzLDQzMzUyNDc4
+MiwxNTE1MDgzMDQyLDY2NzUxNDU5LDg3NDYyMDMzMCwtOTU4Nj
+Q1OTQyLC03NzM4NjQ4MjJdfQ==
 -->
