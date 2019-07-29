@@ -20,7 +20,7 @@ Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm
 - làm tốn pin do dữ liệu luôn được tải ngầm
 - gây ảnh hưởng tới việc bạn tận hưởng các nội dung thú vị.
 
-Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta sẽ gọi chung là "Chặn Quảng Cáo" (CQC), hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
+Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta sẽ gọi chung là **Chặn Quảng Cáo (CQC)**, hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
 ## Cấp độ chặn quảng cáo
 #### 1. Cấp 1 (tạm coi là "nguyên lý", "tiên đề"):
@@ -171,11 +171,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MjU1MjQ2LC03MTYxNDAzNDksLTU0Mj
-E1NDE0LC0yMTAwNjg3ODQyLDMzMjMzMTM5OCwtMTEzOTU0OTQ0
-OSwtNDk2NDAxOTUsLTEzMjQ0MTExNDQsLTYyMDExMjI2MywxNj
-A3NDQyNzkzLDkzMDg0OTEwLC0yMTQ0OTQ2NDA3LDE5MTcyNzYy
-NTksMTE5NzMwNzg3MSwxNTQ2NzYxOTIxLDEwMTgxMTY2MDQsLT
-E4MDcyNDkzMDcsMTE5NzkwMDM1MywtMTgyMjcxNDc2NSwtNTQ1
-Mjg0MjY5XX0=
+eyJoaXN0b3J5IjpbLTQwNzYyOTIyMiwtNzE2MTQwMzQ5LC01ND
+IxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgsLTExMzk1NDk0
+NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02MjAxMTIyNjMsMT
+YwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQwNywxOTE3Mjc2
+MjU5LDExOTczMDc4NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC
+0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3MTQ3NjUsLTU0
+NTI4NDI2OV19
 -->
