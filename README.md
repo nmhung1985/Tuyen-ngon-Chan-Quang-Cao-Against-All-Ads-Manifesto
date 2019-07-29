@@ -89,7 +89,7 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 
 Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là **ứng dụng**) trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-Do đó, ở phần sau bài viết sẽ có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống. Nếu ứng dụng nào có hướng dẫn chi tiết, chúng tôi sẽ để gắn link kèm theo.
+Do đó, để giúp bạn có cơ sở lựa chọn, ở phần sau bài viết sẽ có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống. Nếu ứng dụng nào có hướng dẫn chi tiết sẽ đươc gắn link kèm theo.
 
 ## Vậy chặn như thế nào?
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
@@ -154,11 +154,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc5MzU4NzksLTIxMjcyNzA4MzMsMT
-Q0Mzk5OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcw
-NDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNz
-YyMTc1NzUyLDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEw
-NzU3LDgyMzk0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNj
-E0MDM0OSwtNTQyMTU0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4
-XX0=
+eyJoaXN0b3J5IjpbMTU3NTg3MDM2OCwtMjEyNzI3MDgzMywxND
+QzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0
+NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3Nj
+IxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3
+NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MT
+QwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOThd
+fQ==
 -->
