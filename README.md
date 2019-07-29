@@ -157,12 +157,13 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
 ### DNS
+Như đã giới thiệu ngắn gọn ở các phần trước, DNS là cách
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMzM0ODY0OCwtMTE4NzE5ODUyNywxND
-M3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0
-OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC
-0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5MDE2NjQsMjU1
-NjY2NzIyLC05MzcwMDcyNTAsOTgzMzc0MjQsLTc4ODc3MjgzMS
-wxMzE4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0
-Mzk5OTU1N119
+eyJoaXN0b3J5IjpbLTEwNDg1MzQxNzgsLTExODcxOTg1MjcsMT
+QzNzc5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwtNjA3Njkw
+NDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NS
+wtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1
+NTY2NjcyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4Mz
+EsMTMxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0
+NDM5OTk1NTddfQ==
 -->
