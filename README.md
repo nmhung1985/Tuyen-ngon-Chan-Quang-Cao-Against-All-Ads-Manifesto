@@ -13,6 +13,8 @@ Trên thế giới Internet, hẳn thi thoảng bạn xem YouTube được một
 
 Bạn có biết gói data 4G của bạn bị hết dung lượng sớm vì bị quảng cáo chiếm tới 80% không?
 
+Ngoài ra, bạn có biết đôi khi các trang quảng cáo còn nhúng cả mã theo dõi hoặc thậm chí là bị chèn mã độc hại (tải ngầm virus hoặc đào bitcoin)?
+
 Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các hệ thống hay thiết bị kết nối mạng của bạn, vừa làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn, vừa gây ảnh hưởng tới việc bạn tận hưởng các nội dung thú vị.
 
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải hoặc thể hiện các thông tin rác rưởi và độc hại.
@@ -166,11 +168,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjE1NDE0LC0yMTAwNjg3ODQyLDMzMj
-MzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2NDAxOTUsLTEzMjQ0MTEx
-NDQsLTYyMDExMjI2MywxNjA3NDQyNzkzLDkzMDg0OTEwLC0yMT
-Q0OTQ2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3MSwxNTQ2NzYx
-OTIxLDEwMTgxMTY2MDQsLTE4MDcyNDkzMDcsMTE5NzkwMDM1My
-wtMTgyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0
-Nzc2ODE1OF19
+eyJoaXN0b3J5IjpbMTMyNjQ3ODc5OCwtNTQyMTU0MTQsLTIxMD
+A2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5LC00OTY0MDE5
+NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYzLDE2MDc0NDI3OTMsOT
+MwODQ5MTAsLTIxNDQ5NDY0MDcsMTkxNzI3NjI1OSwxMTk3MzA3
+ODcxLDE1NDY3NjE5MjEsMTAxODExNjYwNCwtMTgwNzI0OTMwNy
+wxMTk3OTAwMzUzLC0xODIyNzE0NzY1LC01NDUyODQyNjksNzE1
+NzI0MDY3XX0=
 -->
