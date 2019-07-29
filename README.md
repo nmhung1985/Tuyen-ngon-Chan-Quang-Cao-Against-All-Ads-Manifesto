@@ -53,12 +53,12 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 - Danh sách chặn được ghi trực tiếp vào cơ sở dữ liệu nội tại của thiết bị, được chính hệ thống bảo mật nội tại chính chủ xử lý (tập tin hosts trên máy tính, Knox trên điện thoại Samsung)
 - Áp dụng nguyên lý 1
 
-1.2. DNS:
+1.2. Hệ thống phân giải tên miền (DNS):
 - Thiết lập hệ thống hoặc thiết bị để dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm lọc và chặn
 - Chưa chú trọng Việt Nam, nên người dùng Việt Nam có thể cảm thấy chậm hơn một chút
 - Áp dụng nguyên lý 1
 
-1.3. VPN:
+1.3. Mạng riêng ảo (VPN):
 - Chạy một VPN giả lập nội bộ để can thiệp thông tin lưu lượng mạng
 - Có thể hỗ trợ thêm 2 tính năng trên với đặc điểm: ứng dụng tự xử lý chứ hệ thống không xử lý
 - Có thể làm tốn pin hơn một chút (không đáng lo ngại vì hiện nay các ứng dụng đều tối ưu)
@@ -152,11 +152,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjA1MTQ4OCwtMjEyNzI3MDgzMywxND
-QzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0
-NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3Nj
-IxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3
-NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MT
-QwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOThd
-fQ==
+eyJoaXN0b3J5IjpbLTE4MzkzMjA4OTEsLTIxMjcyNzA4MzMsMT
+Q0Mzk5OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcw
+NDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNz
+YyMTc1NzUyLDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEw
+NzU3LDgyMzk0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNj
+E0MDM0OSwtNTQyMTU0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4
+XX0=
 -->
