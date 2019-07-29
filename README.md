@@ -13,7 +13,7 @@ Bạn có biết gói data 4G của bạn bị hết dung lượng sớm vì b�
 
 Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi hoặc thậm chí gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào bitcoin)?
 
-Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình 
+Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy những nội dung người lớn?
 
 Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm trung bình ít nhất khoảng 40% trên các hệ thống hay thiết bị kết nối mạng của bạn:
 - làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn
@@ -138,11 +138,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3Mjc4OTkwLDE0MzI3MTc0Nyw5NDAxMz
-YzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzNDI4ODE0NDIs
-Mzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUxLDM5MTQ5Mj
-Q0LC02MTI5MTk1MjcsLTcxNjE0MDM0OSwtNTQyMTU0MTQsLTIx
-MDA2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5LC00OTY0MD
-E5NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYzLDE2MDc0NDI3OTNd
-fQ==
+eyJoaXN0b3J5IjpbLTM3MTQ3MDQ1NywxNDMyNzE3NDcsOTQwMT
+M2MzUxLDExMzQyMjgyNjgsMTc2MjE3NTc1MiwxMzQyODgxNDQy
+LDM4NzI4OTgzNywtMTQ5MTExMDc1Nyw4MjM5NDE1MSwzOTE0OT
+I0NCwtNjEyOTE5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0LC0y
+MTAwNjg3ODQyLDMzMjMzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2ND
+AxOTUsLTEzMjQ0MTExNDQsLTYyMDExMjI2MywxNjA3NDQyNzkz
+XX0=
 -->
