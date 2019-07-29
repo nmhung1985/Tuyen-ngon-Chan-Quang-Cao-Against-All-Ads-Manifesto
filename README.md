@@ -157,14 +157,14 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): tốt nhất, tương tự như Surge, nhưng có thêm tính năng. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 
-2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên
+2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkwMTA4MjEsMTUzOTAyNDEzNywxNj
-M4MDYyNzc4LC02MDc2OTA0OTAsMjA4NzQ5MDMwMywtMTk0MDY0
-NTY5LC0xMjcyNTgwMzc1LC0xMDgyODU1NDMxLDE5ODU0NTk4Mz
-MsLTEyODM5MDE2NjQsMjU1NjY2NzIyLC05MzcwMDcyNTAsOTgz
-Mzc0MjQsLTc4ODc3MjgzMSwxMzE4MjcwOTQsLTEzODUxNTMxMj
-EsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1NywtOTYyODY3MTM0LDE1
-ODQ5NDc0MV19
+eyJoaXN0b3J5IjpbMTQzNzc5NjkyLDE1MzkwMjQxMzcsMTYzOD
+A2Mjc3OCwtNjA3NjkwNDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2
+OSwtMTI3MjU4MDM3NSwtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC
+0xMjgzOTAxNjY0LDI1NTY2NjcyMiwtOTM3MDA3MjUwLDk4MzM3
+NDI0LC03ODg3NzI4MzEsMTMxODI3MDk0LC0xMzg1MTUzMTIxLC
+0yMTI3MjcwODMzLDE0NDM5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0
+OTQ3NDFdfQ==
 -->
