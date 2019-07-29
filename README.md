@@ -162,13 +162,15 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - Hệ thống ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp, và áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số phiên bản Android (Oreo) không thay đổi được DNS nếu không root.
 - Trên Android, các ứng dụng để đổi DNS đa số cũng chạy dạng giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
 
-2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên NextDNS. Vì với Adguard DNS bạn không thể thêm hoặc chọn bộ lọc theo ý mình, trong khi NextDNS cho chọn lựa
+2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên NextDNS. Vì với Adguard DNS bạn không thể thêm hoặc chọn bộ lọc theo ý mình, trong khi NextDNS cho chọn lựa.
+
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODgwMzk0NCwtMTk5MjYyNzQ3MywtNj
-MzNDY4NDczLDEzODA3MTY0MzYsLTExODcxOTg1MjcsMTQzNzc5
-NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwtNjA3NjkwNDkwLD
-IwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMTA4
-Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2Nj
-cyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMTMx
-ODI3MDk0XX0=
+eyJoaXN0b3J5IjpbNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02Mz
+M0Njg0NzMsMTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2
+OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0OTAsMj
+A4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC0xMDgy
+ODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5MDE2NjQsMjU1NjY2Nz
+IyLC05MzcwMDcyNTAsOTgzMzc0MjQsLTc4ODc3MjgzMSwxMzE4
+MjcwOTRdfQ==
 -->
