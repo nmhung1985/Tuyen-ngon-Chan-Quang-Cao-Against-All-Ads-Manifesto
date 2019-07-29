@@ -83,7 +83,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là **ứng dụng**) trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tất nhiên ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống. Nếu ứng dụng nào có hướng dẫn chi tiết sẽ đươc gắn link kèm theo.
+Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. (Tuy nhiên, do lấy từ nhiều nguồn khác nhau nên không thể đảm bảo chất lượng đồng đều).
 
 ## Vậy chặn như thế nào?
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
@@ -148,11 +148,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNTA4NzYsLTc4ODc3MjgzMSwxMzE4Mj
-cwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1
-NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0Mz
-I3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUy
-LDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMz
-k0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OV19
-
+eyJoaXN0b3J5IjpbLTc2NTc0NTQ4NywtNzg4NzcyODMxLDEzMT
+gyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5
+NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMT
+QzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3
+NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsOD
+IzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MTQwMzQ5
+XX0=
 -->
