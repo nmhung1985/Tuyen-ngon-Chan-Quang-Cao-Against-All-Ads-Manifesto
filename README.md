@@ -132,7 +132,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 Đều là dạng chạy giả lập VPN
 1. Quantumult (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1.
 2. Surge: cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
-3. Adguard Pro (Trả phí):
+3. Adguard: trả phí khác gì miễn phí?
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
 
@@ -172,11 +172,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzA3NTcyOCwzOTE0OTI0NCwtNjEyOT
-E5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0LC0yMTAwNjg3ODQy
-LDMzMjMzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2NDAxOTUsLTEzMj
-Q0MTExNDQsLTYyMDExMjI2MywxNjA3NDQyNzkzLDkzMDg0OTEw
-LC0yMTQ0OTQ2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3MSwxNT
-Q2NzYxOTIxLDEwMTgxMTY2MDQsLTE4MDcyNDkzMDcsMTE5Nzkw
-MDM1M119
+eyJoaXN0b3J5IjpbODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOT
+UyNywtNzE2MTQwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0Miwz
+MzIzMzEzOTgsLTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMzI0ND
+ExMTQ0LC02MjAxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwt
+MjE0NDk0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Nj
+c2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAz
+NTNdfQ==
 -->
