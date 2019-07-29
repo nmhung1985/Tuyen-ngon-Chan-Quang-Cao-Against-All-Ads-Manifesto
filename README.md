@@ -25,7 +25,9 @@ Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm
 Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta sẽ gọi chung là **Chặn Quảng Cáo (CQC)**, hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
 ## 1. Nguyên lý chặn quảng cáo
-1.1.  Lọc lớp mạng (network filter): Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn : đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube, cũng như có thể làm vỡ bố cục trang web.
+1.1.  Lọc lớp mạng (network filter): 
+- Không dữ liệu quảng cáo nào có thể đi vào hệ thống
+- Cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube, cũng như có thể làm vỡ bố cục trang web.
 
 1.2. Chỉ làm nhiệm vụ ẩn quảng cáo chứ không chặn (lọc lớp giao diện - cosmetic filter): không có khả năng giảm tải băng thông, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng, **không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
 
@@ -140,11 +142,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MTg5MzY2LC05NjI4NjcxMzQsMTU4ND
-k0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwx
-MTM0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyOD
-k4MzcsLTE0OTExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYx
-MjkxOTUyNywtNzE2MTQwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nz
-g0MiwzMzIzMzEzOTgsLTExMzk1NDk0NDksLTQ5NjQwMTk1XX0=
-
+eyJoaXN0b3J5IjpbLTE4NDQxMjU4NzgsLTk2Mjg2NzEzNCwxNT
+g0OTQ3NDEsLTM3MTQ3MDQ1NywxNDMyNzE3NDcsOTQwMTM2MzUx
+LDExMzQyMjgyNjgsMTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4Nz
+I4OTgzNywtMTQ5MTExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwt
+NjEyOTE5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0LC0yMTAwNj
+g3ODQyLDMzMjMzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2NDAxOTVd
+fQ==
 -->
