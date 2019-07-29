@@ -70,7 +70,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 3. Do đó, bạn lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi hiện nay, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, v.v..., áp dụng nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Tiết lộ: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus (tên nhóm lấy từ đây), uBlock Origin, v.v... , áp dụng kết hợp 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
-- [FMSF của nmtrung](https://github.com/nmtrung/FMSF-2.0): tác giả là thành viên voz.vn nên bộ lọc được 
+- [FMSF của nmtrung](https://github.com/nmtrung/FMSF-2.0): tác giả là thành viên voz.vn nên bộ lọc khá nổi bên đó, đáng tiếc là không thấy tác giả đề xuất được đưa vào các ứng dụng nổi tiếng, 
 
 ## Hướng dẫn tổng quan
 
@@ -159,11 +159,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDUxMzE0Myw5MzA4NDkxMCwtMjE0ND
-k0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTky
-MSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLT
-E4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3
-NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLT
-EyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0
-ODUzOTVdfQ==
+eyJoaXN0b3J5IjpbLTQ1MDA5NjQzLDkzMDg0OTEwLC0yMTQ0OT
+Q2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3MSwxNTQ2NzYxOTIx
+LDEwMTgxMTY2MDQsLTE4MDcyNDkzMDcsMTE5NzkwMDM1MywtMT
+gyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2
+ODE1OCwxMjAxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMT
+I4ODYzMzcxOCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4
+NTM5NV19
 -->
