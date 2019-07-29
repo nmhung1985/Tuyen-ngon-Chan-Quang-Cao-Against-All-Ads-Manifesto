@@ -110,7 +110,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### Máy tính
 
-1. Toàn bộ máy tính: Adguard (Trả phí, Windows, Mac) là phần mềm tốt nhất, nếu có thể nói là duy nhất. Cũng đa dạng nhất hiện nay khi có gần như đầy đủ phiên bản phủ hết các cấp độ trình bày ở trên.
+1. Toàn bộ máy tính: Adguard (Trả phí, [Windows](https://adguard.com/en/adguard-windows/overview.html), [Mac](https://adguard.com/en/adguard-mac/overview.html)) là phần mềm tốt nhất, nếu có thể nói là duy nhất. Cũng đa dạng nhất hiện nay khi có gần như đầy đủ phiên bản phủ hết các cấp độ trình bày ở trên. Hướng dẫn: [1], [2], [3]
 
 2. Tiện ích cho trình duyệt: Cách tốt nhất không bị quảng cáo YouTube trên máy tính và đều miễn phí. Có rất nhiều, ví dụ Adguard vừa nói ở trên cũng có phiên bản riêng, Adblock Plus, Adblock, Adblocker v.v...
 - uBlock Origin: tiện ích phổ biến nhất, nhưng lời khuyên là nên dùng 2 tiện ích ở dưới
@@ -149,11 +149,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjAyMDk4NSwtMTA4Mjg1NTQzMSwxOT
-g1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2NjcyMiwtOTM3MDA3
-MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMTMxODI3MDk0LC0xMz
-g1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5OTk1NTcsLTk2Mjg2
-NzEzNCwxNTg0OTQ3NDEsLTM3MTQ3MDQ1NywxNDMyNzE3NDcsOT
-QwMTM2MzUxLDExMzQyMjgyNjgsMTc2MjE3NTc1MiwxMzQyODgx
-NDQyXX0=
+eyJoaXN0b3J5IjpbLTMyNzM3NDIsLTEwODI4NTU0MzEsMTk4NT
+Q1OTgzMywtMTI4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAwNzI1
+MCw5ODMzNzQyNCwtNzg4NzcyODMxLDEzMTgyNzA5NCwtMTM4NT
+E1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5NTU3LC05NjI4Njcx
+MzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LDk0MD
+EzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0
+Ml19
 -->
