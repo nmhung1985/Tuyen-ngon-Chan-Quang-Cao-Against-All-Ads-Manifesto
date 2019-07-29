@@ -97,7 +97,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 
 ## Tổng quan và sơ lược các ứng dụng nên dùng
 
-Các ứng dụng được liệt kê theo đánh giá cá nhân người viết dựa trên *cảm nhận tổng hợp* của lần lượt bốn yếu tố: dễ cài đặt và thiết lập ngay, miễn phí, tốt nhất, trả phí. Thành ra ví dụ nếu ứng dụng trả phí vượt trội thì vẫn sẽ được liệt kê trước.
+Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá nhân người viết dựa trên bốn yếu tố: dễ cài đặt và thiết lập ngay, miễn phí, tốt nhất, trả phí. Thành ra ví dụ nếu ứng dụng trả phí vượt trội thì vẫn sẽ được liệt kê trước.
 
 |[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac)](#máy-tính)|[Android](#android)  |[iOS](#ios)|
 |:-:|:-:|:-:|:-:|
@@ -148,11 +148,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjM3NTgzMywtNzg4NzcyODMxLDEzMT
-gyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5
-NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMT
-QzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3
-NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsOD
-IzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MTQwMzQ5
-XX0=
+eyJoaXN0b3J5IjpbOTgzMzc0MjQsLTc4ODc3MjgzMSwxMzE4Mj
+cwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1
+NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0Mz
+I3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUy
+LDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMz
+k0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OV19
+
 -->
