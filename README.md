@@ -68,7 +68,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 - Chương trình, phần mềm là để xử lý.
 - Ngoài ra còn cần bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do phần mềm là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 - Do đó, bạn lưu ý 2 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
-  + [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN) (Bài viết này trỏ tới nhiều bài hướng dẫn chi tiết 
+  + [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi hiện nay, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, áp dụng nguyên lý 1 (Bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN)
   + [ABPVN của Nhóm ABPVN](https://github.com/abpvn/abpvn)
 
 ## Hướng dẫn tổng quan
@@ -158,11 +158,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc2NTkyNzcsLTIxNDQ5NDY0MDcsMT
-kxNzI3NjI1OSwxMTk3MzA3ODcxLDE1NDY3NjE5MjEsMTAxODEx
-NjYwNCwtMTgwNzI0OTMwNywxMTk3OTAwMzUzLC0xODIyNzE0Nz
-Y1LC01NDUyODQyNjksNzE1NzI0MDY3LC0xNDQ3NzY4MTU4LDEy
-MDExMDY0NDgsMjAwMTAxMjAxLDgyNjU4MjkyLC0xMjg4NjMzNz
-E4LC04MjE0NzkxOTUsLTc5ODI3OTk5NCwtNDU4NDg1Mzk1LC0x
-MDk1NzkyMjZdfQ==
+eyJoaXN0b3J5IjpbOTg3NDU5MCwtMjE0NDk0NjQwNywxOTE3Mj
+c2MjU5LDExOTczMDc4NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0
+LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3MTQ3NjUsLT
+U0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEw
+NjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2MzM3MTgsLT
+gyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3
+OTIyNl19
 -->
