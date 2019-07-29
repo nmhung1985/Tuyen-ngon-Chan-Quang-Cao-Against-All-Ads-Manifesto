@@ -121,7 +121,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 ### Android
 - Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :)
 
-- AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa. Mặc định lại không thiết lập chặn hết tất cả ứng dụng trên thiết bị mà phải  (?!) nên mới bị xếp thứ hai :)
+- AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa. Mặc định lại không thiết lập chặn hết tất cả ứng dụng trên thiết bị mà phải vào chỉnh (dù chỉ cần làm một lần) nên mới bị xếp thứ hai :)
 
 - Adguard Premium (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS
 
@@ -150,11 +150,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMzk2NzAwLDk4MzM3NDI0LC03ODg3Nz
-I4MzEsMTMxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMz
-LDE0NDM5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3MT
-Q3MDQ1NywxNDMyNzE3NDcsOTQwMTM2MzUxLDExMzQyMjgyNjgs
-MTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgzNywtMTQ5MT
-ExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwtNjEyOTE5NTI3XX0=
+eyJoaXN0b3J5IjpbLTkzNzAwNzI1MCw5ODMzNzQyNCwtNzg4Nz
+cyODMxLDEzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgz
+MywxNDQzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNz
+E0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4
+LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OT
+ExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyN119
 
 -->
