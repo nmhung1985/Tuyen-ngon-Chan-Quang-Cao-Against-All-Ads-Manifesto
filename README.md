@@ -12,12 +12,12 @@ Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã t
 
 Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy những nội dung người lớn?
 
-Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm trung bình ít nhất khoảng 40% trên các hệ thống hay thiết bị kết nối mạng của bạn:
+Nói chung các dữ liệu rác rưởi và độc hại này ( thường chiếm trung bình ít nhất khoảng 40% trên các hệ thống hay thiết bị kết nối mạng của bạn:
 - Làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn
 - Làm tốn pin do dữ liệu luôn được tải ngầm
 - Gây ảnh hưởng tới trải nghiệm và sự an toàn của bạn khi thưởng thức các nội dung thú vị trên Internet.
 
-Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta sẽ gọi chung là **Chặn Quảng Cáo (CQC)**, hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
+Do đó, áp dụng phương thức chặn các dữ liệu rác này (mà ta sẽ gọi chung là **Chặn Quảng Cáo (CQC)**) hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
 ## Nguyên lý chặn quảng cáo
 1.  Lọc lớp mạng (network filter): 
@@ -149,11 +149,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMjI0NjE4NSwtMTM4NTE1MzEyMSwtMj
-EyNzI3MDgzMywxNDQzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0
-NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMT
-M0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4
-MzcsLTE0OTExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMj
-kxOTUyNywtNzE2MTQwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0
-Ml19
+eyJoaXN0b3J5IjpbMjQ5MjM0NTA0LC0xMzg1MTUzMTIxLC0yMT
+I3MjcwODMzLDE0NDM5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3
+NDEsLTM3MTQ3MDQ1NywxNDMyNzE3NDcsOTQwMTM2MzUxLDExMz
+QyMjgyNjgsMTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgz
+NywtMTQ5MTExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwtNjEyOT
+E5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0LC0yMTAwNjg3ODQy
+XX0=
 -->
