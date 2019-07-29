@@ -60,7 +60,7 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 3.1. Cấp độ Mạng Nội Bộ: 
 - chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
 - toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
-- cách duy nhất để chặn quảng cáo hoặc ứng dụng theo dõi trên các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
+- cách duy nhất để chặn quảng cáo trên các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
 - chủ yếu áp dụng nguyên lý 1 (ngoại trừ pfSense và một vài hệ thống tương đương)
 
 3.2. Cấp độ Thiết bị: 
@@ -171,11 +171,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjkxOTUyNywtNzE2MTQwMzQ5LC01ND
-IxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgsLTExMzk1NDk0
-NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02MjAxMTIyNjMsMT
-YwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQwNywxOTE3Mjc2
-MjU5LDExOTczMDc4NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC
-0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3MTQ3NjUsLTU0
-NTI4NDI2OV19
+eyJoaXN0b3J5IjpbMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MT
+QwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgs
+LTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02Mj
+AxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQw
+NywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTkyMSwxMD
+E4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3
+MTQ3NjVdfQ==
 -->
