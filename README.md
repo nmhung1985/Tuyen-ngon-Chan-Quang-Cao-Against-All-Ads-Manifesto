@@ -129,7 +129,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Blokada](https://blokada.org/): giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :). Hướng dẫn: [1](https://trainghiemso.vn/blokada-chan-quang-cao-tren-android/)
 
-- [Adguard Premium](https://adguard.com/en/adguard-android/overview.html) (Trả phí): Tốt nhất. Loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS. Hướng dẫn: [1], [2], 
+- [Adguard Premium](https://adguard.com/en/adguard-android/overview.html) (Trả phí): Tốt nhất. Loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS. Hướng dẫn: [1](http://www.techrum.vn/threads/tai-ng-dung-adguard-premium-chan-quang-cao-khi-xem-phim-luot-web-tren-android.193532/), [2](https://giasutintuong.com/phan-mem/adguard-premium-v2-11-81-viet-hoa-huong-dan-cai-dat-va-cau-hinh-chi-tiet.html), [3](https://c.mi.com/thread-928981-1-0.html).
 
 - [Adguard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html): chỉ hỗ trợ Samsung Internet Browser và Yandex Browser, không hỗ trợ HTTPS, áp dụng 2 nguyên lý
 
@@ -154,7 +154,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NjAxODAyMSwtMTI3MjU4MDM3NSwtMT
+eyJoaXN0b3J5IjpbLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMT
 A4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2
 NjcyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMT
 MxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5
