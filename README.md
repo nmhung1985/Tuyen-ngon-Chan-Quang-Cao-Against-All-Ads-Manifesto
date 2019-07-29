@@ -133,15 +133,15 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Adguard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html): chỉ hỗ trợ Samsung Internet Browser và Yandex Browser, không hỗ trợ HTTPS, áp dụng 2 nguyên lý
 
-- AdAway (**phải root**): chặn dạng hosts
+- [AdAway](https://adaway.org/) (**phải root**): chặn dạng hosts
 
-- Adhell3 (Trả phí): tốt nhất **cho và chỉ duy nhất máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
+- [Adhell3](https://gitlab.com/fusionjack/adhell3) (Trả phí): tốt nhất **cho và chỉ duy nhất máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
 
 - Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN". 
 
 *Các ứng dụng đặc biệt*
 
-- YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
+- [YouTube Vanced](https://youtubevanced.com/): ứng dụng chuyên chỉ để xem YouTube không quảng cáo
 
 - Brave Browser/Firefox Focus: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
 
@@ -154,11 +154,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMT
-A4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2
-NjcyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMT
-MxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5
-OTk1NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3MTQ3MDQ1Ny
-wxNDMyNzE3NDcsOTQwMTM2MzUxLDExMzQyMjgyNjgsMTc2MjE3
-NTc1Ml19
+eyJoaXN0b3J5IjpbMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMj
+cyNTgwMzc1LC0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5
+MDE2NjQsMjU1NjY2NzIyLC05MzcwMDcyNTAsOTgzMzc0MjQsLT
+c4ODc3MjgzMSwxMzE4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcy
+NzA4MzMsMTQ0Mzk5OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MS
+wtMzcxNDcwNDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEsMTEzNDIy
+ODI2OF19
 -->
