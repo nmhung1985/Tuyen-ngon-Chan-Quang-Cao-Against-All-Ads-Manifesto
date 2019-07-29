@@ -15,7 +15,7 @@ Bạn có biết gói data 4G của bạn bị hết dung lượng sớm vì b�
 
 Ngoài ra, bạn có biết đôi khi các trang quảng cáo còn nhúng cả mã theo dõi hoặc thậm chí là bị chèn mã độc hại (tải ngầm virus hoặc đào bitcoin)?
 
-Nói chung quảng cáo thường chiếm trung bình khoảng 50% trên các hệ thống hay thiết bị kết nối mạng của bạn, vừa làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn, vừa gây ảnh hưởng tới việc bạn tận hưởng các nội dung thú vị.
+Nói chung các dữ liệu gây hại này thường chiếm trung bình khoảng 50% trên các hệ thống hay thiết bị kết nối mạng của bạn, vừa làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn, vừa gây ảnh hưởng tới việc bạn tận hưởng các nội dung thú vị.
 
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải đúng thông tin cần thiết, không ngầm tải hoặc thể hiện các thông tin rác rưởi và độc hại.
 
@@ -168,7 +168,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjQ3ODc5OCwtNTQyMTU0MTQsLTIxMD
+eyJoaXN0b3J5IjpbMTM4NzU4MjE0MywtNTQyMTU0MTQsLTIxMD
 A2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5LC00OTY0MDE5
 NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYzLDE2MDc0NDI3OTMsOT
 MwODQ5MTAsLTIxNDQ5NDY0MDcsMTkxNzI3NjI1OSwxMTk3MzA3
