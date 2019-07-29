@@ -36,6 +36,8 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 - Ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
 -  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
 
+1.3. Lọc lớp mã hóa (HTTPS filter):
+
 *Hình minh họa: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
 
 ![So sánh](https://cdn.adguard.com/public/Adguard/Blog/Android/comparison/ad_leftovers_resized.png?1)
@@ -147,7 +149,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMjYxODMwNiwtOTYyODY3MTM0LDE1OD
+eyJoaXN0b3J5IjpbLTY4NDc1NTk0NywtOTYyODY3MTM0LDE1OD
 Q5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEs
 MTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzNDI4ODE0NDIsMzg3Mj
 g5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUxLDM5MTQ5MjQ0LC02
