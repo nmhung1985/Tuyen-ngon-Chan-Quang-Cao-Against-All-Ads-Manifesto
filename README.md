@@ -69,7 +69,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 Từ các cách phân loại này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
 ## Vậy chặn như thế nào?
-Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dung kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
+Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
 1. Chương trình, phần mềm là để xử lý.
 2.  Ngoài ra còn cần bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do phần mềm là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện chặn quảng cáo (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
@@ -165,11 +165,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDY2NTkyODcsMTYwNzQ0Mjc5Myw5Mz
-A4NDkxMCwtMjE0NDk0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4
-NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LD
-ExOTc5MDAzNTMsLTE4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MTU3
-MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMD
-EsODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4
-Mjc5OTk0XX0=
+eyJoaXN0b3J5IjpbLTk3NDAwNjM3NSwxNjA3NDQyNzkzLDkzMD
+g0OTEwLC0yMTQ0OTQ2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3
+MSwxNTQ2NzYxOTIxLDEwMTgxMTY2MDQsLTE4MDcyNDkzMDcsMT
+E5NzkwMDM1MywtMTgyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcxNTcy
+NDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2NDQ4LDIwMDEwMTIwMS
+w4MjY1ODI5MiwtMTI4ODYzMzcxOCwtODIxNDc5MTk1LC03OTgy
+Nzk5OTRdfQ==
 -->
