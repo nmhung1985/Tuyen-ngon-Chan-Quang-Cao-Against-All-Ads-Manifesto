@@ -104,11 +104,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 ### Android
 - Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
 
+- Adguard Premium (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS
+
+- Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :)
+
 - AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa
-
-- Adguard Premium (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS
-
-- Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, chúng ta nên lưu ý để ủng hộ :)
 
 - AdAway (**Root**): chặn dạng hosts
 
@@ -165,11 +165,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzYwMTcyMCwtMTEzOTU0OTQ0OSwtND
-k2NDAxOTUsLTEzMjQ0MTExNDQsLTYyMDExMjI2MywxNjA3NDQy
-NzkzLDkzMDg0OTEwLC0yMTQ0OTQ2NDA3LDE5MTcyNzYyNTksMT
-E5NzMwNzg3MSwxNTQ2NzYxOTIxLDEwMTgxMTY2MDQsLTE4MDcy
-NDkzMDcsMTE5NzkwMDM1MywtMTgyMjcxNDc2NSwtNTQ1Mjg0Mj
-Y5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2NDQ4LDIw
-MDEwMTIwMV19
+eyJoaXN0b3J5IjpbMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5LC00OT
+Y0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYzLDE2MDc0NDI3
+OTMsOTMwODQ5MTAsLTIxNDQ5NDY0MDcsMTkxNzI3NjI1OSwxMT
+k3MzA3ODcxLDE1NDY3NjE5MjEsMTAxODExNjYwNCwtMTgwNzI0
+OTMwNywxMTk3OTAwMzUzLC0xODIyNzE0NzY1LC01NDUyODQyNj
+ksNzE1NzI0MDY3LC0xNDQ3NzY4MTU4LDEyMDExMDY0NDgsMjAw
+MTAxMjAxXX0=
 -->
