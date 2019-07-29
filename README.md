@@ -149,16 +149,16 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### iOS
 1. Dạng chạy giả lập VPN
-1. [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1.
-2. [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge): cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
-3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
-4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
+- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1. Hướng dẫn: [1]((https://github.com/bigdargon/hostsVN/wiki/Quantumult) )
+- [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge): cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
+- [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
+- [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzY5MDQ5MCwyMDg3NDkwMzAzLC0xOT
-QwNjQ1NjksLTEyNzI1ODAzNzUsLTEwODI4NTU0MzEsMTk4NTQ1
-OTgzMywtMTI4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAwNzI1MC
-w5ODMzNzQyNCwtNzg4NzcyODMxLDEzMTgyNzA5NCwtMTM4NTE1
-MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5NTU3LC05NjI4NjcxMz
-QsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LDk0MDEz
-NjM1MV19
+eyJoaXN0b3J5IjpbLTU4MDQxNjM4MywtNjA3NjkwNDkwLDIwOD
+c0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMTA4Mjg1
+NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2NjcyMi
+wtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMTMxODI3
+MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5OTk1NT
+csLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3MTQ3MDQ1NywxNDMy
+NzE3NDddfQ==
 -->
