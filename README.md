@@ -9,16 +9,16 @@ Nếu hay xem TV, bạn chắc hẳn đã trải qua cảm giác mất hứng kh
 
 Sang thời đại Internet, hẳn bạn cũng đã gặp tình cảnh xem YouTube được một chút thì gặp video quảng cáo cả vài phút?
 
-Bạn có biết gói data 4G của bạn bị hết dung lượng sớm vì bị quảng cáo chiếm tới 80% không?
+Bạn có biết gói data 4G của bạn có thể hết dung lượng sớm vì bị quảng cáo chiếm tới 80% không?
 
 Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi hoặc thậm chí gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào bitcoin)?
 
 Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy những nội dung người lớn?
 
 Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm trung bình ít nhất khoảng 40% trên các hệ thống hay thiết bị kết nối mạng của bạn:
-- làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn
-- làm tốn pin do dữ liệu luôn được tải ngầm
-- gây ảnh hưởng tới việc bạn tận hưởng các nội dung thú vị.
+- Làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn
+- Làm tốn pin do dữ liệu luôn được tải ngầm
+- Gây ảnh hưởng tới trải nghiệm của bạn khi thưởng thức các nội dung thú vị trên Internet.
 
 Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta sẽ gọi chung là **Chặn Quảng Cáo (CQC)**, hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
@@ -138,11 +138,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTQ3MDQ1NywxNDMyNzE3NDcsOTQwMT
-M2MzUxLDExMzQyMjgyNjgsMTc2MjE3NTc1MiwxMzQyODgxNDQy
-LDM4NzI4OTgzNywtMTQ5MTExMDc1Nyw4MjM5NDE1MSwzOTE0OT
-I0NCwtNjEyOTE5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0LC0y
-MTAwNjg3ODQyLDMzMjMzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2ND
-AxOTUsLTEzMjQ0MTExNDQsLTYyMDExMjI2MywxNjA3NDQyNzkz
+eyJoaXN0b3J5IjpbLTI5NjgwMTg4MywtMzcxNDcwNDU3LDE0Mz
+I3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUy
+LDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMz
+k0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OSwt
+NTQyMTU0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NT
+Q5NDQ5LC00OTY0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYz
 XX0=
 -->
