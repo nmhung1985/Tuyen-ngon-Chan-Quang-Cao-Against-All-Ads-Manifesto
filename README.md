@@ -134,49 +134,12 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 2. Surge: cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
 3. Adguard: trả phí khác gì miễn phí?
 
-Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
-
-You can use the [editor on GitHub](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOT
-UyNywtNzE2MTQwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0Miwz
-MzIzMzEzOTgsLTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMzI0ND
-ExMTQ0LC02MjAxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwt
-MjE0NDk0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Nj
-c2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAz
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTExMTA3NTcsODIzOTQxNTEsMzkxND
+kyNDQsLTYxMjkxOTUyNywtNzE2MTQwMzQ5LC01NDIxNTQxNCwt
+MjEwMDY4Nzg0MiwzMzIzMzEzOTgsLTExMzk1NDk0NDksLTQ5Nj
+QwMTk1LC0xMzI0NDExMTQ0LC02MjAxMTIyNjMsMTYwNzQ0Mjc5
+Myw5MzA4NDkxMCwtMjE0NDk0NjQwNywxOTE3Mjc2MjU5LDExOT
+czMDc4NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5
+MzA3XX0=
 -->
