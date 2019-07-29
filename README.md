@@ -129,7 +129,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa
 
-- AdAway (**Root**): chặn dạng hosts
+- AdAway (**phải root**): chặn dạng hosts
 
 - Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN". 
 
@@ -148,11 +148,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzMzc0MjQsLTc4ODc3MjgzMSwxMzE4Mj
-cwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1
-NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0Mz
-I3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUy
-LDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMz
-k0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OV19
+eyJoaXN0b3J5IjpbNDkyNTg3OTE4LDk4MzM3NDI0LC03ODg3Nz
+I4MzEsMTMxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMz
+LDE0NDM5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3MT
+Q3MDQ1NywxNDMyNzE3NDcsOTQwMTM2MzUxLDExMzQyMjgyNjgs
+MTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgzNywtMTQ5MT
+ExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwtNjEyOTE5NTI3XX0=
 
 -->
