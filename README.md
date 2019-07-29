@@ -62,8 +62,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 [**Đặc biệt**] Lọc lớp mã hóa (HTTPS filter): Không phải phương thức hay nguyên lý chặn, mà là tính năng bổ sung trong ứng dụng
 - Bổ sung khả năng đọc và phân tích các truy vấn/kết nối được mã hóa
-- Giúp nguyên lý 1 có thể chặn được một phần quảng cáo Youtube, F
-- **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho 2 nguyên lý trên, giúp nâng cao khả năng chặn. 
+- Giúp nguyên lý 1 có thể chặn thêm được một phần quảng cáo mà Youtube, Facebook mã hóa
 
 #### 2. Phân loại theo độ bao phủ:
 
@@ -149,11 +148,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjM1NzE4ODAsMTMxODI3MDk0LC0xMz
-g1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5OTk1NTcsLTk2Mjg2
-NzEzNCwxNTg0OTQ3NDEsLTM3MTQ3MDQ1NywxNDMyNzE3NDcsOT
-QwMTM2MzUxLDExMzQyMjgyNjgsMTc2MjE3NTc1MiwxMzQyODgx
-NDQyLDM4NzI4OTgzNywtMTQ5MTExMDc1Nyw4MjM5NDE1MSwzOT
-E0OTI0NCwtNjEyOTE5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0
-XX0=
+eyJoaXN0b3J5IjpbLTc4ODc3MjgzMSwxMzE4MjcwOTQsLTEzOD
+UxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1NywtOTYyODY3
+MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0Nyw5ND
+AxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzNDI4ODE0
+NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUxLDM5MT
+Q5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OSwtNTQyMTU0MTRd
+fQ==
 -->
