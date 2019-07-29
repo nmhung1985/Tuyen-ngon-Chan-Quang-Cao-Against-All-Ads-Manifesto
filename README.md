@@ -69,7 +69,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 2.1. Cấp độ Mạng Nội Bộ: 
 - Chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc thiết bị/máy tính có cài hệ thống chặn đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
 - Toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
-- Cách duy nhất để chặn quảng cáo trên các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
+- **Cách duy nhất** để chặn quảng cáo trên các thiết bị như camera Tung Của, AppleTV, TV thông minh, IoT (Internet of Things) v.v...
 - Chủ yếu áp dụng nguyên lý 1 (ngoại trừ pfSense và một vài hệ thống tương đương)
 
 2.2. Cấp độ Thiết bị: 
@@ -148,11 +148,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU1MDAyNjE3LC03ODg3NzI4MzEsMTMxOD
-I3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5OTk1
-NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3MTQ3MDQ1NywxND
-MyNzE3NDcsOTQwMTM2MzUxLDExMzQyMjgyNjgsMTc2MjE3NTc1
-MiwxMzQyODgxNDQyLDM4NzI4OTgzNywtMTQ5MTExMDc1Nyw4Mj
-M5NDE1MSwzOTE0OTI0NCwtNjEyOTE5NTI3LC03MTYxNDAzNDld
-fQ==
+eyJoaXN0b3J5IjpbLTIwMjcxOTE1MjcsLTc4ODc3MjgzMSwxMz
+E4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5
+OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LD
+E0MzI3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1
+NzUyLDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LD
+gyMzk0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0
+OV19
 -->
