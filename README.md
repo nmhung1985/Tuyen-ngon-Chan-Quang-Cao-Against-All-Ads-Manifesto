@@ -143,18 +143,18 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [YouTube Vanced](https://youtubevanced.com/): ứng dụng chuyên chỉ để xem YouTube không quảng cáo. Hướng dẫn: [1](https://cellphones.com.vn/sforum/thu-thuat-huong-dan-su-dung-youtube-vanced-tren-android-hoan-toan-mien-phi)
 
-- Brave Browser/Firefox Focus: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
+- [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US): trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
 
-- Firefox (bản chuẩn cho Android): do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
+- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US) (bản chuẩn cho Android): do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
 
 ### iOS
-Đều là dạng chạy giả lập VPN
+1. Dạng chạy giả lập VPN
 1. [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1.
 2. [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge): cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzY3MjYxMSwyMDg3NDkwMzAzLC0xOT
+eyJoaXN0b3J5IjpbLTYwNzY5MDQ5MCwyMDg3NDkwMzAzLC0xOT
 QwNjQ1NjksLTEyNzI1ODAzNzUsLTEwODI4NTU0MzEsMTk4NTQ1
 OTgzMywtMTI4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAwNzI1MC
 w5ODMzNzQyNCwtNzg4NzcyODMxLDEzMTgyNzA5NCwtMTM4NTE1
