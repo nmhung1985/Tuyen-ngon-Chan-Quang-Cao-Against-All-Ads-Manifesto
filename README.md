@@ -92,7 +92,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### Máy tính
 
-1. Adguard (Trả phí, Windows, Mac): phần mềm chặn cho toàn bộ máy tính tốt nhất. Cũng đa dạng nhất hiện nay khi có gần như đầy đủ phiên bản phủ hết các cấp độ trình bày ở trên.
+1. Toàn bộ máy tính: Adguard (Trả phí, Windows, Mac) là phần mềm tốt nhất, nếu có thể nói là duy nhất. Cũng đa dạng nhất hiện nay khi có gần như đầy đủ phiên bản phủ hết các cấp độ trình bày ở trên.
 
 2. Tiện ích cho trình duyệt: Cách tốt nhất không bị quảng cáo YouTube trên máy tính và đều miễn phí. Có rất nhiều, ví dụ Adguard vừa nói ở trên cũng có phiên bản riêng, Adblock Plus, Adblock, Adblocker v.v...
 - uBlock Origin: tiện ích phổ biến nhất, nhưng lời khuyên là nên dùng 2 tiện ích ở dưới
@@ -165,11 +165,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02Mj
-AxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQw
-NywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTkyMSwxMD
-E4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3
-MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3NjgxNT
-gsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2
-MzM3MThdfQ==
+eyJoaXN0b3J5IjpbLTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMz
+I0NDExMTQ0LC02MjAxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkx
+MCwtMjE0NDk0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMT
+U0Njc2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5
+MDAzNTMsLTE4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNj
+csLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2
+NTgyOTJdfQ==
 -->
