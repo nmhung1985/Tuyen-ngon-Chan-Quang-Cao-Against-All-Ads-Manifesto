@@ -83,7 +83,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là **ứng dụng**) trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng để giúp bạn có cơ sở lựa chọn, ở phần sau bài viết sẽ có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống. Nếu ứng dụng nào có hướng dẫn chi tiết sẽ đươc gắn link kèm theo.
+Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tất nhiên ở dưới sẽ có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống. Nếu ứng dụng nào có hướng dẫn chi tiết sẽ đươc gắn link kèm theo.
 
 ## Vậy chặn như thế nào?
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
@@ -148,11 +148,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5NDI1MDUyLC03ODg3NzI4MzEsMTMxOD
-I3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5OTk1
-NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3MTQ3MDQ1NywxND
-MyNzE3NDcsOTQwMTM2MzUxLDExMzQyMjgyNjgsMTc2MjE3NTc1
-MiwxMzQyODgxNDQyLDM4NzI4OTgzNywtMTQ5MTExMDc1Nyw4Mj
-M5NDE1MSwzOTE0OTI0NCwtNjEyOTE5NTI3LC03MTYxNDAzNDld
-fQ==
+eyJoaXN0b3J5IjpbMTU0ODM2OTU4MywtNzg4NzcyODMxLDEzMT
+gyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5
+NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMT
+QzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3
+NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsOD
+IzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MTQwMzQ5
+XX0=
 -->
