@@ -1,6 +1,6 @@
 # Tuyên ngôn Chặn Quảng Cáo
 
-***Lời nhắn nhủ**: Đây đảm bảo là bài viết tổng hợp đầy đủ nhất bằng tiếng Việt về việc chặn quảng cáo. Nếu thấy hữu ích, bạn hãy hướng dẫn ngay cho người quen hoặc giới thiệu bài viết này tới họ nhé. Hãy cùng giúp nhau có một không gian internet sạch và an toàn!*
+***Lời nhắn nhủ**: Đây đảm bảo là bài viết tổng hợp đầy đủ nhất bằng tiếng Việt về việc chặn quảng cáo. Nếu thấy hữu ích, bạn hãy hướng dẫn hoặc giới thiệu bài viết này cho những người xung quanh mình nhé. Hãy cùng giúp nhau có một không gian internet sạch và an toàn!*
 
 Có nhiều phương thức và ứng dụng chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để giúp bạn chọn phương thức và ứng dụng tốt nhất cho mình.
 
@@ -140,11 +140,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTczNTQwMTEsMTU4NDk0NzQxLC0zNz
-E0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4
-LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OT
-ExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywt
-NzE2MTQwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMz
-EzOTgsLTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0
-XX0=
+eyJoaXN0b3J5IjpbLTgwMDcwOTU5OCwxNTg0OTQ3NDEsLTM3MT
+Q3MDQ1NywxNDMyNzE3NDcsOTQwMTM2MzUxLDExMzQyMjgyNjgs
+MTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgzNywtMTQ5MT
+ExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwtNjEyOTE5NTI3LC03
+MTYxNDAzNDksLTU0MjE1NDE0LC0yMTAwNjg3ODQyLDMzMjMzMT
+M5OCwtMTEzOTU0OTQ0OSwtNDk2NDAxOTUsLTEzMjQ0MTExNDRd
+fQ==
 -->
