@@ -80,7 +80,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 
 ## Hướng dẫn tổng quan
 
-Các chương trình, phần mềm, ứng dụng được liệt kê theo thứ tự tốt nhất và miễn phí. Tuy nhiên nếu ứng dụng trả phí quá vượt trội thì vẫn sẽ được liệt kê trước.
+Các chương trình, phần mềm, ứng dụng được liệt kê theo tốt nhất. Ưu tiên miễn phí, nhưng nếu ứng dụng trả phí vượt trội thì vẫn sẽ được liệt kê trước.
 
 |[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac)](#máy-tính)|[Android](#android)  |[iOS](#ios)|
 |:-:|:-:|:-:|:-:|
@@ -165,7 +165,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDAwNjM3NSwxNjA3NDQyNzkzLDkzMD
+eyJoaXN0b3J5IjpbLTYyMDExMjI2MywxNjA3NDQyNzkzLDkzMD
 g0OTEwLC0yMTQ0OTQ2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3
 MSwxNTQ2NzYxOTIxLDEwMTgxMTY2MDQsLTE4MDcyNDkzMDcsMT
 E5NzkwMDM1MywtMTgyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcxNTcy
