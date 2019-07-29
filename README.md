@@ -122,7 +122,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 ### Android
 - [AdClear](https://adclear.com/en/adclear-installation.php): giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa. Mặc định không thiết lập chặn hết tất cả ứng dụng trên thiết bị, mà cho phép bật/tắt chặn đối với **từng** ứng dụng. 
 
-- Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :)
+- [Blokada](https://trainghiemso.vn/blokada-chan-quang-cao-tren-android/): giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :)
 
 - Adguard Premium (Trả phí): Tốt nhất. Loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS
 
@@ -149,11 +149,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTQ1OTgzMywtMTI4MzkwMTY2NCwyNT
-U2NjY3MjIsLTkzNzAwNzI1MCw5ODMzNzQyNCwtNzg4NzcyODMx
-LDEzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxND
-QzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0
-NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3Nj
-IxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3
-NTddfQ==
+eyJoaXN0b3J5IjpbLTEwODI4NTU0MzEsMTk4NTQ1OTgzMywtMT
+I4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAwNzI1MCw5ODMzNzQy
+NCwtNzg4NzcyODMxLDEzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMj
+EyNzI3MDgzMywxNDQzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0
+NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMT
+M0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4
+MzddfQ==
 -->
