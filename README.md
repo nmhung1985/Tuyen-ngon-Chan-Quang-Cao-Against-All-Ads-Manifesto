@@ -141,7 +141,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 *Các ứng dụng đặc biệt*
 
-- [YouTube Vanced](https://youtubevanced.com/): ứng dụng chuyên chỉ để xem YouTube không quảng cáo
+- [YouTube Vanced](https://youtubevanced.com/): ứng dụng chuyên chỉ để xem YouTube không quảng cáo. Hướng dẫn: [1](https://cellphones.com.vn/sforum/thu-thuat-huong-dan-su-dung-youtube-vanced-tren-android-hoan-toan-mien-phi)
 
 - Brave Browser/Firefox Focus: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
 
@@ -154,11 +154,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMj
-cyNTgwMzc1LC0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5
-MDE2NjQsMjU1NjY2NzIyLC05MzcwMDcyNTAsOTgzMzc0MjQsLT
-c4ODc3MjgzMSwxMzE4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcy
-NzA4MzMsMTQ0Mzk5OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MS
-wtMzcxNDcwNDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEsMTEzNDIy
-ODI2OF19
+eyJoaXN0b3J5IjpbMTI2MzY3MjYxMSwyMDg3NDkwMzAzLC0xOT
+QwNjQ1NjksLTEyNzI1ODAzNzUsLTEwODI4NTU0MzEsMTk4NTQ1
+OTgzMywtMTI4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAwNzI1MC
+w5ODMzNzQyNCwtNzg4NzcyODMxLDEzMTgyNzA5NCwtMTM4NTE1
+MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5NTU3LC05NjI4NjcxMz
+QsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LDk0MDEz
+NjM1MV19
 -->
