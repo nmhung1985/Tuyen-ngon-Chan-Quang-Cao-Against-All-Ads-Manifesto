@@ -113,7 +113,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - Adguard Premium (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS
 
-- Adguard Content 
+- Adguard Content Blocker: chỉ hỗ trợ Samsung Internet Browser và Yandex Browser, áp dụng 2 nguyên lý
 
 - Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :)
 
@@ -135,10 +135,10 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 Đều là dạng chạy giả lập VPN
 1. [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1.
 2. [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge): cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
-3. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard) và [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): trong bản miễn phí cũng có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán. Hoạt động tương tự Adguard trên Android
+3. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard) và [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): trong bản miễn phí cũng có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán. Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjY1NDM2NiwxMTM0MjI4MjY4LDE3Nj
+eyJoaXN0b3J5IjpbMTkyNTk2MjU5NSwxMTM0MjI4MjY4LDE3Nj
 IxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3
 NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MT
 QwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgs
