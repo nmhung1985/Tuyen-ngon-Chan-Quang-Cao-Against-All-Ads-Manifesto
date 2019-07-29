@@ -112,7 +112,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - AdAway (**Root**): chặn dạng hosts
 
-- Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox. Có vẻ như có mối quan hệ tốt nên bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN". 
+- Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN". 
 
 *Ba ứng dụng đặc biệt*
 
@@ -165,11 +165,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzg5NzgzLC02MjAxMTIyNjMsMTYwNz
-Q0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQwNywxOTE3Mjc2MjU5
-LDExOTczMDc4NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC0xOD
-A3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3MTQ3NjUsLTU0NTI4
-NDI2OSw3MTU3MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OC
-wyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMTQ3
-OTE5NV19
+eyJoaXN0b3J5IjpbLTEzMjQ0MTExNDQsLTYyMDExMjI2MywxNj
+A3NDQyNzkzLDkzMDg0OTEwLC0yMTQ0OTQ2NDA3LDE5MTcyNzYy
+NTksMTE5NzMwNzg3MSwxNTQ2NzYxOTIxLDEwMTgxMTY2MDQsLT
+E4MDcyNDkzMDcsMTE5NzkwMDM1MywtMTgyMjcxNDc2NSwtNTQ1
+Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2ND
+Q4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtODIx
+NDc5MTk1XX0=
 -->
