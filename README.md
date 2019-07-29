@@ -69,7 +69,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 2.  Ngoài ra còn cần bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do phần mềm là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Do đó, bạn lưu ý 2 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi hiện nay, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, áp dụng nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Tiết lộ: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
-- [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng, áp dụng kết hợp 2 nguyên lý nên hoạt động trên ít ứng dụng hơn
+- [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus (tên nhóm lấy từ đây), uBlock Origin , áp dụng kết hợp 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
 
 ## Hướng dẫn tổng quan
 
@@ -158,7 +158,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTI2NDI0OCw5MzA4NDkxMCwtMjE0ND
+eyJoaXN0b3J5IjpbLTM4ODMwMzM5NCw5MzA4NDkxMCwtMjE0ND
 k0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTky
 MSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLT
 E4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3
