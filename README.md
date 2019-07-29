@@ -4,10 +4,12 @@
 
 Có nhiều phương thức và ứng dụng chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để giúp bạn chọn phương thức và ứng dụng tốt nhất cho mình.
 
-Đây là bài viết tổng hợp quan trọng nên khả năng cao là sẽ được cập nhật thông tin lâu dài, dù có thể không thường xuyên. Phiên bản gốc là trên GitHub.
+Đây là bài viết tổng hợp quan trọng nên khả năng cao là sẽ được cập nhật thông tin lâu dài, dù có thể không thường xuyên. Phiên bản gốc luôn nằm trên GitHub: link ở đây.
 
 ## Tại sao cần chặn quảng cáo
-Bạn chắc hẳn đã trải qua cảm giác mất hứng khi đang xem phim đến đoạn hay trên TV thì nhà đài cho dừng một lúc để quảng cáo? Cũng như xem YouTube được một chút thì gặp video quảng cáo cả vài phút?
+Bạn chắc hẳn đã trải qua cảm giác mất hứng khi đang xem phim đến đoạn hay trên TV thì nhà đài cho dừng một lúc để quảng cáo? 
+
+Trên thế giới Internet, hẳn thi thoảng bạn xem YouTube được một chút thì gặp video quảng cáo cả vài phút?
 
 Bạn có biết gói data 4G của bạn bị hết dung lượng sớm vì bị quảng cáo chiếm tới 80% không?
 
@@ -162,11 +164,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNzk0MzUyLDkzMDg0OTEwLC0yMTQ0OT
-Q2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3MSwxNTQ2NzYxOTIx
-LDEwMTgxMTY2MDQsLTE4MDcyNDkzMDcsMTE5NzkwMDM1MywtMT
-gyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2
-ODE1OCwxMjAxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMT
-I4ODYzMzcxOCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4
-NTM5NV19
+eyJoaXN0b3J5IjpbMTYwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0ND
+k0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTky
+MSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLT
+E4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3
+NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLT
+EyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0
+ODUzOTVdfQ==
 -->
