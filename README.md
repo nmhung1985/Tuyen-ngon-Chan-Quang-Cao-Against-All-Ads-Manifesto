@@ -73,7 +73,7 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 #### 2. Phân loại theo độ bao phủ:
 
 2.1. Cấp độ Mạng Nội Bộ: 
-- Chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
+- Chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc thiết bị/máy tính có cài hệ thống tường lửa đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
 - Toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
 - Cách duy nhất để chặn quảng cáo trên các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
 - Chủ yếu áp dụng nguyên lý 1 (ngoại trừ pfSense và một vài hệ thống tương đương)
@@ -152,11 +152,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTQ1MzI0MiwtMjEyNzI3MDgzMywxND
-QzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0
-NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3Nj
-IxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3
-NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MT
-QwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOThd
-fQ==
+eyJoaXN0b3J5IjpbODQwMzM3Mzc1LC0yMTI3MjcwODMzLDE0ND
+M5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3MTQ3MDQ1
+NywxNDMyNzE3NDcsOTQwMTM2MzUxLDExMzQyMjgyNjgsMTc2Mj
+E3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgzNywtMTQ5MTExMDc1
+Nyw4MjM5NDE1MSwzOTE0OTI0NCwtNjEyOTE5NTI3LC03MTYxND
+AzNDksLTU0MjE1NDE0LC0yMTAwNjg3ODQyLDMzMjMzMTM5OF19
+
 -->
