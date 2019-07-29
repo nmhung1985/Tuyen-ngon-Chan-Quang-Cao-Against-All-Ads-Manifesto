@@ -30,6 +30,7 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 1.2. Chỉ làm nhiệm vụ ẩn quảng cáo chứ không chặn (lọc lớp giao diện - cosmetic filter): không có khả năng giảm tải băng thông, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng, **không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
 
 *Hình minh họa: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
+
 ![So sánh](https://cdn.adguard.com/public/Adguard/Blog/Android/comparison/ad_leftovers_resized.png?1)
 
 #### 2. Cấp 2, phân loại theo phương thức:
@@ -135,11 +136,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. Adguard: trả phí khác gì miễn phí?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTExMTA3NTcsODIzOTQxNTEsMzkxND
-kyNDQsLTYxMjkxOTUyNywtNzE2MTQwMzQ5LC01NDIxNTQxNCwt
-MjEwMDY4Nzg0MiwzMzIzMzEzOTgsLTExMzk1NDk0NDksLTQ5Nj
-QwMTk1LC0xMzI0NDExMTQ0LC02MjAxMTIyNjMsMTYwNzQ0Mjc5
-Myw5MzA4NDkxMCwtMjE0NDk0NjQwNywxOTE3Mjc2MjU5LDExOT
-czMDc4NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5
-MzA3XX0=
+eyJoaXN0b3J5IjpbMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMz
+k0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OSwt
+NTQyMTU0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NT
+Q5NDQ5LC00OTY0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYz
+LDE2MDc0NDI3OTMsOTMwODQ5MTAsLTIxNDQ5NDY0MDcsMTkxNz
+I3NjI1OSwxMTk3MzA3ODcxLDE1NDY3NjE5MjEsMTAxODExNjYw
+NF19
 -->
