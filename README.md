@@ -54,6 +54,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 3.1. Cấp độ Mạng Nội Bộ: 
 - chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
 - toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
+- cách duy nhất để chặn quảng cáo hoặc ứng dụng theo dõi trên các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
 - chủ yếu áp dụng nguyên lý 1 (ngoại trừ pfSense và một vài hệ thống tương đương)
 
 3.2. Cấp độ Thiết bị: 
@@ -164,11 +165,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0ND
-k0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTky
-MSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLT
-E4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3
-NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLT
-EyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0
-ODUzOTVdfQ==
+eyJoaXN0b3J5IjpbLTE0MDY2NTkyODcsMTYwNzQ0Mjc5Myw5Mz
+A4NDkxMCwtMjE0NDk0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4
+NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LD
+ExOTc5MDAzNTMsLTE4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MTU3
+MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMD
+EsODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4
+Mjc5OTk0XX0=
 -->
