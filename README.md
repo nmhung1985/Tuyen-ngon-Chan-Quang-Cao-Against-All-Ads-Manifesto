@@ -118,7 +118,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
 
-- Brave Browser: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
+- Brave Browser/Firefox Focus: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
 
 - Firefox cho Android: do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
 
@@ -165,11 +165,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5LC00OT
-Y0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYzLDE2MDc0NDI3
-OTMsOTMwODQ5MTAsLTIxNDQ5NDY0MDcsMTkxNzI3NjI1OSwxMT
-k3MzA3ODcxLDE1NDY3NjE5MjEsMTAxODExNjYwNCwtMTgwNzI0
-OTMwNywxMTk3OTAwMzUzLC0xODIyNzE0NzY1LC01NDUyODQyNj
-ksNzE1NzI0MDY3LC0xNDQ3NzY4MTU4LDEyMDExMDY0NDgsMjAw
-MTAxMjAxXX0=
+eyJoaXN0b3J5IjpbLTIxNDI3MDM5OTIsMzMyMzMxMzk4LC0xMT
+M5NTQ5NDQ5LC00OTY0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEy
+MjYzLDE2MDc0NDI3OTMsOTMwODQ5MTAsLTIxNDQ5NDY0MDcsMT
+kxNzI3NjI1OSwxMTk3MzA3ODcxLDE1NDY3NjE5MjEsMTAxODEx
+NjYwNCwtMTgwNzI0OTMwNywxMTk3OTAwMzUzLC0xODIyNzE0Nz
+Y1LC01NDUyODQyNjksNzE1NzI0MDY3LC0xNDQ3NzY4MTU4LDEy
+MDExMDY0NDhdfQ==
 -->
