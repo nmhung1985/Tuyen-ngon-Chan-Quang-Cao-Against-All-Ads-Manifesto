@@ -12,17 +12,17 @@ Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã t
 
 Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy những nội dung người lớn?
 
-Nói chung các dữ liệu rác rưởi và độc hại này ( thường chiếm trung bình ít nhất khoảng 40% trên các hệ thống hay thiết bị kết nối mạng của bạn:
+Nói chung các dữ liệu rác rưởi và độc hại này (gọi chung là "**quảng cáo**") thường chiếm trung bình ít nhất khoảng 40% trên các hệ thống hay thiết bị kết nối mạng của bạn:
 - Làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn
 - Làm tốn pin do dữ liệu luôn được tải ngầm
 - Gây ảnh hưởng tới trải nghiệm và sự an toàn của bạn khi thưởng thức các nội dung thú vị trên Internet.
 
-Do đó, áp dụng phương thức chặn các dữ liệu rác này (mà ta sẽ gọi chung là **Chặn Quảng Cáo (CQC)**) hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
+Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
 ## Nguyên lý chặn quảng cáo
 1.  Lọc lớp mạng (network filter): 
 - Không dữ liệu quảng cáo nào có thể đi vào hệ thống
-- Cách hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng
+- Hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng
 - Hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube, cũng như có thể làm vỡ bố cục trang web.
 
 2. Lọc lớp giao diện (cosmetic filter):
@@ -149,7 +149,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5MjM0NTA0LC0xMzg1MTUzMTIxLC0yMT
+eyJoaXN0b3J5IjpbMTMxODI3MDk0LC0xMzg1MTUzMTIxLC0yMT
 I3MjcwODMzLDE0NDM5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3
 NDEsLTM3MTQ3MDQ1NywxNDMyNzE3NDcsOTQwMTM2MzUxLDExMz
 QyMjgyNjgsMTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgz
