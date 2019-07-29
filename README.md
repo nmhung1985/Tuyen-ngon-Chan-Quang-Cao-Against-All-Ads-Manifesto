@@ -149,22 +149,22 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### iOS
 1. Dạng chạy giả lập VPN
-- [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): cách hoạt động như Quantumult, thiếu tính năng hơn một chút. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
+- [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
 
 - [Adguard](https://itunes.apple.com/app/adguard-adblock-privacy/id1047223162?mt=8): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai bản này và bản Pro ở dưới sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Adguard)
 
 - [Adguard Pro](https://itunes.apple.com/app/apple-store/id1126386264?mt=8) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Nhưng chưa hỗ trợ HTTPS. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
 
-- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
+- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): tốt nhất, tương tự như Surge, nhưng có thêm tính năng. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4MTQ1ODczLDE2MzgwNjI3NzgsLTYwNz
-Y5MDQ5MCwyMDg3NDkwMzAzLC0xOTQwNjQ1NjksLTEyNzI1ODAz
-NzUsLTEwODI4NTU0MzEsMTk4NTQ1OTgzMywtMTI4MzkwMTY2NC
-wyNTU2NjY3MjIsLTkzNzAwNzI1MCw5ODMzNzQyNCwtNzg4Nzcy
-ODMxLDEzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMy
-wxNDQzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0
-NzA0NTddfQ==
+eyJoaXN0b3J5IjpbMTUzOTAyNDEzNywxNjM4MDYyNzc4LC02MD
+c2OTA0OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMjcyNTgw
+Mzc1LC0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5MDE2Nj
+QsMjU1NjY2NzIyLC05MzcwMDcyNTAsOTgzMzc0MjQsLTc4ODc3
+MjgzMSwxMzE4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4Mz
+MsMTQ0Mzk5OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcx
+NDcwNDU3XX0=
 -->
