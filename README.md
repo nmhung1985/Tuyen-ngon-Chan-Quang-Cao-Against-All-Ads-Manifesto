@@ -27,17 +27,17 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 2.1. Hosts/Tường lửa: 
 - danh sách chặn được ghi trực tiếp vào cơ sở dữ liệu nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, Knox trên điện thoại Samsung)
-- áp dụng nguyên lý 1.1
+- áp dụng nguyên lý 1
 
 2.2. DNS:
-- thiết lập hệ thống hoặc thiết bị dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm kiểm tra thông tin chặn
+- thiết lập hệ thống hoặc thiết bị để dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm kiểm tra thông tin chặn
 - người dùng Việt Nam có thể cảm thấy chậm, nhưng không quá khác biệt
-- áp dụng nguyên lý 1.1
+- áp dụng nguyên lý 1
 
 2.3. VPN:
 - chạy một VPN giả lập nội bộ để can thiệp thông tin lưu lượng mạng
 - có thể hỗ trợ thêm 2 tính năng trên với đặc điểm: ứng dụng tự xử lý chứ hệ thống không xử lý
-- phổ biến trên điện thoại
+- chủ yếu cho điện thoại
 - thường áp dụng nguyên lý 1.1 (có ngoại lệ)
 
 2.4. Tiện ích (addon/extension) cho trình duyệt:
@@ -158,11 +158,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MTA0NDY5LDE5MTcyNzYyNTksMTE5Nz
-MwNzg3MSwxNTQ2NzYxOTIxLDEwMTgxMTY2MDQsLTE4MDcyNDkz
-MDcsMTE5NzkwMDM1MywtMTgyMjcxNDc2NSwtNTQ1Mjg0MjY5LD
-cxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2NDQ4LDIwMDEw
-MTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOCwtODIxNDc5MTk1LC
-03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5NTc5MjI2LDE2NDkz
-MzY5MzNdfQ==
+eyJoaXN0b3J5IjpbMjE0NjgwMTI2NywxOTE3Mjc2MjU5LDExOT
+czMDc4NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5
+MzA3LDExOTc5MDAzNTMsLTE4MjI3MTQ3NjUsLTU0NTI4NDI2OS
+w3MTU3MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OCwyMDAx
+MDEyMDEsODI2NTgyOTIsLTEyODg2MzM3MTgsLTgyMTQ3OTE5NS
+wtNzk4Mjc5OTk0LC00NTg0ODUzOTUsLTEwOTU3OTIyNiwxNjQ5
+MzM2OTMzXX0=
 -->
