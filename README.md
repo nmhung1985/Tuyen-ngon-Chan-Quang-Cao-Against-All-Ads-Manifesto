@@ -18,7 +18,7 @@ Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy
 Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm trung bình ít nhất khoảng 40% trên các hệ thống hay thiết bị kết nối mạng của bạn:
 - Làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn
 - Làm tốn pin do dữ liệu luôn được tải ngầm
-- Gây ảnh hưởng tới trải nghiệm của bạn khi thưởng thức các nội dung thú vị trên Internet.
+- Gây ảnh hưởng tới trải nghiệm và sự an toàn của bạn khi thưởng thức các nội dung thú vị trên Internet.
 
 Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta sẽ gọi chung là **Chặn Quảng Cáo (CQC)**, hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
@@ -138,11 +138,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjgwMTg4MywtMzcxNDcwNDU3LDE0Mz
-I3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUy
-LDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMz
-k0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OSwt
-NTQyMTU0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NT
-Q5NDQ5LC00OTY0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYz
-XX0=
+eyJoaXN0b3J5IjpbMTU4NDk0NzQxLC0zNzE0NzA0NTcsMTQzMj
+cxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3NTIs
+MTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsODIzOT
+QxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MTQwMzQ5LC01
+NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgsLTExMzk1ND
+k0NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02MjAxMTIyNjNd
+fQ==
 -->
