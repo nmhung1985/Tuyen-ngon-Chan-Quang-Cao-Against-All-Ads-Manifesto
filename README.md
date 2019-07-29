@@ -17,7 +17,7 @@ Nghiêm trọng hơn, bạn có biết đôi khi các trang quảng cáo còn nh
 
 Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm trung bình khoảng 50% trên các hệ thống hay thiết bị kết nối mạng của bạn, vừa làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn, vừa gây ảnh hưởng tới việc bạn tận hưởng các nội dung thú vị.
 
-Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
+Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
 ## Cấp độ chặn quảng cáo
 #### 1. Cấp 1 (tạm coi là "nguyên lý", "tiên đề"):
@@ -168,11 +168,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjM4OTg2MjksLTU0MjE1NDE0LC0yMT
-AwNjg3ODQyLDMzMjMzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2NDAx
-OTUsLTEzMjQ0MTExNDQsLTYyMDExMjI2MywxNjA3NDQyNzkzLD
-kzMDg0OTEwLC0yMTQ0OTQ2NDA3LDE5MTcyNzYyNTksMTE5NzMw
-Nzg3MSwxNTQ2NzYxOTIxLDEwMTgxMTY2MDQsLTE4MDcyNDkzMD
-csMTE5NzkwMDM1MywtMTgyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcx
-NTcyNDA2N119
+eyJoaXN0b3J5IjpbLTcxNjE0MDM0OSwtNTQyMTU0MTQsLTIxMD
+A2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5LC00OTY0MDE5
+NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYzLDE2MDc0NDI3OTMsOT
+MwODQ5MTAsLTIxNDQ5NDY0MDcsMTkxNzI3NjI1OSwxMTk3MzA3
+ODcxLDE1NDY3NjE5MjEsMTAxODExNjYwNCwtMTgwNzI0OTMwNy
+wxMTk3OTAwMzUzLC0xODIyNzE0NzY1LC01NDUyODQyNjksNzE1
+NzI0MDY3XX0=
 -->
