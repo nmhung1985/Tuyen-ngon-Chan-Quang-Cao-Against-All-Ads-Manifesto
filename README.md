@@ -25,7 +25,7 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 ## Cấp độ chặn quảng cáo
 #### 1. Cấp 1 (tạm coi là "nguyên lý", "tiên đề"):
 
-1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn (lọc lớp mạng - network filter): đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube, cũng như có thể làm giao diện trang web bị vỡ bố cục.
+1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn (lọc lớp mạng - network filter): đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube, cũng như có thể làm vỡ bố cục trang web.
 
 1.2. Chỉ làm nhiệm vụ ẩn quảng cáo chứ không chặn (lọc lớp giao diện - cosmetic filter): không có khả năng giảm tải băng thông, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng, **không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
 
@@ -171,7 +171,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzYyOTIyMiwtNzE2MTQwMzQ5LC01ND
+eyJoaXN0b3J5IjpbLTYxMjkxOTUyNywtNzE2MTQwMzQ5LC01ND
 IxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgsLTExMzk1NDk0
 NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02MjAxMTIyNjMsMT
 YwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQwNywxOTE3Mjc2
