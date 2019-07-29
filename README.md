@@ -32,8 +32,9 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 
 1.2. Lọc lớp giao diện (cosmetic filter):
 - Chỉ làm nhiệm vụ ẩn dữ liệu quảng cáo chứ không chặn
-- Không có khả năng giảm tải băng thông
-- Bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng, **không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
+- Không có khả năng giảm tải băng thông, nhưng vẫn giúp bạn không phải nhìn thấy hay bị làm phiền bởi quảng cáo
+- Ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
+-  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
 
 *Hình minh họa: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
 
@@ -146,11 +147,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTc1MDM0MzgsLTk2Mjg2NzEzNCwxNT
-g0OTQ3NDEsLTM3MTQ3MDQ1NywxNDMyNzE3NDcsOTQwMTM2MzUx
-LDExMzQyMjgyNjgsMTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4Nz
-I4OTgzNywtMTQ5MTExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwt
-NjEyOTE5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0LC0yMTAwNj
-g3ODQyLDMzMjMzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2NDAxOTVd
-fQ==
+eyJoaXN0b3J5IjpbLTMyMjYxODMwNiwtOTYyODY3MTM0LDE1OD
+Q5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEs
+MTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzNDI4ODE0NDIsMzg3Mj
+g5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUxLDM5MTQ5MjQ0LC02
+MTI5MTk1MjcsLTcxNjE0MDM0OSwtNTQyMTU0MTQsLTIxMDA2OD
+c4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5LC00OTY0MDE5NV19
+
 -->
