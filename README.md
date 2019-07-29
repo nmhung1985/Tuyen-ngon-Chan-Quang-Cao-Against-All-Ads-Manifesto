@@ -70,7 +70,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 3. Do đó, bạn lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi hiện nay, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, v.v..., áp dụng nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Tiết lộ: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus (tên nhóm lấy từ đây), uBlock Origin, v.v... , áp dụng kết hợp 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
-- [FMSF của nmtrung](https://github.com/nmtrung/FMSF-2.0): tác giả là thành viên voz.vn nên bộ lọc khá nổi bên đó, đáng tiếc là không thấy tác giả đề xuất được đưa vào các ứng dụng nổi tiếng, 
+- [FMSF của nmtrung](https://github.com/nmtrung/FMSF-2.0): tác giả là thành viên voz.vn nên bộ lọc khá nổi bên đó, đáng tiếc là không thấy tác giả đề xuất được đưa vào các ứng dụng nổi tiếng, áp dụng kết hợp 2 nguyên lý như ABPVN.
 
 ## Hướng dẫn tổng quan
 
@@ -159,11 +159,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDA5NjQzLDkzMDg0OTEwLC0yMTQ0OT
-Q2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3MSwxNTQ2NzYxOTIx
-LDEwMTgxMTY2MDQsLTE4MDcyNDkzMDcsMTE5NzkwMDM1MywtMT
-gyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2
-ODE1OCwxMjAxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMT
-I4ODYzMzcxOCwtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4
-NTM5NV19
+eyJoaXN0b3J5IjpbLTEwMDM1NTk4OTgsOTMwODQ5MTAsLTIxND
+Q5NDY0MDcsMTkxNzI3NjI1OSwxMTk3MzA3ODcxLDE1NDY3NjE5
+MjEsMTAxODExNjYwNCwtMTgwNzI0OTMwNywxMTk3OTAwMzUzLC
+0xODIyNzE0NzY1LC01NDUyODQyNjksNzE1NzI0MDY3LC0xNDQ3
+NzY4MTU4LDEyMDExMDY0NDgsMjAwMTAxMjAxLDgyNjU4MjkyLC
+0xMjg4NjMzNzE4LC04MjE0NzkxOTUsLTc5ODI3OTk5NCwtNDU4
+NDg1Mzk1XX0=
 -->
