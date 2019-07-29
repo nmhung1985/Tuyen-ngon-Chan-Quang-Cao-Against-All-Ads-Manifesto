@@ -20,6 +20,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 1.2. Dữ liệu từ các tên miền quảng cáo vẫn có thể truyền được tới hệ thống, nhưng sẽ không hiển thị cho bạn thấy (lọc hoa lá màu mè - cosmetic filter): băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web. **Lưu ý** là nguyên lý này không bao giờ được áp dụng riêng mà luôn ở trạng thái bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
 
+Ví dụ, bên trái ápchặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa
 ![So sánh](https://cdn.adguard.com/public/Adguard/Blog/Android/comparison/ad_leftovers_resized.png?1)
 
 #### 2. Cấp 2, phân loại theo phương thức:
@@ -157,11 +158,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTgwOTY5MSwxMTk3MzA3ODcxLDE1ND
-Y3NjE5MjEsMTAxODExNjYwNCwtMTgwNzI0OTMwNywxMTk3OTAw
-MzUzLC0xODIyNzE0NzY1LC01NDUyODQyNjksNzE1NzI0MDY3LC
-0xNDQ3NzY4MTU4LDEyMDExMDY0NDgsMjAwMTAxMjAxLDgyNjU4
-MjkyLC0xMjg4NjMzNzE4LC04MjE0NzkxOTUsLTc5ODI3OTk5NC
-wtNDU4NDg1Mzk1LC0xMDk1NzkyMjYsMTY0OTMzNjkzMyw0MzM1
-MjQ3ODJdfQ==
+eyJoaXN0b3J5IjpbLTEyODYyNTQwNDAsMTE5NzMwNzg3MSwxNT
+Q2NzYxOTIxLDEwMTgxMTY2MDQsLTE4MDcyNDkzMDcsMTE5Nzkw
+MDM1MywtMTgyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcxNTcyNDA2Ny
+wtMTQ0Nzc2ODE1OCwxMjAxMTA2NDQ4LDIwMDEwMTIwMSw4MjY1
+ODI5MiwtMTI4ODYzMzcxOCwtODIxNDc5MTk1LC03OTgyNzk5OT
+QsLTQ1ODQ4NTM5NSwtMTA5NTc5MjI2LDE2NDkzMzY5MzMsNDMz
+NTI0NzgyXX0=
 -->
