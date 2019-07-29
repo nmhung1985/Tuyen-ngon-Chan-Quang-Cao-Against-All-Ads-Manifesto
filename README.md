@@ -55,7 +55,7 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 
 1.2. DNS:
 - Thiết lập hệ thống hoặc thiết bị để dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm lọc và chặn
-- Người dùng Việt Nam có thể cảm thấy chậm hơn một chút
+- Chưa chú trọng Việt Nam, nên người dùng Việt Nam có thể cảm thấy chậm hơn một chút
 - Áp dụng nguyên lý 1
 
 1.3. VPN:
@@ -152,7 +152,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ3OTM3OTYsMTQ0Mzk5OTU1NywtOT
+eyJoaXN0b3J5IjpbLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1NywtOT
 YyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0
 Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzND
 I4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUx
