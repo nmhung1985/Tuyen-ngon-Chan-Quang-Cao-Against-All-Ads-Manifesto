@@ -37,7 +37,7 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 -  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp nâng cao khả năng chặn.
 
 3. Lọc lớp mã hóa (HTTPS filter):
-- Bổ sung khả năng đọc và phân tích các truy vấn được mã hóa
+- Bổ sung khả năng đọc và phân tích các truy vấn/kết nối được mã hóa
 - Giúp nguyên lý 1 có thể chặn được một phần quảng cáo Youtube
 - **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho 2 nguyên lý trên, giúp nâng cao khả năng chặn. 
 
@@ -50,7 +50,7 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 #### 1. Phân loại theo phương thức:
 
 1.1. Hosts/Tường lửa: 
-- Danh sách chặn được ghi trực tiếp vào cơ sở dữ liệu nội tại của hệ thống bảo mật trên thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, Knox trên điện thoại Samsung)
+- Danh sách chặn được ghi trực tiếp vào cơ sở dữ liệu nội tại của thiết bị, được chính hệ thống bảo mật nội tại chính chủ xử lý (tập tin hosts trên máy tính, Knox trên điện thoại Samsung)
 - Áp dụng nguyên lý 1
 
 1.2. DNS:
@@ -152,7 +152,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MjM4NTIyNywxNDQzOTk5NTU3LC05Nj
+eyJoaXN0b3J5IjpbLTk0MjIxMTQ0OSwxNDQzOTk5NTU3LC05Nj
 I4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3
 LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mj
 g4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsODIzOTQxNTEs
