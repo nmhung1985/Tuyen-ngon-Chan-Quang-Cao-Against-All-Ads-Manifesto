@@ -149,16 +149,17 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### iOS
 1. Dạng chạy giả lập VPN
+2. 
 - [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1. Hướng dẫn: [1]((https://github.com/bigdargon/hostsVN/wiki/Quantumult) )
-- [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): cách hoạt động như Quantumult, thiếu tính năng hơn một chút. Hướng dẫn: [1]((https://github.com/bigdargon/hostsVN/wiki/Surge))
-- [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Nhưng chưa hỗ trợ HTTPS.
-- [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
+
+- [Adguard Pro](https://itunes.apple.com/app/apple-store/id1126386264?mt=8) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Nhưng chưa hỗ trợ HTTPS. Hướng dẫn: [1]((https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) )
+- [Adguard](https://itunes.apple.com/app/adguard-adblock-privacy/id1047223162?mt=8): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán. Hướng dẫn: [1]((https://github.com/bigdargon/hostsVN/wiki/Adguard))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODA2Mjc3OCwtNjA3NjkwNDkwLDIwOD
-c0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMTA4Mjg1
-NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2NjcyMi
-wtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMTMxODI3
-MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5OTk1NT
-csLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3MTQ3MDQ1NywxNDMy
-NzE3NDddfQ==
+eyJoaXN0b3J5IjpbLTEyODY4MzAwODAsMTYzODA2Mjc3OCwtNj
+A3NjkwNDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4
+MDM3NSwtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNj
+Y0LDI1NTY2NjcyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3
+NzI4MzEsMTMxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwOD
+MzLDE0NDM5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3
+MTQ3MDQ1N119
 -->
