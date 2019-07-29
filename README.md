@@ -128,11 +128,9 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - Adguard Content Blocker: chỉ hỗ trợ Samsung Internet Browser và Yandex Browser, không hỗ trợ HTTPS, áp dụng 2 nguyên lý
 
-
-
 - AdAway (**phải root**): chặn dạng hosts
 
-- Adhell3 (Trả phí): tốt nhất, **chỉ cho máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
+- Adhell3 (Trả phí): tốt nhất **cho và chỉ duy nhất máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
 
 - Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN". 
 
@@ -151,11 +149,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjMyMjc3NywyNTU2NjY3MjIsLTkzNz
-AwNzI1MCw5ODMzNzQyNCwtNzg4NzcyODMxLDEzMTgyNzA5NCwt
-MTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5NTU3LC05Nj
-I4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3
-LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mj
-g4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsODIzOTQxNTFd
-fQ==
+eyJoaXN0b3J5IjpbLTEyODM5MDE2NjQsMjU1NjY2NzIyLC05Mz
+cwMDcyNTAsOTgzMzc0MjQsLTc4ODc3MjgzMSwxMzE4MjcwOTQs
+LTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1NywtOT
+YyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0
+Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzND
+I4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUx
+XX0=
 -->
