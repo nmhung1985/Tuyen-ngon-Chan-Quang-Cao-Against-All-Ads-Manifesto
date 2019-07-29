@@ -25,19 +25,20 @@ Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm
 Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta sẽ gọi chung là **Chặn Quảng Cáo (CQC)**, hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
 ## 1. Nguyên lý chặn quảng cáo
-1.1.  Lọc lớp mạng (network filter): 
+1.  Lọc lớp mạng (network filter): 
 - Không dữ liệu quảng cáo nào có thể đi vào hệ thống
 - Cách hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng
 - Hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube, cũng như có thể làm vỡ bố cục trang web.
 
-1.2. Lọc lớp giao diện (cosmetic filter):
+2. Lọc lớp giao diện (cosmetic filter):
 - Chỉ làm nhiệm vụ ẩn dữ liệu quảng cáo chứ không chặn
 - Không có khả năng giảm tải băng thông, nhưng vẫn giúp bạn không phải nhìn thấy hay bị làm phiền bởi quảng cáo
 - Ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
 -  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp nâng cao khả năng chặn.
 
-1.3. Lọc lớp mã hóa (HTTPS filter):
+3. Lọc lớp mã hóa (HTTPS filter):
 - Bổ sung khả năng đọc và phân tích các truy vấn được mã hóa
+- Giúp nguyên lý 1 có thể chặn được một phần quảng cáo Y
 - **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho 2 nguyên lý trên, giúp nâng cao khả năng chặn. 
 
 *Hình minh họa: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
@@ -151,7 +152,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzYxMDU1LC05NjI4NjcxMzQsMTU4ND
+eyJoaXN0b3J5IjpbNDY1NTc3MDcxLC05NjI4NjcxMzQsMTU4ND
 k0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwx
 MTM0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyOD
 k4MzcsLTE0OTExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYx
