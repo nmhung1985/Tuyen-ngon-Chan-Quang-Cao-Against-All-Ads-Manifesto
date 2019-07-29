@@ -141,7 +141,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 *Các ứng dụng đặc biệt*
 
-- [YouTube Vanced](https://youtubevanced.com/): ứng dụng chuyên chỉ để xem YouTube không quảng cáo. Hướng dẫn: [1](https://cellphones.com.vn/sforum/thu-thuat-huong-dan-su-dung-youtube-vanced-tren-android-hoan-toan-mien-phi)
+- [YouTube Vanced](https://vanced.app/): ứng dụng chuyên chỉ để xem YouTube không quảng cáo. Hướng dẫn: [1](https://cellphones.com.vn/sforum/thu-thuat-huong-dan-su-dung-youtube-vanced-tren-android-hoan-toan-mien-phi)
 
 - [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US): trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
 
@@ -160,11 +160,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzc5NjkyLDE1MzkwMjQxMzcsMTYzOD
-A2Mjc3OCwtNjA3NjkwNDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2
-OSwtMTI3MjU4MDM3NSwtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC
-0xMjgzOTAxNjY0LDI1NTY2NjcyMiwtOTM3MDA3MjUwLDk4MzM3
-NDI0LC03ODg3NzI4MzEsMTMxODI3MDk0LC0xMzg1MTUzMTIxLC
-0yMTI3MjcwODMzLDE0NDM5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0
-OTQ3NDFdfQ==
+eyJoaXN0b3J5IjpbLTExODcxOTg1MjcsMTQzNzc5NjkyLDE1Mz
+kwMjQxMzcsMTYzODA2Mjc3OCwtNjA3NjkwNDkwLDIwODc0OTAz
+MDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMTA4Mjg1NTQzMS
+wxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2NjcyMiwtOTM3
+MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMTMxODI3MDk0LC
+0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5OTk1NTcsLTk2
+Mjg2NzEzNF19
 -->
