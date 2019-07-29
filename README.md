@@ -35,12 +35,13 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 2.2. DNS:
 - thiết lập hệ thống hoặc thiết bị để dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm kiểm tra thông tin chặn
-- người dùng Việt Nam có thể cảm thấy chậm, nhưng không quá khác biệt
+- người dùng Việt Nam có thể cảm thấy chậm hơn một chút
 - áp dụng nguyên lý 1
 
 2.3. VPN:
 - chạy một VPN giả lập nội bộ để can thiệp thông tin lưu lượng mạng
 - có thể hỗ trợ thêm 2 tính năng trên với đặc điểm: ứng dụng tự xử lý chứ hệ thống không xử lý
+- có thể làm tốn pin hơn
 - chủ yếu cho điện thoại
 - thường áp dụng nguyên lý 1 (có ngoại lệ)
 
@@ -114,7 +115,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN". 
 
-*Ba ứng dụng đặc biệt*
+*Các ứng dụng đặc biệt*
 
 - YouTube Vanced: ứng dụng chuyên chỉ để xem YouTube không quảng cáo
 
@@ -165,7 +166,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1ODE4OTU1LC0yMTAwNjg3ODQyLDMzMj
+eyJoaXN0b3J5IjpbLTU0MjE1NDE0LC0yMTAwNjg3ODQyLDMzMj
 MzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2NDAxOTUsLTEzMjQ0MTEx
 NDQsLTYyMDExMjI2MywxNjA3NDQyNzkzLDkzMDg0OTEwLC0yMT
 Q0OTQ2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3MSwxNTQ2NzYx
