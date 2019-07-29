@@ -120,7 +120,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - Brave Browser/Firefox Focus: trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
 
-- Firefox cho Android: do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
+- Firefox (bản chuẩn cho Android: do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
 
 ### iOS
 Đều là dạng chạy giả lập VPN
@@ -165,7 +165,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI3MDM5OTIsMzMyMzMxMzk4LC0xMT
+eyJoaXN0b3J5IjpbLTIxMDA2ODc4NDIsMzMyMzMxMzk4LC0xMT
 M5NTQ5NDQ5LC00OTY0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEy
 MjYzLDE2MDc0NDI3OTMsOTMwODQ5MTAsLTIxNDQ5NDY0MDcsMT
 kxNzI3NjI1OSwxMTk3MzA3ODcxLDE1NDY3NjE5MjEsMTAxODEx
