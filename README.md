@@ -47,7 +47,7 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 2.3. VPN:
 - chạy một VPN giả lập nội bộ để can thiệp thông tin lưu lượng mạng
 - có thể hỗ trợ thêm 2 tính năng trên với đặc điểm: ứng dụng tự xử lý chứ hệ thống không xử lý
-- có thể làm tốn pin hơn
+- có thể làm tốn pin hơn một chút (không đáng lo ngại vì hiện nay các ứng dụng đều tối ưu)
 - chủ yếu cho điện thoại
 - thường áp dụng nguyên lý 1 (có ngoại lệ)
 
@@ -136,11 +136,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. Adguard: trả phí khác gì miễn phí?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OT
-ExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywt
-NzE2MTQwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMz
-EzOTgsLTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0
-LC02MjAxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0ND
-k0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTky
+eyJoaXN0b3J5IjpbMTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4Nz
+I4OTgzNywtMTQ5MTExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwt
+NjEyOTE5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0LC0yMTAwNj
+g3ODQyLDMzMjMzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2NDAxOTUs
+LTEzMjQ0MTExNDQsLTYyMDExMjI2MywxNjA3NDQyNzkzLDkzMD
+g0OTEwLC0yMTQ0OTQ2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3
 MV19
 -->
