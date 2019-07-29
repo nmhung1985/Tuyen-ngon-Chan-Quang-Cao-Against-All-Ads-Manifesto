@@ -31,11 +31,6 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 - Ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
 -  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp nâng cao khả năng chặn.
 
-3. Lọc lớp mã hóa (HTTPS filter):
-- Bổ sung khả năng đọc và phân tích các truy vấn/kết nối được mã hóa
-- Giúp nguyên lý 1 có thể chặn được một phần quảng cáo Youtube
-- **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho 2 nguyên lý trên, giúp nâng cao khả năng chặn. 
-
 *Hình minh họa: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
 
 ![So sánh](https://cdn.adguard.com/public/Adguard/Blog/Android/comparison/ad_leftovers_resized.png?1)
@@ -64,6 +59,11 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 - Tiện ích riêng đảm nhiệm chặn quảng cáo cho trình duyệt
 - Chủ yếu cho máy tính
 - Áp dụng kết hợp được cả 3 nguyên lý
+
+1.5  Lọc lớp mã hóa (HTTPS filter):
+- Bổ sung khả năng đọc và phân tích các truy vấn/kết nối được mã hóa
+- Giúp nguyên lý 1 có thể chặn được một phần quảng cáo Youtube
+- **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho 2 nguyên lý trên, giúp nâng cao khả năng chặn. 
 
 #### 2. Phân loại theo độ bao phủ:
 
@@ -149,11 +149,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxODI3MDk0LC0xMzg1MTUzMTIxLC0yMT
-I3MjcwODMzLDE0NDM5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3
-NDEsLTM3MTQ3MDQ1NywxNDMyNzE3NDcsOTQwMTM2MzUxLDExMz
-QyMjgyNjgsMTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgz
-NywtMTQ5MTExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwtNjEyOT
-E5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0LC0yMTAwNjg3ODQy
-XX0=
+eyJoaXN0b3J5IjpbLTIzNjY1NzY0MywxMzE4MjcwOTQsLTEzOD
+UxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1NywtOTYyODY3
+MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0Nyw5ND
+AxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzNDI4ODE0
+NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUxLDM5MT
+Q5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OSwtNTQyMTU0MTRd
+fQ==
 -->
