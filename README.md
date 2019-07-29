@@ -108,7 +108,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - Adguard Premium (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS
 
-- Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS
+- Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, chúng ta nên lưu ý để ủng hộ :)
 
 - AdAway (**Root**): chặn dạng hosts
 
@@ -165,11 +165,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMz
-I0NDExMTQ0LC02MjAxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkx
-MCwtMjE0NDk0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMT
-U0Njc2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5
-MDAzNTMsLTE4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNj
-csLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2
-NTgyOTJdfQ==
+eyJoaXN0b3J5IjpbMjEwMzYwMTcyMCwtMTEzOTU0OTQ0OSwtND
+k2NDAxOTUsLTEzMjQ0MTExNDQsLTYyMDExMjI2MywxNjA3NDQy
+NzkzLDkzMDg0OTEwLC0yMTQ0OTQ2NDA3LDE5MTcyNzYyNTksMT
+E5NzMwNzg3MSwxNTQ2NzYxOTIxLDEwMTgxMTY2MDQsLTE4MDcy
+NDkzMDcsMTE5NzkwMDM1MywtMTgyMjcxNDc2NSwtNTQ1Mjg0Mj
+Y5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAxMTA2NDQ4LDIw
+MDEwMTIwMV19
 -->
