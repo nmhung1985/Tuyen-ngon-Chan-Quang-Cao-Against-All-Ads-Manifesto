@@ -113,8 +113,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 1. Toàn bộ máy tính: Adguard (Trả phí, [Windows](https://adguard.com/en/adguard-windows/overview.html), [Mac](https://adguard.com/en/adguard-mac/overview.html)) là phần mềm tốt nhất, nếu có thể nói là duy nhất. Cũng đa dạng nhất hiện nay khi có gần như đầy đủ phiên bản phủ hết các cấp độ trình bày ở trên. Hướng dẫn: [1](https://win10.vn/adguard-premium-post6073.html), [2](http://echip.com.vn/adguard-cong-cu-chan-quang-cao-manh-me-cho-may-tinh-va-dien-thoai-a20170523105438589-c1079.html)
 
 2. Tiện ích cho trình duyệt: Cách tốt nhất không bị quảng cáo YouTube trên máy tính và đều miễn phí. Có rất nhiều, ví dụ Adguard vừa nói ở trên cũng có phiên bản riêng, Adblock Plus, Adblock, Adblocker v.v...
+2.1. Chrome/Firefox:
 - uBlock Origin: tiện ích phổ biến nhất, nhưng lời khuyên là nên dùng 2 tiện ích ở dưới
 - Nano Adblocker & Nano Defender: Nano Adblocker là bản fork của uBlock Origin với một số tối ưu, nên dùng kết hợp Nano Defender để tránh bị các trang web nhận diện là đang dùng trình chặn quảng cáo.
+- Hướng dẫn: Vào kho tiện ích của hai trình duyệt này và gõ tên các tiện ích vừa nói ở trên để cài.
+2.2. 
 
 3. DNS: Xem trong bài hướng dẫn chung
 
@@ -149,11 +152,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI1ODAzNzUsLTEwODI4NTU0MzEsMT
-k4NTQ1OTgzMywtMTI4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAw
-NzI1MCw5ODMzNzQyNCwtNzg4NzcyODMxLDEzMTgyNzA5NCwtMT
-M4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5NTU3LC05NjI4
-NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LD
-k0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mjg4
-MTQ0Ml19
+eyJoaXN0b3J5IjpbLTE0NDQyMTk2NzYsLTEyNzI1ODAzNzUsLT
+EwODI4NTU0MzEsMTk4NTQ1OTgzMywtMTI4MzkwMTY2NCwyNTU2
+NjY3MjIsLTkzNzAwNzI1MCw5ODMzNzQyNCwtNzg4NzcyODMxLD
+EzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQz
+OTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NT
+csMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIx
+NzU3NTJdfQ==
 -->
