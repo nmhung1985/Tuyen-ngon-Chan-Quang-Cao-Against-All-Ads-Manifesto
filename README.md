@@ -131,16 +131,16 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### iOS
 Đều là dạng chạy giả lập VPN
-1. Quantumult (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1.
-2. Surge: cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
+1. [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1.
+2. [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge): cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
 3. Adguard: trả phí khác gì miễn phí?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4Nz
-I4OTgzNywtMTQ5MTExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwt
-NjEyOTE5NTI3LC03MTYxNDAzNDksLTU0MjE1NDE0LC0yMTAwNj
-g3ODQyLDMzMjMzMTM5OCwtMTEzOTU0OTQ0OSwtNDk2NDAxOTUs
-LTEzMjQ0MTExNDQsLTYyMDExMjI2MywxNjA3NDQyNzkzLDkzMD
-g0OTEwLC0yMTQ0OTQ2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3
-MV19
+eyJoaXN0b3J5IjpbMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzND
+I4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUx
+LDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OSwtNTQyMT
+U0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5
+LC00OTY0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYzLDE2MD
+c0NDI3OTMsOTMwODQ5MTAsLTIxNDQ5NDY0MDcsMTkxNzI3NjI1
+OV19
 -->
