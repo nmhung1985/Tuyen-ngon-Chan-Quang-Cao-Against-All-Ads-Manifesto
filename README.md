@@ -74,8 +74,8 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 2.2. Cấp độ Thiết bị: 
 - Thiết lập trên từng thiết bị muốn chặn quảng cáo
-- Coàn bộ các phần mềm, ứng dụng trên thiết bị đó sẽ được chặn quảng cáo
-- Chủ yếu áp dụng nguyên lý 1 (có ngoại lệ sẽ đề cập ở dưới)
+- Toàn bộ các phần mềm, ứng dụng trên thiết bị đó sẽ được chặn quảng cáo
+- Chủ yếu áp dụng nguyên lý 1
 
 2.3. Cấp độ Trình duyệt:
 - Chỉ hoạt động trên trình duyệt được thiết lập, hoặc có thể kể đến trình duyệt tích hợp sẵn tính năng chặn quảng cáo (ví dụ Brave)
@@ -148,7 +148,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjIwNTk0MywtNzg4NzcyODMxLDEzMT
+eyJoaXN0b3J5IjpbLTI4NTY0MTIxNSwtNzg4NzcyODMxLDEzMT
 gyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5
 NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMT
 QzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3
