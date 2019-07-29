@@ -80,7 +80,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 
 ## Hướng dẫn tổng quan
 
-Các chương trình, phần mềm, ứng dụng được liệt kê theo đánh giá cá nhân thứ tự ưu tiên: tốt nhất, miễn phí, dễ cài đặt, rồi đến trả phí. Nhưng ví dụ nếu ứng dụng trả phí vượt trội thì vẫn sẽ được liệt kê trước.
+Các chương trình, phần mềm, ứng dụng được liệt kê theo đánh giá cá nhân tác giả dựa trên *tổng hợp của lần lượt* bốn yếu tố: tốt nhất, miễn phí, dễ cài đặt, trả phí. Thành ra ví dụ nếu ứng dụng trả phí vượt trội thì vẫn sẽ được liệt kê trước.
 
 |[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac)](#máy-tính)|[Android](#android)  |[iOS](#ios)|
 |:-:|:-:|:-:|:-:|
@@ -165,11 +165,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDAyNDE3NSwtMTMyNDQxMTE0NCwtNj
-IwMTEyMjYzLDE2MDc0NDI3OTMsOTMwODQ5MTAsLTIxNDQ5NDY0
-MDcsMTkxNzI3NjI1OSwxMTk3MzA3ODcxLDE1NDY3NjE5MjEsMT
-AxODExNjYwNCwtMTgwNzI0OTMwNywxMTk3OTAwMzUzLC0xODIy
-NzE0NzY1LC01NDUyODQyNjksNzE1NzI0MDY3LC0xNDQ3NzY4MT
-U4LDEyMDExMDY0NDgsMjAwMTAxMjAxLDgyNjU4MjkyLC0xMjg4
-NjMzNzE4XX0=
+eyJoaXN0b3J5IjpbLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02Mj
+AxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQw
+NywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTkyMSwxMD
+E4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3
+MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3NjgxNT
+gsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLTEyODg2
+MzM3MThdfQ==
 -->
