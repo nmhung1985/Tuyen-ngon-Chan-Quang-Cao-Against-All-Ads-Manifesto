@@ -136,13 +136,13 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 1. [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1.
 2. [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge): cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
-4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc và
+4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2Njg0NjEsMTEzNDIyODI2OCwxNzYyMT
-c1NzUyLDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3
-LDgyMzk0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MD
-M0OSwtNTQyMTU0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4LC0x
-MTM5NTQ5NDQ5LC00OTY0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMT
-EyMjYzLDE2MDc0NDI3OTMsOTMwODQ5MTAsLTIxNDQ5NDY0MDdd
-fQ==
+eyJoaXN0b3J5IjpbOTQwMTM2MzUxLDExMzQyMjgyNjgsMTc2Mj
+E3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgzNywtMTQ5MTExMDc1
+Nyw4MjM5NDE1MSwzOTE0OTI0NCwtNjEyOTE5NTI3LC03MTYxND
+AzNDksLTU0MjE1NDE0LC0yMTAwNjg3ODQyLDMzMjMzMTM5OCwt
+MTEzOTU0OTQ0OSwtNDk2NDAxOTUsLTEzMjQ0MTExNDQsLTYyMD
+ExMjI2MywxNjA3NDQyNzkzLDkzMDg0OTEwLC0yMTQ0OTQ2NDA3
+XX0=
 -->
