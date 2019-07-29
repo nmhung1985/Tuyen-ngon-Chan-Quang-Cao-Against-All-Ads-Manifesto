@@ -133,14 +133,14 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 Đều là dạng chạy giả lập VPN
 1. [Quantumult](https://github.com/bigdargon/hostsVN/wiki/Quantumult) (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1.
 2. [Surge](https://github.com/bigdargon/hostsVN/wiki/Surge): cách hoạt động như Quantumult, thiếu tính năng hơn một chút.
-3. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard) và [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): trong bản miễn phí cũng có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán. Hoạt động
+3. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard) và [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): trong bản miễn phí cũng có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán. Hoạt động tương tự
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDM2ODk3MCwxMTM0MjI4MjY4LDE3Nj
-IxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3
-NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MT
-QwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgs
-LTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02Mj
-AxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQw
-N119
+eyJoaXN0b3J5IjpbOTAwNDA0ODM5LDExMzQyMjgyNjgsMTc2Mj
+E3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgzNywtMTQ5MTExMDc1
+Nyw4MjM5NDE1MSwzOTE0OTI0NCwtNjEyOTE5NTI3LC03MTYxND
+AzNDksLTU0MjE1NDE0LC0yMTAwNjg3ODQyLDMzMjMzMTM5OCwt
+MTEzOTU0OTQ0OSwtNDk2NDAxOTUsLTEzMjQ0MTExNDQsLTYyMD
+ExMjI2MywxNjA3NDQyNzkzLDkzMDg0OTEwLC0yMTQ0OTQ2NDA3
+XX0=
 -->
