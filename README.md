@@ -28,7 +28,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 2. Lọc lớp giao diện (cosmetic filter):
 - Chỉ làm nhiệm vụ ẩn dữ liệu quảng cáo chứ không chặn
 - Không có khả năng giảm tải băng thông, nhưng vẫn giúp bạn không phải nhìn thấy hay bị làm phiền bởi quảng cáo
-- Ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
+- Ưu điểm thường thấy là có thể ẩn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
 -  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp nâng cao khả năng chặn.
 
 *Hình minh họa: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
@@ -63,6 +63,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 [**Đặc biệt**] Lọc lớp mã hóa (HTTPS filter): Không phải phương thức hay nguyên lý chặn, mà là tính năng bổ sung trong ứng dụng
 - Bổ sung khả năng đọc và phân tích các truy vấn/kết nối được mã hóa
 - Giúp nguyên lý 1 có thể chặn thêm được một phần quảng cáo mà Youtube, Facebook mã hóa
+- Nếu không có tính năng này thì dù áp dụng được nguyên lý 2 vẫn có thể không ẩn được quảng cáo YouTube
 
 #### 2. Phân loại theo độ bao phủ:
 
@@ -150,11 +151,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI0ODkwMzYsMjU1NjY2NzIyLC05Mz
-cwMDcyNTAsOTgzMzc0MjQsLTc4ODc3MjgzMSwxMzE4MjcwOTQs
-LTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1NywtOT
-YyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0
-Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzND
-I4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUx
-XX0=
+eyJoaXN0b3J5IjpbLTU2NjMyMjc3NywyNTU2NjY3MjIsLTkzNz
+AwNzI1MCw5ODMzNzQyNCwtNzg4NzcyODMxLDEzMTgyNzA5NCwt
+MTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5NTU3LC05Nj
+I4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3
+LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mj
+g4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsODIzOTQxNTFd
+fQ==
 -->
