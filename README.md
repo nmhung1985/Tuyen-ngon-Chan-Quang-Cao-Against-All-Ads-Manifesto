@@ -67,7 +67,7 @@ Từ các cách phân loại này, ngoài việc các chương trình và ứng 
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dung kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
 1. Chương trình, phần mềm là để xử lý.
 2.  Ngoài ra còn cần bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do phần mềm là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
-3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải
+3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện chặn quảng cáo (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
 4. Do đó, bạn lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi hiện nay, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, v.v..., áp dụng nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Tiết lộ: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus (tên nhóm lấy từ đây), uBlock Origin, v.v... , áp dụng kết hợp 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
@@ -160,11 +160,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzAwMDMxMTAsOTMwODQ5MTAsLTIxND
-Q5NDY0MDcsMTkxNzI3NjI1OSwxMTk3MzA3ODcxLDE1NDY3NjE5
-MjEsMTAxODExNjYwNCwtMTgwNzI0OTMwNywxMTk3OTAwMzUzLC
-0xODIyNzE0NzY1LC01NDUyODQyNjksNzE1NzI0MDY3LC0xNDQ3
-NzY4MTU4LDEyMDExMDY0NDgsMjAwMTAxMjAxLDgyNjU4MjkyLC
-0xMjg4NjMzNzE4LC04MjE0NzkxOTUsLTc5ODI3OTk5NCwtNDU4
-NDg1Mzk1XX0=
+eyJoaXN0b3J5IjpbLTQzMjM3ODE1Myw5MzA4NDkxMCwtMjE0ND
+k0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTky
+MSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLT
+E4MjI3MTQ3NjUsLTU0NTI4NDI2OSw3MTU3MjQwNjcsLTE0NDc3
+NjgxNTgsMTIwMTEwNjQ0OCwyMDAxMDEyMDEsODI2NTgyOTIsLT
+EyODg2MzM3MTgsLTgyMTQ3OTE5NSwtNzk4Mjc5OTk0LC00NTg0
+ODUzOTVdfQ==
 -->
