@@ -20,13 +20,13 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 1.2. Dữ liệu từ các tên miền quảng cáo vẫn có thể truyền được tới hệ thống, nhưng sẽ không hiển thị cho bạn thấy (lọc hoa lá màu mè - cosmetic filter): băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web. **Lưu ý** là nguyên lý này không bao giờ được áp dụng riêng mà luôn ở trạng thái bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
 
-Hình minh họa: bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa.
+*Hình minh họa: bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa.*
 ![So sánh](https://cdn.adguard.com/public/Adguard/Blog/Android/comparison/ad_leftovers_resized.png?1)
 
 #### 2. Cấp 2, phân loại theo phương thức:
 
 2.1. Hosts/Tường lửa: 
-- danh sách chặn được ghi trực tiếp vào hệ thống nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, hệ thống bảo mật Knox trên điện thoại Samsung)
+- danh sách chặn được ghi trực tiếp vào cơ sở dữ liệu nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, Knox trên điện thoại Samsung)
 - áp dụng nguyên lý 1.1
 
 2.2. DNS:
@@ -158,7 +158,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NjU2NjkwNywxMTk3MzA3ODcxLDE1ND
+eyJoaXN0b3J5IjpbMTkxNzI3NjI1OSwxMTk3MzA3ODcxLDE1ND
 Y3NjE5MjEsMTAxODExNjYwNCwtMTgwNzI0OTMwNywxMTk3OTAw
 MzUzLC0xODIyNzE0NzY1LC01NDUyODQyNjksNzE1NzI0MDY3LC
 0xNDQ3NzY4MTU4LDEyMDExMDY0NDgsMjAwMTAxMjAxLDgyNjU4
