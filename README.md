@@ -45,7 +45,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 1.2. Hệ thống phân giải tên miền (DNS):
 - Thiết lập hệ thống hoặc thiết bị để dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm lọc và chặn
-- Chưa chú trọng Việt Nam, nên người dùng Việt Nam có thể cảm thấy chậm hơn một chút
+- Hệ thống máy chủ chưa tối ưu cho Việt Nam, nên người dùng Việt Nam có thể cảm thấy chậm hơn một chút
 - Áp dụng nguyên lý 1
 
 1.3. Mạng riêng ảo (VPN):
@@ -159,11 +159,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 ### DNS
 Như đã giới thiệu ngắn gọn ở các phần trước, DNS là cách
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDg1MzQxNzgsLTExODcxOTg1MjcsMT
-QzNzc5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwtNjA3Njkw
-NDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NS
-wtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1
-NTY2NjcyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4Mz
-EsMTMxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0
-NDM5OTk1NTddfQ==
+eyJoaXN0b3J5IjpbMTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxND
+M3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0
+OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC
+0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5MDE2NjQsMjU1
+NjY2NzIyLC05MzcwMDcyNTAsOTgzMzc0MjQsLTc4ODc3MjgzMS
+wxMzE4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0
+Mzk5OTU1N119
 -->
