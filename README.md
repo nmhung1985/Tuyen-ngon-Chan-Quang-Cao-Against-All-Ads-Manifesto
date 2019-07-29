@@ -83,11 +83,11 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là **ứng dụng**) trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. (Cũng xin lưu ý, do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dachất lượng đồng đều).
+Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tuy nhiên, ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. (Cũng xin lưu ý, do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều).
 
 ## Vậy chặn như thế nào?
-Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
-1. Chương trình, phần mềm là để xử lý.
+Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Vậy hãy kiểm tra lại từng bước:
+1. Đầu tiên, phải có hệ thống/ứng dụng để xử lý.
 2.  Ngoài ra còn cần bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện quảng cáo bị chặn (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
 4. Do đó, bạn lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
@@ -148,11 +148,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODkyODM2MTAsLTc4ODc3MjgzMSwxMz
-E4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5
-OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LD
-E0MzI3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1
-NzUyLDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LD
-gyMzk0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0
-OV19
+eyJoaXN0b3J5IjpbLTIxMzcwNTcwMCwtNzg4NzcyODMxLDEzMT
+gyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5
+NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMT
+QzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3
+NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsOD
+IzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MTQwMzQ5
+XX0=
 -->
