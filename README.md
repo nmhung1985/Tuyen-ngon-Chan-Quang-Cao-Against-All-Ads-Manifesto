@@ -47,45 +47,45 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 
 ## Cấp độ chặn quảng cáo
 
-#### 2. Cấp 2, phân loại theo phương thức:
+#### 1. Phân loại theo phương thức:
 
-2.1. Hosts/Tường lửa: 
-- danh sách chặn được ghi trực tiếp vào cơ sở dữ liệu nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, Knox trên điện thoại Samsung)
-- áp dụng nguyên lý 1
+1.1. Hosts/Tường lửa: 
+- Danh sách chặn được ghi trực tiếp vào cơ sở dữ liệu nội tại của thiết bị, được chính hệ thống nội tại chính chủ xử lý (tập tin hosts trên máy tính, Knox trên điện thoại Samsung)
+- Áp dụng nguyên lý 1
 
-2.2. DNS:
-- thiết lập hệ thống hoặc thiết bị để dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm kiểm tra thông tin chặn
-- người dùng Việt Nam có thể cảm thấy chậm hơn một chút
-- áp dụng nguyên lý 1
+1.2. DNS:
+- Thiết lập hệ thống hoặc thiết bị để dùng DNS-có-tính-năng-chặn-quảng-cáo, DNS từ xa kia sẽ chịu trách nhiệm kiểm tra thông tin chặn
+- Người dùng Việt Nam có thể cảm thấy chậm hơn một chút
+- Áp dụng nguyên lý 1
 
-2.3. VPN:
-- chạy một VPN giả lập nội bộ để can thiệp thông tin lưu lượng mạng
-- có thể hỗ trợ thêm 2 tính năng trên với đặc điểm: ứng dụng tự xử lý chứ hệ thống không xử lý
-- có thể làm tốn pin hơn một chút (không đáng lo ngại vì hiện nay các ứng dụng đều tối ưu)
-- chủ yếu cho điện thoại
-- thường áp dụng nguyên lý 1 (có ngoại lệ)
+1.3. VPN:
+- Chạy một VPN giả lập nội bộ để can thiệp thông tin lưu lượng mạng
+- Có thể hỗ trợ thêm 2 tính năng trên với đặc điểm: ứng dụng tự xử lý chứ hệ thống không xử lý
+- Có thể làm tốn pin hơn một chút (không đáng lo ngại vì hiện nay các ứng dụng đều tối ưu)
+- Chủ yếu cho điện thoại
+- Thường áp dụng nguyên lý 1 (có ngoại lệ)
 
-2.4. Tiện ích (addon/extension) cho trình duyệt:
-- tiện ích riêng đảm nhiệm chặn quảng cáo cho trình duyệt
-- chủ yếu cho máy tính
-- áp dụng kết hợp được cả 2 nguyên lý
+1.4. Tiện ích (addon/extension) cho trình duyệt:
+- Tiện ích riêng đảm nhiệm chặn quảng cáo cho trình duyệt
+- Chủ yếu cho máy tính
+- Áp dụng kết hợp được cả 2 nguyên lý
 
-#### 3. Cấp 3, phân loại theo độ bao phủ:
+#### 2. Phân loại theo độ bao phủ:
 
-3.1. Cấp độ Mạng Nội Bộ: 
-- chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
-- toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
-- cách duy nhất để chặn quảng cáo trên các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
-- chủ yếu áp dụng nguyên lý 1 (ngoại trừ pfSense và một vài hệ thống tương đương)
+2.1. Cấp độ Mạng Nội Bộ: 
+- Chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc máy tính PC có cài hệ thống tường lửa đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
+- Toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
+- Cách duy nhất để chặn quảng cáo trên các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
+- Chủ yếu áp dụng nguyên lý 1 (ngoại trừ pfSense và một vài hệ thống tương đương)
 
-3.2. Cấp độ Thiết bị: 
-- thiết lập trên từng thiết bị muốn chặn quảng cáo
-- toàn bộ các phần mềm, ứng dụng trên thiết bị đó sẽ được chặn quảng cáo
-- chủ yếu áp dụng nguyên lý 1 (có ngoại lệ sẽ đề cập ở dưới)
+2.2. Cấp độ Thiết bị: 
+- Thiết lập trên từng thiết bị muốn chặn quảng cáo
+- Coàn bộ các phần mềm, ứng dụng trên thiết bị đó sẽ được chặn quảng cáo
+- Chủ yếu áp dụng nguyên lý 1 (có ngoại lệ sẽ đề cập ở dưới)
 
-3.3. Cấp độ Trình duyệt:
-- chỉ hoạt động trên trình duyệt được thiết lập hoặc sử dụng trình duyệt chuyên chặn quảng cáo (ví dụ Brave)
-- thường áp dụng được cả 2 nguyên lý
+2.3. Cấp độ Trình duyệt:
+- Chỉ hoạt động trên trình duyệt được thiết lập hoặc sử dụng trình duyệt chuyên chặn quảng cáo (ví dụ Brave)
+- Thường áp dụng được cả 2 nguyên lý
 
 Từ các cách phân loại này, ngoài việc các chương trình và ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn áp dụng riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
@@ -152,11 +152,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0Mzk5OTU1NywtOTYyODY3MTM0LDE1OD
-Q5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEs
-MTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzNDI4ODE0NDIsMzg3Mj
-g5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUxLDM5MTQ5MjQ0LC02
-MTI5MTk1MjcsLTcxNjE0MDM0OSwtNTQyMTU0MTQsLTIxMDA2OD
-c4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5LC00OTY0MDE5NV19
-
+eyJoaXN0b3J5IjpbLTIyMDc3MDY4OCwxNDQzOTk5NTU3LC05Nj
+I4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3
+LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mj
+g4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsODIzOTQxNTEs
+MzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MTQwMzQ5LC01NDIxNT
+QxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgsLTExMzk1NDk0NDld
+fQ==
 -->
