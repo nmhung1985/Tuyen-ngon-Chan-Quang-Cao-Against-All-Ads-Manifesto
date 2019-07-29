@@ -104,7 +104,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 |:-:|:-:|:-:|:-:|:-:|
 
 ### Mạng nội bộ
-Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
+Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là đã có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
 
 Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá dễ cho người có kiến thức máy tính trung bình. Mời bạn xem ở đây.
 
@@ -161,11 +161,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### DNS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY3NzQ1NTAsLTExODcxOTg1MjcsMTQzNz
-c5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwtNjA3NjkwNDkw
-LDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMT
-A4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2
-NjcyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMT
-MxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5
-OTk1NTddfQ==
+eyJoaXN0b3J5IjpbMTU3MDI5NzQ4LC0xMTg3MTk4NTI3LDE0Mz
+c3OTY5MiwxNTM5MDI0MTM3LDE2MzgwNjI3NzgsLTYwNzY5MDQ5
+MCwyMDg3NDkwMzAzLC0xOTQwNjQ1NjksLTEyNzI1ODAzNzUsLT
+EwODI4NTU0MzEsMTk4NTQ1OTgzMywtMTI4MzkwMTY2NCwyNTU2
+NjY3MjIsLTkzNzAwNzI1MCw5ODMzNzQyNCwtNzg4NzcyODMxLD
+EzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQz
+OTk5NTU3XX0=
 -->
