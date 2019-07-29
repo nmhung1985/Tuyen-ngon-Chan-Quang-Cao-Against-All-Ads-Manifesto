@@ -157,17 +157,18 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
 ### DNS
-Như đã giới thiệu ngắn gọn ở các phần trước, DNS là cách thức mà bạn thiết lập cho hệ thống/thiết bị kết nối tới hệ thống phân giải tên miền khác:
+1. Như đã giới thiệu ngắn gọn ở các phần trước, DNS là cách thức mà bạn thiết lập cho hệ thống/thiết bị kết nối tới hệ thống phân giải tên miền khác:
 - Hệ thống ở xa đó sẽ đảm nhiệm việc lọc và chặn tên miền, rồi mới trả lại thông tin để thiết bị của bạn kết nối tới.
 - Hệ thống ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp, và áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số phiên bản Android (Oreo) không thay đổi được DNS nếu không root.
 - Trên Android, các ứng dụng để đổi DNS đa số cũng chạy dạng giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
-- 
+
+2. Các nhà cung cấp DNS: Adguard có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên NextDNS, vì với Adguard bạn khô
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc5NDUxMTg5LC0xOTkyNjI3NDczLC02Mz
-M0Njg0NzMsMTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2
-OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0OTAsMj
-A4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC0xMDgy
-ODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5MDE2NjQsMjU1NjY2Nz
-IyLC05MzcwMDcyNTAsOTgzMzc0MjQsLTc4ODc3MjgzMSwxMzE4
-MjcwOTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MDE1MDgyMTEsLTE5OTI2Mjc0NzMsLT
+YzMzQ2ODQ3MywxMzgwNzE2NDM2LC0xMTg3MTk4NTI3LDE0Mzc3
+OTY5MiwxNTM5MDI0MTM3LDE2MzgwNjI3NzgsLTYwNzY5MDQ5MC
+wyMDg3NDkwMzAzLC0xOTQwNjQ1NjksLTEyNzI1ODAzNzUsLTEw
+ODI4NTU0MzEsMTk4NTQ1OTgzMywtMTI4MzkwMTY2NCwyNTU2Nj
+Y3MjIsLTkzNzAwNzI1MCw5ODMzNzQyNCwtNzg4NzcyODMxLDEz
+MTgyNzA5NF19
 -->
