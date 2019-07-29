@@ -17,7 +17,7 @@ Nghiêm trọng hơn, bạn có biết đôi khi các trang quảng cáo còn nh
 
 Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm trung bình ít nhất khoảng 40% trên các hệ thống hay thiết bị kết nối mạng của bạn:
 - làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn
-- làm tốn pin do
+- làm tốn pin do dữ liệu luôn được tải ngầm
 - gây ảnh hưởng tới việc bạn tận hưởng các nội dung thú vị.
 
 Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
@@ -171,11 +171,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTMxNDA0NywtNzE2MTQwMzQ5LC01ND
-IxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgsLTExMzk1NDk0
-NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02MjAxMTIyNjMsMT
-YwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQwNywxOTE3Mjc2
-MjU5LDExOTczMDc4NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC
-0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3MTQ3NjUsLTU0
-NTI4NDI2OV19
+eyJoaXN0b3J5IjpbLTIwMzgxMTkyNjAsLTcxNjE0MDM0OSwtNT
+QyMTU0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5
+NDQ5LC00OTY0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYzLD
+E2MDc0NDI3OTMsOTMwODQ5MTAsLTIxNDQ5NDY0MDcsMTkxNzI3
+NjI1OSwxMTk3MzA3ODcxLDE1NDY3NjE5MjEsMTAxODExNjYwNC
+wtMTgwNzI0OTMwNywxMTk3OTAwMzUzLC0xODIyNzE0NzY1LC01
+NDUyODQyNjldfQ==
 -->
