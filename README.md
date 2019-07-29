@@ -81,7 +81,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 2.  Ngoài ra còn cần bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện chặn quảng cáo (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
 4. Do đó, bạn lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
-- [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, v.v..., áp dụng nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Tiết lộ: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
+- [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, v.v..., áp dụng nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Minh bạch: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus (tên nhóm lấy từ đây), uBlock Origin, v.v... , áp dụng kết hợp 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
 - [FMSF của nmtrung](https://github.com/nmtrung/FMSF-2.0): tác giả là thành viên voz.vn nên bộ lọc khá nổi bên đó, đáng tiếc là không thấy tác giả đề xuất được đưa vào các ứng dụng nổi tiếng, áp dụng kết hợp 2 nguyên lý như ABPVN.
 
@@ -136,11 +136,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. Adguard: trả phí khác gì miễn phí?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMz
-k0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OSwt
-NTQyMTU0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NT
-Q5NDQ5LC00OTY0MDE5NSwtMTMyNDQxMTE0NCwtNjIwMTEyMjYz
-LDE2MDc0NDI3OTMsOTMwODQ5MTAsLTIxNDQ5NDY0MDcsMTkxNz
-I3NjI1OSwxMTk3MzA3ODcxLDE1NDY3NjE5MjEsMTAxODExNjYw
-NF19
+eyJoaXN0b3J5IjpbMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OT
+ExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywt
+NzE2MTQwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMz
+EzOTgsLTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0
+LC02MjAxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0ND
+k0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTky
+MV19
 -->
