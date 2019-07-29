@@ -67,7 +67,7 @@ Từ các cách phân loại này, ngoài việc các chương trình và ứng 
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dung kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Đó là vì:
 - Chương trình, phần mềm là để xử lý.
 - Ngoài ra còn cần bộ lọc/danh sách chặn (filters list/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do phần mềm là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
-- Do đó, bạn lưu ý 2 bộ lọc dành cho Việt Nam tốt nhất hiện nay:
+- Do đó, bạn lưu ý 2 bộ lọc dành cho Việt Nam tốt nhất hiện nay
   + [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN)
   + [ABPVN của Nhóm ABPVN](https://github.com/abpvn/abpvn)
 
@@ -158,11 +158,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDQ5NDY0MDcsMTkxNzI3NjI1OSwxMT
-k3MzA3ODcxLDE1NDY3NjE5MjEsMTAxODExNjYwNCwtMTgwNzI0
-OTMwNywxMTk3OTAwMzUzLC0xODIyNzE0NzY1LC01NDUyODQyNj
-ksNzE1NzI0MDY3LC0xNDQ3NzY4MTU4LDEyMDExMDY0NDgsMjAw
-MTAxMjAxLDgyNjU4MjkyLC0xMjg4NjMzNzE4LC04MjE0NzkxOT
-UsLTc5ODI3OTk5NCwtNDU4NDg1Mzk1LC0xMDk1NzkyMjYsMTY0
-OTMzNjkzM119
+eyJoaXN0b3J5IjpbNzQ3NjI2MjI1LC0yMTQ0OTQ2NDA3LDE5MT
+cyNzYyNTksMTE5NzMwNzg3MSwxNTQ2NzYxOTIxLDEwMTgxMTY2
+MDQsLTE4MDcyNDkzMDcsMTE5NzkwMDM1MywtMTgyMjcxNDc2NS
+wtNTQ1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2ODE1OCwxMjAx
+MTA2NDQ4LDIwMDEwMTIwMSw4MjY1ODI5MiwtMTI4ODYzMzcxOC
+wtODIxNDc5MTk1LC03OTgyNzk5OTQsLTQ1ODQ4NTM5NSwtMTA5
+NTc5MjI2XX0=
 -->
