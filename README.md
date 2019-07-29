@@ -130,7 +130,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### iOS
 Đều là dạng chạy giả lập VPN
-1. Quantumult (Trả phí): tốt nhất.
+1. Quantumult (Trả phí): tốt nhất, bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn qua
 2. Surge (Miễn phí): 
 
 Phải sửa thử nhiều cái. Thử nhánh master. Sync StackEdit
@@ -171,11 +171,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MT
-QwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOTgs
-LTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMzI0NDExMTQ0LC02Mj
-AxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwtMjE0NDk0NjQw
-NywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Njc2MTkyMSwxMD
-E4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAzNTMsLTE4MjI3
-MTQ3NjVdfQ==
+eyJoaXN0b3J5IjpbMjgyMzcyODgsMzkxNDkyNDQsLTYxMjkxOT
+UyNywtNzE2MTQwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0Miwz
+MzIzMzEzOTgsLTExMzk1NDk0NDksLTQ5NjQwMTk1LC0xMzI0ND
+ExMTQ0LC02MjAxMTIyNjMsMTYwNzQ0Mjc5Myw5MzA4NDkxMCwt
+MjE0NDk0NjQwNywxOTE3Mjc2MjU5LDExOTczMDc4NzEsMTU0Nj
+c2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5MzA3LDExOTc5MDAz
+NTNdfQ==
 -->
