@@ -34,9 +34,11 @@ Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta s�
 - Chỉ làm nhiệm vụ ẩn dữ liệu quảng cáo chứ không chặn
 - Không có khả năng giảm tải băng thông, nhưng vẫn giúp bạn không phải nhìn thấy hay bị làm phiền bởi quảng cáo
 - Ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
--  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
+-  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp nâng cao khả năng chặn.
 
 1.3. Lọc lớp mã hóa (HTTPS filter):
+- Bổ sung khả năng đọc và phân tích các truy vấn được mã hóa
+- **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho 2 nguyên lý trên, giúp nâng cao khả năng chặn. 
 
 *Hình minh họa: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
 
@@ -149,11 +151,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDc1NTk0NywtOTYyODY3MTM0LDE1OD
-Q5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEs
-MTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzNDI4ODE0NDIsMzg3Mj
-g5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUxLDM5MTQ5MjQ0LC02
-MTI5MTk1MjcsLTcxNjE0MDM0OSwtNTQyMTU0MTQsLTIxMDA2OD
-c4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5LC00OTY0MDE5NV19
+eyJoaXN0b3J5IjpbLTQ5NzYxMDU1LC05NjI4NjcxMzQsMTU4ND
+k0NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwx
+MTM0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyOD
+k4MzcsLTE0OTExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYx
+MjkxOTUyNywtNzE2MTQwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nz
+g0MiwzMzIzMzEzOTgsLTExMzk1NDk0NDksLTQ5NjQwMTk1XX0=
 
 -->
