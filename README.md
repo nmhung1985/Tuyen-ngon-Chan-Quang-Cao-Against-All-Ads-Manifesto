@@ -18,7 +18,7 @@ Do đó, áp dụng phương thức chặn quảng cáo hiệu quả sẽ khiế
 
 1.1.  Các tên miền quảng cáo không thể truyền dữ liệu nào đến hệ thống của bạn (lọc lớp mạng - network filter): đây là cách rất hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng, tuy nhiên hạn chế hay được nhắc tới là hầu như không thể chặn quảng cáo của YouTube, cũng như có thể làm giao diện trang web bị vỡ bố cục.
 
-1.2. Dữ liệu từ các tên miền quảng cáo vẫn có thể truyền được tới hệ thống, nhưng sẽ không hiển thị cho bạn thấy (lọc lớp giao diện - cosmetic filter): băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web. **Lưu ý** là nguyên lý này không bao giờ được áp dụng riêng mà luôn ở trạng thái bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
+1.2. Chỉ làm nhiệm vụ ẩn quảng cáo chứ không chặn (lọc lớp giao diện - cosmetic filter): băng thông vẫn bị quảng cáo chiếm dụng, nhưng bạn không phải nhìn thấy hay bị làm phiền, cũng như ưu điểm thường thấy là có thể chặn quảng cáo của YouTube, giữ bố cục trang web. **Lưu ý** là nguyên lý này không bao giờ được áp dụng riêng mà luôn ở trạng thái bổ sung thêm cho nguyên lý trên, giúp đạt hiệu quả tốt nhất.
 
 *Hình minh họa: bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa.*
 ![So sánh](https://cdn.adguard.com/public/Adguard/Blog/Android/comparison/ad_leftovers_resized.png?1)
@@ -158,7 +158,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTE2OTQxMiwxOTE3Mjc2MjU5LDExOT
+eyJoaXN0b3J5IjpbLTk5NTgzMTg4NSwxOTE3Mjc2MjU5LDExOT
 czMDc4NzEsMTU0Njc2MTkyMSwxMDE4MTE2NjA0LC0xODA3MjQ5
 MzA3LDExOTc5MDAzNTMsLTE4MjI3MTQ3NjUsLTU0NTI4NDI2OS
 w3MTU3MjQwNjcsLTE0NDc3NjgxNTgsMTIwMTEwNjQ0OCwyMDAx
