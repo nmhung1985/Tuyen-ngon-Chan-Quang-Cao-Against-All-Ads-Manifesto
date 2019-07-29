@@ -116,12 +116,9 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 2.1. Các trình duyệt cùng nhân với Chrome/Firefox:
 - uBlock Origin: tiện ích phổ biến nhất, nhưng lời khuyên là nên dùng 2 tiện ích ở dưới
-- Nano Adblocker & Nano Defender: Nano Adblocker là bản fork của uBlock Origin với một số tối ưu, nên dùng kết hợp Nano Defender để tránh bị các trang web nhận diện là đang dùng trình chặn quảng cáo.
-- Hướng dẫn: Vào kho tiện ích của hai trình duyệt này và gõ tên các tiện ích vừa nói ở trên để cài.
+- Nano Adblocker & Nano Defender: Nano Adblocker là bản fork của uBlock Origin với một số tối ưu, nên dùng kết hợp Nano Defender để tránh bị các trang web nhận diện là đang dùng trình chặn quảng cáo. Hướng dẫn: Vào kho tiện ích của hai trình duyệt này và gõ tên các tiện ích vừa nói ở trên để cài.
 
 2.2. Các trình duyệt khác (Edge, Safari, Opera, Yandex): tiện ích [Adguard cho trình duyệt](https://adguard.com/en/adguard-browser-extension/edge/overview.html) là tốt nhất.
-
-3. DNS: Xem trong bài hướng dẫn chung
 
 
 ### Android
@@ -161,11 +158,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### DNS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MDI5NzQ4LC0xMTg3MTk4NTI3LDE0Mz
-c3OTY5MiwxNTM5MDI0MTM3LDE2MzgwNjI3NzgsLTYwNzY5MDQ5
-MCwyMDg3NDkwMzAzLC0xOTQwNjQ1NjksLTEyNzI1ODAzNzUsLT
-EwODI4NTU0MzEsMTk4NTQ1OTgzMywtMTI4MzkwMTY2NCwyNTU2
-NjY3MjIsLTkzNzAwNzI1MCw5ODMzNzQyNCwtNzg4NzcyODMxLD
-EzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQz
-OTk5NTU3XX0=
+eyJoaXN0b3J5IjpbMTMwMzM0ODY0OCwtMTE4NzE5ODUyNywxND
+M3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0
+OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC
+0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5MDE2NjQsMjU1
+NjY2NzIyLC05MzcwMDcyNTAsOTgzMzc0MjQsLTc4ODc3MjgzMS
+wxMzE4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0
+Mzk5OTU1N119
 -->
