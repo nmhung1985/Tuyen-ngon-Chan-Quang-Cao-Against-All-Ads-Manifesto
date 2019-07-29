@@ -119,7 +119,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 
 ### Android
-- Adhell3 (Trả phí): tốt nhất, nhưng **chỉ hoạt động trên máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
+
 
 - Adguard Premium (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS
 
@@ -130,6 +130,8 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa
 
 - AdAway (**phải root**): chặn dạng hosts
+
+- Adhell3 (Trả phí): tốt nhất, **chỉ cho máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
 
 - Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN". 
 
@@ -148,11 +150,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyNTg3OTE4LDk4MzM3NDI0LC03ODg3Nz
-I4MzEsMTMxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMz
-LDE0NDM5OTk1NTcsLTk2Mjg2NzEzNCwxNTg0OTQ3NDEsLTM3MT
-Q3MDQ1NywxNDMyNzE3NDcsOTQwMTM2MzUxLDExMzQyMjgyNjgs
-MTc2MjE3NTc1MiwxMzQyODgxNDQyLDM4NzI4OTgzNywtMTQ5MT
-ExMDc1Nyw4MjM5NDE1MSwzOTE0OTI0NCwtNjEyOTE5NTI3XX0=
+eyJoaXN0b3J5IjpbMTY5MjM2ODQ0OCw5ODMzNzQyNCwtNzg4Nz
+cyODMxLDEzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgz
+MywxNDQzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNz
+E0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4
+LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OT
+ExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyN119
 
 -->
