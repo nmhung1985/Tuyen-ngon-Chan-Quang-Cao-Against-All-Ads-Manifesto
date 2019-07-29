@@ -119,13 +119,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 
 ### Android
-- AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa. Cho phép bật/tắt chặn đối với **từng** ứng dụng. Mặc định lại không thiết lập chặn hết tất cả ứng dụng trên thiết bị.
+- AdClear: giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa. Mặc định không thiết lập chặn hết tất cả ứng dụng trên thiết bị, mà cho phép bật/tắt chặn đối với **từng** ứng dụng. 
 
 - Blokada: giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :)
 
-
-
-- Adguard Premium (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS
+- Adguard Premium (Trả phí): Tốt nhất. Loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS
 
 - Adguard Content Blocker: chỉ hỗ trợ Samsung Internet Browser và Yandex Browser, áp dụng 2 nguyên lý
 
@@ -152,11 +150,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2ODMyMTIwLDI1NTY2NjcyMiwtOTM3MD
-A3MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMTMxODI3MDk0LC0x
-Mzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5OTk1NTcsLTk2Mj
-g2NzEzNCwxNTg0OTQ3NDEsLTM3MTQ3MDQ1NywxNDMyNzE3NDcs
-OTQwMTM2MzUxLDExMzQyMjgyNjgsMTc2MjE3NTc1MiwxMzQyOD
-gxNDQyLDM4NzI4OTgzNywtMTQ5MTExMDc1Nyw4MjM5NDE1MV19
-
+eyJoaXN0b3J5IjpbLTE4NjMyOTQwMzEsMjU1NjY2NzIyLC05Mz
+cwMDcyNTAsOTgzMzc0MjQsLTc4ODc3MjgzMSwxMzE4MjcwOTQs
+LTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1NywtOT
+YyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0
+Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzND
+I4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUx
+XX0=
 -->
