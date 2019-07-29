@@ -84,7 +84,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là **ứng dụng**) trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tuy nhiên, ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. (Cũng xin lưu ý, do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều).
+Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tuy nhiên, ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. (Lưu ý: do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều, chỉ đọc tham khảo và luo).
 
 ## Vậy chặn như thế nào?
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Vậy hãy kiểm tra lại từng bước:
@@ -149,11 +149,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI4NTU0MzEsMTk4NTQ1OTgzMywtMT
-I4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAwNzI1MCw5ODMzNzQy
-NCwtNzg4NzcyODMxLDEzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMj
-EyNzI3MDgzMywxNDQzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0
-NzQxLC0zNzE0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMT
-M0MjI4MjY4LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4
-MzddfQ==
+eyJoaXN0b3J5IjpbLTc1MDA2NjYxLC0xMDgyODU1NDMxLDE5OD
+U0NTk4MzMsLTEyODM5MDE2NjQsMjU1NjY2NzIyLC05MzcwMDcy
+NTAsOTgzMzc0MjQsLTc4ODc3MjgzMSwxMzE4MjcwOTQsLTEzOD
+UxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1NywtOTYyODY3
+MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0Nyw5ND
+AxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzNDI4ODE0
+NDJdfQ==
 -->
