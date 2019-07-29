@@ -100,7 +100,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 
 Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá nhân người viết dựa trên bốn yếu tố: dễ cài đặt và thiết lập ngay, miễn phí, tốt nhất, trả phí. Thành ra ví dụ nếu ứng dụng trả phí vượt trội thì vẫn sẽ được liệt kê trước.
 
-|[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac)](#máy-tính)|[Android](#android)  |[iOS](#ios)|Dạng DNS|
+|[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac)](#máy-tính)|[Android](#android)  |[iOS](#ios)|[DNS](#dns)|
 |:-:|:-:|:-:|:-:|:-:|
 
 ### Mạng nội bộ
@@ -159,13 +159,13 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
-
+### DNS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk3ODI3MTksLTExODcxOTg1MjcsMT
-QzNzc5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwtNjA3Njkw
-NDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NS
-wtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1
-NTY2NjcyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4Mz
-EsMTMxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0
-NDM5OTk1NTddfQ==
+eyJoaXN0b3J5IjpbMzY3NzQ1NTAsLTExODcxOTg1MjcsMTQzNz
+c5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwtNjA3NjkwNDkw
+LDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMT
+A4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2
+NjcyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3NzI4MzEsMT
+MxODI3MDk0LC0xMzg1MTUzMTIxLC0yMTI3MjcwODMzLDE0NDM5
+OTk1NTddfQ==
 -->
