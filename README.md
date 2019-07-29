@@ -109,7 +109,7 @@ Các ứng dụng được liệt kê theo đánh giá cá nhân người viết
 |:-:|:-:|:-:|:-:|
 
 ### Mạng nội bộ
-Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là có kiến thức CNTT tốt, và chắc không cần phải đọc bài viết này. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
+Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
 
 Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá dễ cho người có kiến thức máy tính trung bình. Mời bạn xem ở đây.
 
@@ -154,11 +154,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzY3NDMzOSwtMjEyNzI3MDgzMywxND
-QzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0
-NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3Nj
-IxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3
-NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MT
-QwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOThd
-fQ==
+eyJoaXN0b3J5IjpbLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMT
+Q0Mzk5OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcw
+NDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNz
+YyMTc1NzUyLDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEw
+NzU3LDgyMzk0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNj
+E0MDM0OSwtNTQyMTU0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4
+XX0=
 -->
