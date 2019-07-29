@@ -120,7 +120,6 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### Android
 
-
 - Adguard Premium (Trả phí): loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS
 
 - Adguard Content Blocker: chỉ hỗ trợ Samsung Internet Browser và Yandex Browser, áp dụng 2 nguyên lý
@@ -150,11 +149,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MjM2ODQ0OCw5ODMzNzQyNCwtNzg4Nz
-cyODMxLDEzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgz
-MywxNDQzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNz
-E0NzA0NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4
-LDE3NjIxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OT
-ExMTA3NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyN119
+eyJoaXN0b3J5IjpbNzUwNDM4MjIsOTgzMzc0MjQsLTc4ODc3Mj
+gzMSwxMzE4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMs
+MTQ0Mzk5OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxND
+cwNDU3LDE0MzI3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwx
+NzYyMTc1NzUyLDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMT
+EwNzU3LDgyMzk0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjddfQ==
 
 -->
