@@ -58,7 +58,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 1.4. Tiện ích (addon/extension) cho trình duyệt:
 - Tiện ích riêng đảm nhiệm chặn quảng cáo cho trình duyệt
 - Chủ yếu cho máy tính
-- Áp dụng kết hợp được cả 3 nguyên lý
+- Áp dụng kết hợp được cả 2 nguyên lý
 
 [**Đặc biệt**] Lọc lớp mã hóa (HTTPS filter): Không phải phương thức hay nguyên lý chặn, mà là tính năng bổ sung trong ứng dụng
 - Bổ sung khả năng đọc và phân tích các truy vấn/kết nối được mã hóa
@@ -69,7 +69,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 2.1. Cấp độ Mạng Nội Bộ: 
 - Chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc thiết bị/máy tính có cài hệ thống chặn đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
 - Toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
-- **Cách duy nhất** để chặn quảng cáo trên các thiết bị như camera Tung Của, AppleTV, TV thông minh, IoT (Internet of Things) v.v...
+- **Cách duy nhất** để chặn quảng cáo trên các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
 - Chủ yếu áp dụng nguyên lý 1 (ngoại trừ pfSense và một vài hệ thống tương đương)
 
 2.2. Cấp độ Thiết bị: 
@@ -79,7 +79,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 2.3. Cấp độ Trình duyệt:
 - Chỉ hoạt động trên trình duyệt được thiết lập, hoặc có thể kể đến trình duyệt tích hợp sẵn tính năng chặn quảng cáo (ví dụ Brave)
-- Thường áp dụng được cả 3 nguyên lý
+- Thường áp dụng được cả 2 nguyên lý
 
 Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là **ứng dụng**) trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
@@ -148,11 +148,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjcxOTE1MjcsLTc4ODc3MjgzMSwxMz
-E4MjcwOTQsLTEzODUxNTMxMjEsLTIxMjcyNzA4MzMsMTQ0Mzk5
-OTU1NywtOTYyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LD
-E0MzI3MTc0Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1
-NzUyLDEzNDI4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LD
-gyMzk0MTUxLDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0
-OV19
+eyJoaXN0b3J5IjpbMTI4MjIwNTk0MywtNzg4NzcyODMxLDEzMT
+gyNzA5NCwtMTM4NTE1MzEyMSwtMjEyNzI3MDgzMywxNDQzOTk5
+NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0NTcsMT
+QzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3NjIxNzU3
+NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3NTcsOD
+IzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MTQwMzQ5
+XX0=
 -->
