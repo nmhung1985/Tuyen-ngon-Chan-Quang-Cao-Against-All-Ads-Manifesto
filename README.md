@@ -4,6 +4,7 @@
 
 Có nhiều phương thức và ứng dụng chặn quảng cáo, bài viết này sẽ cố gắng tổng hợp tất cả các loại để giúp bạn chọn phương thức và ứng dụng tốt nhất cho mình.
 
+Đây là bài viết tổng hợp quan trọng nên khả năng cao là sẽ được cập nhật thông tin lâu dài, dù có thể không thường xuyên. Phiên bản gốc là trên GitHub.
 
 ## Tại sao cần chặn quảng cáo
 Bạn chắc hẳn đã trải qua cảm giác mất hứng khi đang xem phim đến đoạn hay trên TV thì nhà đài cho dừng một lúc để quảng cáo? Cũng như xem YouTube được một chút thì gặp video quảng cáo cả vài phút?
@@ -161,7 +162,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNTg4MDk1LDkzMDg0OTEwLC0yMTQ0OT
+eyJoaXN0b3J5IjpbNTEyNzk0MzUyLDkzMDg0OTEwLC0yMTQ0OT
 Q2NDA3LDE5MTcyNzYyNTksMTE5NzMwNzg3MSwxNTQ2NzYxOTIx
 LDEwMTgxMTY2MDQsLTE4MDcyNDkzMDcsMTE5NzkwMDM1MywtMT
 gyMjcxNDc2NSwtNTQ1Mjg0MjY5LDcxNTcyNDA2NywtMTQ0Nzc2
