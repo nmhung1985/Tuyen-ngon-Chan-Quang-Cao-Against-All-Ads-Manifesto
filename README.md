@@ -159,13 +159,13 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 ### DNS
 Như đã giới thiệu ngắn gọn ở các phần trước, DNS là cách thức mà bạn thiết lập cho hệ thống/thiết bị kết nối tới hệ thống phân giải tên miền khác:
 - Hệ thống ở xa đó sẽ đảm nhiệm việc lọc và chặn tên miền, rồi mới trả lại thông tin để thiết bị của bạn kết nối tới.
-- Hệ thống ở xa làm hết rồi nên bạn không cần cấu hình, cài đặt gì phức tạp, và áp dụng được tất cả nền tảng.
+- Hệ thống ở xa làm hết rồi nên bạn không cần cấu hình, cài đặt gì phức tạp, và áp dụng được tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzIzMDcwNTAsMTM4MDcxNjQzNiwtMT
-E4NzE5ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYy
-Nzc4LC02MDc2OTA0OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC
-0xMjcyNTgwMzc1LC0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEy
-ODM5MDE2NjQsMjU1NjY2NzIyLC05MzcwMDcyNTAsOTgzMzc0Mj
-QsLTc4ODc3MjgzMSwxMzE4MjcwOTQsLTEzODUxNTMxMjEsLTIx
-MjcyNzA4MzNdfQ==
+eyJoaXN0b3J5IjpbLTYzMzQ2ODQ3MywxMzgwNzE2NDM2LC0xMT
+g3MTk4NTI3LDE0Mzc3OTY5MiwxNTM5MDI0MTM3LDE2MzgwNjI3
+NzgsLTYwNzY5MDQ5MCwyMDg3NDkwMzAzLC0xOTQwNjQ1NjksLT
+EyNzI1ODAzNzUsLTEwODI4NTU0MzEsMTk4NTQ1OTgzMywtMTI4
+MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAwNzI1MCw5ODMzNzQyNC
+wtNzg4NzcyODMxLDEzMTgyNzA5NCwtMTM4NTE1MzEyMSwtMjEy
+NzI3MDgzM119
 -->
