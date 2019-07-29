@@ -24,7 +24,7 @@ Nói chung các dữ liệu rác rưởi và độc hại này thường chiếm
 
 Do đó, áp dụng phương thức chặn các dữ liệu rác này, mà ta sẽ gọi chung là **Chặn Quảng Cáo (CQC)**, hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn chỉ tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
-## 1. Nguyên lý chặn quảng cáo
+## Nguyên lý chặn quảng cáo
 1.  Lọc lớp mạng (network filter): 
 - Không dữ liệu quảng cáo nào có thể đi vào hệ thống
 - Cách hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng
@@ -152,11 +152,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 3. [Adguard Pro](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS.
 4. [Adguard](https://github.com/bigdargon/hostsVN/wiki/Adguard): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai hai phiên bản này sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcyNzA4MzMsMTQ0Mzk5OTU1NywtOT
-YyODY3MTM0LDE1ODQ5NDc0MSwtMzcxNDcwNDU3LDE0MzI3MTc0
-Nyw5NDAxMzYzNTEsMTEzNDIyODI2OCwxNzYyMTc1NzUyLDEzND
-I4ODE0NDIsMzg3Mjg5ODM3LC0xNDkxMTEwNzU3LDgyMzk0MTUx
-LDM5MTQ5MjQ0LC02MTI5MTk1MjcsLTcxNjE0MDM0OSwtNTQyMT
-U0MTQsLTIxMDA2ODc4NDIsMzMyMzMxMzk4LC0xMTM5NTQ5NDQ5
-XX0=
+eyJoaXN0b3J5IjpbMTgzNjA1MTQ4OCwtMjEyNzI3MDgzMywxND
+QzOTk5NTU3LC05NjI4NjcxMzQsMTU4NDk0NzQxLC0zNzE0NzA0
+NTcsMTQzMjcxNzQ3LDk0MDEzNjM1MSwxMTM0MjI4MjY4LDE3Nj
+IxNzU3NTIsMTM0Mjg4MTQ0MiwzODcyODk4MzcsLTE0OTExMTA3
+NTcsODIzOTQxNTEsMzkxNDkyNDQsLTYxMjkxOTUyNywtNzE2MT
+QwMzQ5LC01NDIxNTQxNCwtMjEwMDY4Nzg0MiwzMzIzMzEzOThd
+fQ==
 -->
