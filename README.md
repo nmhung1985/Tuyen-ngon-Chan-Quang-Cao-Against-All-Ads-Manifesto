@@ -194,9 +194,9 @@ Ngoài ra:
 - Ứng dụng bảo mật thường rất cồng kềnh và nặng nề, do ít nhất phải có bộ máy phân tích nhận diện virus, mã độc.
 - Ứng dụng bảo mật tốt thì đều có giá khá đắt hơn nhiều so với ứng dụng chặn quảng cáo.
 
-Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo vẫn cảm thấy khá ổn.
+Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo vẫn cảm thấy ổn.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAyNTQwMTc5LDY0NzgxNzk5NCwtNTI0Mz
+eyJoaXN0b3J5IjpbOTQ5NzkwMjMxLDY0NzgxNzk5NCwtNTI0Mz
 Y0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcs
 MTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMj
 U4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcw
