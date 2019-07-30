@@ -192,15 +192,15 @@ Trong khi đó, các ứng dụng bảo mật, diệt virus lại thấy mảng 
 
 Ngoài ra:
 - Ứng dụng bảo mật thường rất cồng kềnh và nặng nề, do ít nhất phải có bộ máy phân tích nhận diện virus, mã độc.
-- Ứng dụng bảo mật tốt thì đều có giá khá đắt hơn nhiều so với ứng dụng chặn quảng cáo.
+- Ứng dụng bảo mật tốt thì thường có giá đắt hơn nhiều so với ứng dụng chặn quảng cáo.
 
-Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo vẫn cảm thấy ổn.
+Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NzkwMjMxLDY0NzgxNzk5NCwtNTI0Mz
-Y0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcs
-MTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMj
-U4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcw
-MywxMzgzMjY2NjI2LDgxNTMzODUxMSwxMzI2MzgwODEyLC0xOT
-M4MzY1ODM4LC0xNTIwMDMxNTAwLDM3MjkyMjYyMCwxNDU4MDEz
-NjIyXX0=
+eyJoaXN0b3J5IjpbLTE5NDM3NTU1MTMsNjQ3ODE3OTk0LC01Mj
+QzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4NDYwMzU5
+NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5MzMsLT
+IyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0MCwxNTE0OTQw
+NzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMjYzODA4MTIsLT
+E5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMzcyOTIyNjIwLDE0NTgw
+MTM2MjJdfQ==
 -->
