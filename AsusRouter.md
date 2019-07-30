@@ -24,8 +24,8 @@ a) Cắm USB vào, thường thì router sẽ tự nhận. Tại putty, gõ lệ
 **mount** 
 để xem. Nhớ để ý của bạn là **a, a1-2-3, hay b, b1-2-3** để làm cho đúng các bước sau nhé. Ví dụ của mình:
 
-    **/dev/sda1 on /tmp/**mnt**/PpA** type ext2 (rw,nodev,relatime,barrier=1,data=writeback)
-    **/dev/sdb on /tmp/mnt/PpB** type tntfs (rw,nodev,relatime,uid=0,gid=0,umask=00 v.v...)
+    /dev/sda1 on /tmp/mnt/PpA type ext2 (rw,nodev,relatime,barrier=1,data=writeback)
+    /dev/sdb on /tmp/mnt/PpB type tntfs (rw,nodev,relatime,uid=0,gid=0,umask=00 v.v...)
 
 b) unmount/eject usb để chuẩn bị format. Gõ lệnh:
 umount -f /dev/sda1
@@ -125,5 +125,5 @@ Thông tin thêm:
 - Tác giả Diversion bàn luận ở đây. Forum này cũng là forum chuyên về bàn luận router của Asus và Merlin firmware.
 [url]https://www.snbforums.com/threads/diversion-the-router-ad-blocker.48538/page-71#post-447604[/url]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODU1ODgzNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDIzODAwMzA3LDczMDk5ODExNl19
 -->
