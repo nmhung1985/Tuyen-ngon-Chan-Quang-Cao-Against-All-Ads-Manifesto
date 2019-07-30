@@ -208,9 +208,10 @@ Ngoài ra:
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 
 ## Thông tin thêm
-Nếu có thông tin gì cần biết thêm
+Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể gửi email cho người viết theo địa chỉ:
+nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTY5MTYxMiwtMTczMzc4MzMyOCwtMT
+eyJoaXN0b3J5IjpbMTE1MjQyNzgyOSwtMTczMzc4MzMyOCwtMT
 E2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEwNjI3LDgxNzYyMDQz
 NCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMjIxMTY5OTYxLC0xNT
 EyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3OTk0LC01MjQzNjQ2
