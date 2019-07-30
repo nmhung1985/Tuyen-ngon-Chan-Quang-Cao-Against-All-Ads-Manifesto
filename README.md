@@ -89,9 +89,7 @@ Các chương trình, phần mềm và ứng dụng (gọi chung là "**ứng d�
 - Chỉ hoạt động trên trình duyệt được thiết lập, hoặc có thể kể đến trình duyệt tích hợp sẵn tính năng chặn quảng cáo (ví dụ Brave)
 - Thường áp dụng được cả 2 nguyên lý
 
-Từ các cách phân loại này, ngoài việc các ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Đó là lí do khiến chúng ta đối mặt với sự lựa chọn khá là phong phú :)
-
-(Lưu ý: do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều, chỉ đọc tham khảo và chỉ luôn tải hoặc mua bản mới nhất ở trang gốc).
+Từ các cách phân loại này, ngoài việc các ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này giải thích lí do khiến chúng ta đang đối mặt với sự lựa chọn khá là phong phú :)
 
 ## Các bước cơ bản để chặn quảng cáo
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Vậy hãy kiểm tra lại từng bước:
@@ -106,7 +104,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 
 ## Tổng quan và sơ lược các ứng dụng nên dùng
 
-Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá nhân người viết dựa trên bốn yếu tố: dễ cài đặt và thiết lập ngay, miễn phí, tốt nhất, trả phí. Thành ra ví dụ nếu ứng dụng trả phí vượt trội thì vẫn sẽ được liệt kê trước.
+Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá nhân người viết dựa trên bốn yếu tố: dễ cài đặt và thiết lập ngay, miễn phí, tốt nhất, trả phí. Thành ra ví dụ nếu ứng dụng trả phí vượt trội thì vẫn sẽ được liệt kê trước. (**Lưu ý**: do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều, chỉ đọc tham khảo và chỉ luôn tải hoặc mua bản mới nhất ở trang gốc).
 
 - [Mạng nội bộ](#mạng-nội-bộ)
 - [Máy tính (Windows/Mac)](#máy-tính)
@@ -214,11 +212,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE5MjQ4OTksLTg2OTkzNjEyOSwtMT
-czMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEw
-NjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMj
-IxMTY5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3
-OTk0LC01MjQzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMT
-A4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2
-NjA5MzNdfQ==
+eyJoaXN0b3J5IjpbLTQyMjI1MDk5NywtODY5OTM2MTI5LC0xNz
+MzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3MTMzNCwyNzg0MTA2
+MjcsODE3NjIwNDM0LDE1OTUyOTU1MTIsMTI3MTc0NTYyMSwyMj
+ExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5
+OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMD
+g0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2
+MDkzM119
 -->
