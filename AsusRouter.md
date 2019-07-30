@@ -54,18 +54,23 @@ e) **Reboot** router và vào putty check lại sẽ thấy. Gõ lệnh:
     
 
 5. Cài đặt Entware (bộ công cụ Linux tối giản cho router). Tiếp tục vẫn ở putty, chạy các lệnh, lưu ý cả **./** này nọ nhé:
-  cd /tmp
+```
+    cd /tmp
     wget -c -O entware-ngu-setup.sh https://hqt.ro/files/entware-ng/universal/entware-ngu-setup.sh
     chmod +x ./entware-ngu-setup.sh
     ./entware-ngu-setup.sh
+```
 
 Script bắt đầu cài, sẽ hỏi nên cài vào đâu, thì bạn chọn số tương ứng. Nếu làm như từ đầu tới giờ thì sẽ gõ **1**.
+```
     Info: like /tmp/mnt/sda1/jffs_scripts_backup.tgz Info: Looking for available partitions...
     [1] --> /tmp/mnt/sda1
     => Please enter partition number or 0 to exit
     [0-1]:
+```
 
 Hỏi dung lượng swap, chọn 512MB số **2**.
+```
     Router model
     RT-AC66U
     ---------
@@ -78,7 +83,7 @@ Hỏi dung lượng swap, chọn 512MB số **2**.
     4. Skip this step, I already have a swap file / partition
        or I don't want to create one right now
     Enter your choice [ 1 - 4 ]
-
+```
 Enter một hai lần nữa là sẽ xong.
 
 6. Cài bộ script quản lý chung. Trong putty gõ tiếp lệnh:
@@ -127,6 +132,6 @@ Thông tin thêm:
 - Tác giả Diversion bàn luận ở đây. Forum này cũng là forum chuyên về bàn luận router của Asus và Merlin firmware.
 [url]https://www.snbforums.com/threads/diversion-the-router-ad-blocker.48538/page-71#post-447604[/url]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDg4NTQyMyw0MjM4MDAzMDcsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwMTU1MDQwNzcsNDIzODAwMzA3LDczMD
+k5ODExNl19
 -->
