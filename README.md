@@ -188,13 +188,13 @@ Nhưng khi virus, mã độc dần được phát triển theo hướng lây lan
 
 Tức ứng dụng chặn quảng cáo **không có bộ máy phân tích** để nhận diện virus, mã độc, mà chỉ ngăn chặn truy cập các tên miền có chứa các virus, mã độc đó.
 
-Trong khi đó, các ứng dụng bảo mật, diệt virus lại thấy mảng chặn quảng cáo cũng khá hấp dẫn, 
+Trong khi đó, các ứng dụng bảo mật, diệt virus lại thấy mảng chặn quảng cáo cũng khá hấp dẫn, có thể giúp tăng doanh thu bán sản phẩm nên họ cũng đang có xu hướng tích hợp thêm tính năng mới này.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NjE1MDQ0MiwtNTI0MzY0NjExLDU2Mz
-IxMjc1NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcsMTQ0OTU4MzU4
-MSwtMjA0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMjU4OTYwOCwxNz
-k1MzE1MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcwMywxMzgzMjY2
-NjI2LDgxNTMzODUxMSwxMzI2MzgwODEyLC0xOTM4MzY1ODM4LC
-0xNTIwMDMxNTAwLDM3MjkyMjYyMCwxNDU4MDEzNjIyLDcyMDQy
-NzE4XX0=
+eyJoaXN0b3J5IjpbLTExOTI2MzYxMjQsLTUyNDM2NDYxMSw1Nj
+MyMTI3NTUsLTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1
+ODEsLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMT
+c5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2
+NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOC
+wtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0
+MjcxOF19
 -->
