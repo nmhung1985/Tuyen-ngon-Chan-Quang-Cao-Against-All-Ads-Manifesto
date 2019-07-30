@@ -50,11 +50,11 @@ mke2fs /dev/sd**a1** -t ext2 -L **Tên-Ổ-USB**
 
 e) **Reboot** router và vào putty check lại sẽ thấy. Gõ lệnh:
 **mount**
-    **/dev/sda1 on /tmp/mnt/Tên-Ổ-USB** type ext2
+ `/dev/sda1 on /tmp/mnt/Tên-Ổ-USB type ext2`
     
 
 5. Cài đặt Entware (bộ công cụ Linux tối giản cho router). Tiếp tục vẫn ở putty, chạy các lệnh, lưu ý cả **./** này nọ nhé:
-    cd /tmp
+  cd /tmp
     wget -c -O entware-ngu-setup.sh https://hqt.ro/files/entware-ng/universal/entware-ngu-setup.sh
     chmod +x ./entware-ngu-setup.sh
     ./entware-ngu-setup.sh
@@ -127,6 +127,6 @@ Thông tin thêm:
 - Tác giả Diversion bàn luận ở đây. Forum này cũng là forum chuyên về bàn luận router của Asus và Merlin firmware.
 [url]https://www.snbforums.com/threads/diversion-the-router-ad-blocker.48538/page-71#post-447604[/url]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQwNTc4MTEsNDIzODAwMzA3LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTkxMDg4NTQyMyw0MjM4MDAzMDcsNzMwOT
+k4MTE2XX0=
 -->
