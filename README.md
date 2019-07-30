@@ -4,11 +4,11 @@
 
 Nếu hay xem TV, bạn chắc hẳn đã trải qua cảm giác mất hứng khi phim đang đến đoạn hay thì đài truyền hình cho dừng một lúc để quảng cáo?
 
-Sang thời đại Internet, hẳn bạn cũng đã gặp tình cảnh xem YouTube được một chút thì gặp video quảng cáo cả vài phút?
+Sang thời đại Internet, hẳn bạn cũng đã gặp tình cảnh xem YouTube được một chút thì gặp video quảng cáo cả vài phút, hoặc đang dùng điện thoại chơi game, lướt web thì gặp quảng cáo bung ra rất khó chịu?
 
 Bạn có biết gói data 4G của bạn có thể hết dung lượng sớm vì bị quảng cáo [chiếm tới 79%](https://www.businessinsider.com/enders-analysis-ad-blocker-study-finds-ads-take-up-79-of-mobile-data-transfer-2016-3) không?
 
-Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi, lừa bạn đăng nhập tài khoản tài chính, hoặc thậm chí chủ động gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào bitcoin)?
+Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi, lừa bạn đăng nhập tài khoản tài chính, hoặc thậm chí chủ động gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào tiền ảo)?
 
 Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy những nội dung người lớn?
 
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjE3MDA2NiwxNzEyMzM4MDcwLC00MT
-E5NTEwMzYsLTk2MTU4ODIwLC0xMDIxNzUxMzI5LDEyMzc5NzA1
-MjYsNzY2NzAwODE4LC04Njk5MzYxMjksLTE3MzM3ODMzMjgsLT
-ExNjA2MjQzMzEsODYxMjcxMzM0LDI3ODQxMDYyNyw4MTc2MjA0
-MzQsMTU5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMTE2OTk2MSwtMT
-UxMjcxNTg2NywxODY1NzIyMTgzLDY0NzgxNzk5NCwtNTI0MzY0
-NjExXX0=
+eyJoaXN0b3J5IjpbNDk2NjM4MzI2LC03ODYxNzAwNjYsMTcxMj
+MzODA3MCwtNDExOTUxMDM2LC05NjE1ODgyMCwtMTAyMTc1MTMy
+OSwxMjM3OTcwNTI2LDc2NjcwMDgxOCwtODY5OTM2MTI5LC0xNz
+MzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3MTMzNCwyNzg0MTA2
+MjcsODE3NjIwNDM0LDE1OTUyOTU1MTIsMTI3MTc0NTYyMSwyMj
+ExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5
+OTRdfQ==
 -->
