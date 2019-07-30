@@ -14,16 +14,17 @@ Enable SSH: Yes
 Allow SSH access from WAN: No (chỉ cho login từ LAN/internal cho an toàn)
 Timezone: GMT + 7 Bangkok Hanoi Jakarta
 
-**Apply **cho router **reboot**.
+**Apply** cho router **reboot**.
 
 3. Dùng putty để đăng nhập vào router thông qua ssh. Mở router lên, ở ngay giao diện mặc định ban đầu, nhập IP của router của bạn vào ô Host name (or IP address) rồi Open. Dùng tên đăng nhập như trang quản lý. Khi nói tới gõ lệnh là mặc định nói tới dùng trong putty.
 
 4. Trừ khi bạn đã biết format usb sang dạng ext2 của Linux. Còn ko thì thường sẽ là fat32, ntfs. Khi đó chúng ta sẽ format lại usb như sau.
+
 a) Cắm USB vào, thường thì router sẽ tự nhận. Tại putty, gõ lệnh
 **mount** 
 để xem. Nhớ để ý của bạn là **a, a1-2-3, hay b, b1-2-3** để làm cho đúng các bước sau nhé. Ví dụ của mình:
 
-    **/dev/sda1 on /tmp/mnt/PpA** type ext2 (rw,nodev,relatime,barrier=1,data=writeback)
+    **/dev/sda1 on /tmp/**mnt**/PpA** type ext2 (rw,nodev,relatime,barrier=1,data=writeback)
     **/dev/sdb on /tmp/mnt/PpB** type tntfs (rw,nodev,relatime,uid=0,gid=0,umask=00 v.v...)
 
 b) unmount/eject usb để chuẩn bị format. Gõ lệnh:
@@ -124,5 +125,5 @@ Thông tin thêm:
 - Tác giả Diversion bàn luận ở đây. Forum này cũng là forum chuyên về bàn luận router của Asus và Merlin firmware.
 [url]https://www.snbforums.com/threads/diversion-the-router-ad-blocker.48538/page-71#post-447604[/url]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI2MzQ0MjcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTM4ODU1ODgzNSw3MzA5OTgxMTZdfQ==
 -->
