@@ -23,6 +23,9 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 ![So sánh trước và sau khi chặn](https://cdn.adguard.com/public/Adguard/Blog/AGHome/devcomp.jpg)
 
+## Vậy tôi nên làm thế nào?
+
+
 ## Nguyên lý chặn quảng cáo
 1.  Lọc lớp mạng (network filter): 
 - Không dữ liệu quảng cáo nào có thể đi vào hệ thống
@@ -211,11 +214,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTkzNjEyOSwtMTczMzc4MzMyOCwtMT
-E2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEwNjI3LDgxNzYyMDQz
-NCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMjIxMTY5OTYxLC0xNT
-EyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3OTk0LC01MjQzNjQ2
-MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4NDYwMzU5NywxND
-Q5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5MzMsLTIyNTg5
-NjA4XX0=
+eyJoaXN0b3J5IjpbLTE2MzQ2NTA3MDIsLTg2OTkzNjEyOSwtMT
+czMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEw
+NjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMj
+IxMTY5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3
+OTk0LC01MjQzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMT
+A4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2
+NjA5MzNdfQ==
 -->
