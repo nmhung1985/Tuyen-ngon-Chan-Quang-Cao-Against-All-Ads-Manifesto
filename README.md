@@ -24,7 +24,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 ![So sánh trước và sau khi chặn](https://cdn.adguard.com/public/Adguard/Blog/AGHome/devcomp.jpg)
 
 ## Thông tin rất thú vị! Vậy tôi nên làm thế nào?
-Các hệ thống và ứng dụng chặn quảng cáo hiện nay có rất nhiều, có thể khiến bạn cực kỳ bối rối. Tuy nhiên, chúng vẫn có những đặc điểm cơ bản để phân biệt. Nên đúng vậy, mục đích chính của bài viết này là cung cấp các thông tin cơ bản để bạn hiểu và từ đó có thể **tự mình dễ dàng** chọn được cái phù hợp nhất. Và hãy yên tâm, ở các phần kế tiếp vẫn có gợi ý sơ lược một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. 
+Các chương trình, phần mềm và ứng dụng (gọi chung là "**ứng dụng**")  chặn quảng cáo hiện nay có rất nhiều, có thể khiến bạn cực kỳ bối rối. Tuy nhiên, chúng vẫn có những đặc điểm cơ bản để phân biệt. Nên đúng vậy, mục đích chính của bài viết này là cung cấp các thông tin cơ bản để bạn hiểu và từ đó có thể **tự mình dễ dàng** chọn được cái phù hợp nhất. Và hãy yên tâm, ở các phần kế tiếp vẫn có gợi ý sơ lược một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. 
 
 ## Nguyên lý chặn quảng cáo
 1.  Lọc lớp mạng (network filter): 
@@ -89,7 +89,7 @@ Các hệ thống và ứng dụng chặn quảng cáo hiện nay có rất nhi�
 - Chỉ hoạt động trên trình duyệt được thiết lập, hoặc có thể kể đến trình duyệt tích hợp sẵn tính năng chặn quảng cáo (ví dụ Brave)
 - Thường áp dụng được cả 2 nguyên lý
 
-Từ các cách phân loại này, ngoài việc trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
+Từ các cách phân loại này, ngoài việc các ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Đó là lí do khiến chúng ta đối mặt với sự lựa chọn khá là phong phú :)
 
 (Lưu ý: do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều, chỉ đọc tham khảo và chỉ luôn tải hoặc mua bản mới nhất ở trang gốc).
 
@@ -214,7 +214,7 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM0MzU4MzAsLTg2OTkzNjEyOSwtMT
+eyJoaXN0b3J5IjpbLTIwMTE5MjQ4OTksLTg2OTkzNjEyOSwtMT
 czMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEw
 NjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMj
 IxMTY5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3
