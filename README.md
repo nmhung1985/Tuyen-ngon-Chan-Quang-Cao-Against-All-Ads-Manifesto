@@ -117,7 +117,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 2.1. Các trình duyệt cùng nhân với Chrome/Firefox:
 - uBlock Origin: tiện ích phổ biến nhất, nhưng lời khuyên là nên dùng 2 tiện ích ở dưới
-- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) & [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/): Nano Adblocker là bản fork của uBlock Origin với một số tối ưu, nên dùng kết hợp Nano Defender để tránh bị các trang web nhận diện là đang dùng trình chặn quảng cáo. Hướng dẫn: Vào kho tiện ích của hai trình duyệt này và gõ tên các tiện ích vừa nói ở trên để cài.
+- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) & [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/): ==Tốt nhất!== Nano Adblocker là bản fork của uBlock Origin với một số tối ưu, nên dùng kết hợp Nano Defender để tránh bị các trang web nhận diện là đang dùng trình chặn quảng cáo. Hướng dẫn: Vào kho tiện ích của hai trình duyệt này và gõ tên các tiện ích vừa nói ở trên để cài.
 
 2.2. Các trình duyệt khác (Edge, Safari, Opera, Yandex): tiện ích [Adguard cho trình duyệt](https://adguard.com/en/adguard-browser-extension/edge/overview.html) là tốt nhất.
 
@@ -157,7 +157,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [Adguard Pro](https://itunes.apple.com/app/apple-store/id1126386264?mt=8) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Nhưng chưa hỗ trợ HTTPS. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
 
-- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): tốt nhất, tương tự như Surge sau khi trả phí nâng cấp. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
+- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): ==Tốt nhất!== Tương tự như Surge sau khi trả phí nâng cấp. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
@@ -179,11 +179,11 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0Njc5NTkxLDE0NDk1ODM1ODEsLTIwND
-g1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIw
-NSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MT
-UzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAz
-MTUwMCwzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0MjcxOCw3OD
-k0MTk2MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02MzM0Njg0
-NzNdfQ==
+eyJoaXN0b3J5IjpbMTA4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMD
+Q4NTIwMDgzLDE2NDU2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUy
+MDUsLTg0NjEwMjY0MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsOD
+E1MzM4NTExLDEzMjYzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAw
+MzE1MDAsMzcyOTIyNjIwLDE0NTgwMTM2MjIsNzIwNDI3MTgsNz
+g5NDE5NjI3LDU3NjAwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4
+NDczXX0=
 -->
