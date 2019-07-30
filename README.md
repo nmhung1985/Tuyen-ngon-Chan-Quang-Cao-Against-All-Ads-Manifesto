@@ -112,7 +112,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là đã có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
 
 - Router Asus (chạy [firmware Merlin](https://www.asuswrt-merlin.net/)): cách dễ nhất cho người có kiến thức máy tính trung bình. Chỉ hoạt động trên một số loại router của Asus như AC66U, AC68U, AC86U, AC88U v.v... Hướng dẫn cho thiết bị đã flash Merlin: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md)
-- [pi-hole](https://pi-hole.net/): có lẽ là ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Hướng dẫn
+- [pi-hole](https://pi-hole.net/): có lẽ là ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Hướng dẫn: [1](http://web.archive.org/web/20190730080355/https://cuccode.com/pihole.html), voz
 
 ### Máy tính
 
@@ -201,11 +201,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjk4NDc2MywtMTUxMjcxNTg2NywxOD
-Y1NzIyMTgzLDY0NzgxNzk5NCwtNTI0MzY0NjExLDU2MzIxMjc1
-NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcsMTQ0OTU4MzU4MSwtMj
-A0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMjU4OTYwOCwxNzk1MzE1
-MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcwMywxMzgzMjY2NjI2LD
-gxNTMzODUxMSwxMzI2MzgwODEyLC0xOTM4MzY1ODM4LC0xNTIw
-MDMxNTAwXX0=
+eyJoaXN0b3J5IjpbMjIxMTY5OTYxLC0xNTEyNzE1ODY3LDE4Nj
+U3MjIxODMsNjQ3ODE3OTk0LC01MjQzNjQ2MTEsNTYzMjEyNzU1
+LC02NjI1ODkzNjYsMTA4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMD
+Q4NTIwMDgzLDE2NDU2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUy
+MDUsLTg0NjEwMjY0MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsOD
+E1MzM4NTExLDEzMjYzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAw
+MzE1MDBdfQ==
 -->
