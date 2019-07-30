@@ -23,8 +23,8 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 ![So sánh trước và sau khi chặn](https://cdn.adguard.com/public/Adguard/Blog/AGHome/devcomp.jpg)
 
-## Vậy tôi nên làm thế nào?
-
+## Thông tin rất thú vị! Vậy tôi nên làm thế nào?
+Mục đích chính của bài viết này là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tuy nhiên, ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. 
 
 ## Nguyên lý chặn quảng cáo
 1.  Lọc lớp mạng (network filter): 
@@ -91,7 +91,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là "**ứng dụng**") trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
-Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tuy nhiên, ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. (Lưu ý: do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều, chỉ đọc tham khảo và chỉ luôn tải hoặc mua bản mới nhất ở trang gốc).
+(Lưu ý: do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều, chỉ đọc tham khảo và chỉ luôn tải hoặc mua bản mới nhất ở trang gốc).
 
 ## Các bước cơ bản để chặn quảng cáo
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Vậy hãy kiểm tra lại từng bước:
@@ -214,11 +214,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ2NTA3MDIsLTg2OTkzNjEyOSwtMT
-czMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEw
-NjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMj
-IxMTY5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3
-OTk0LC01MjQzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMT
-A4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2
-NjA5MzNdfQ==
+eyJoaXN0b3J5IjpbLTQ4NTQwODU2OCwtODY5OTM2MTI5LC0xNz
+MzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3MTMzNCwyNzg0MTA2
+MjcsODE3NjIwNDM0LDE1OTUyOTU1MTIsMTI3MTc0NTYyMSwyMj
+ExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5
+OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMD
+g0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2
+MDkzM119
 -->
