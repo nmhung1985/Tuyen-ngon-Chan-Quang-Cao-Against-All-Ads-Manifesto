@@ -181,11 +181,10 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - **Có lẽ cũng là cách dễ nhất**, vì hệ thống DNS ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp.
 - **Áp dụng được trên tất cả nền tảng** (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số trường hợp, ví dụ như trên điện thoại thì có vẻ do quy định chung nào đó mà các nhà sản xuất không có phần cấu hình thay đổi DNS của kết nối dữ liệu di động (3G, 4G) nếu không root hoặc jailbreak.
 - Trên Android, ngoài cách thủ công thì có các ứng dụng đổi DNS cũng bằng cách chạy giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
-
-2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên nextdns. Vì với Adguard DNS bạn không có tùy chọn bộ lọc theo ý mình, trong khi nextdns có lựa chọn.
-
-3. DNS mã hóa: Một số hệ thống và ứng dụng bắt đầu hỗ trợ các loại DNS mã hóa như DNS-over-HTTPS (DoH), DNS-over-TLS (DoT). Nếu có thể, hãy luôn chọn và thiết lập sử dụng các *DNS-chặn-quảng-cáo-có-mã-hóa* này.
+- DNS mã hóa: Một số hệ thống và ứng dụng bắt đầu hỗ trợ các loại DNS mã hóa như DNS-over-HTTPS (DoH), DNS-over-TLS (DoT). Nếu có thể, hãy luôn chọn và thiết lập sử dụng các *DNS-chặn-quảng-cáo-có-mã-hóa* này.
 **Lưu ý**: Nếu bạn dùng phương thức chặn DNS mà sử dụng trình duyệt tích hợp sẵn tính năng mã hóa DNS nhưng lại kết nối tới DNS-không-có-chặn-quảng-cáo của họ, thì cần tắt tính năng mã hóa DNS này trong trình duyệt (đọc thêm ý 4 ở phần [Các bước cơ bản để chặn quảng cáo](#các-bước-cơ-bản-để-chặn-quảng-cáo))
+
+2. Các nhà cung cấp DNS: [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html) có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên [nextdns](https://www.nextdns.io/). Vì với Adguard DNS bạn không có tùy chọn bộ lọc theo ý mình, trong khi nextdns có lựa chọn.
 
 5. Hướng dẫn: Cách làm giống nhau cho các hệ thống DNS
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
@@ -212,7 +211,7 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDUzOTAxOCw3NjY3MDA4MTgsLTg2OT
+eyJoaXN0b3J5IjpbMjE0MzExMTExMyw3NjY3MDA4MTgsLTg2OT
 kzNjEyOSwtMTczMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEz
 MzQsMjc4NDEwNjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEyLDEyNz
 E3NDU2MjEsMjIxMTY5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIx
