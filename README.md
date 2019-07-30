@@ -1,6 +1,6 @@
 # Tuyên ngôn Chặn Quảng Cáo
 
-***Lời nhắn nhủ**: Đây đảm bảo là bài viết tổng hợp đầy đủ nhất bằng tiếng Việt về việc chặn quảng cáo, tên miền lừa đảo, mã độc. Nếu thấy hữu ích, bạn hãy hướng dẫn hoặc giới thiệu bài viết này cho những người xung quanh mình nhé. Hãy cùng giúp nhau có một không gian Internet sạch và an toàn!*
+***Lời nhắn nhủ**: Đây đảm bảo là bài viết tổng hợp đầy đủ nhất bằng tiếng Việt về việc chặn quảng cáo. Nếu thấy hữu ích, bạn hãy hướng dẫn hoặc giới thiệu bài viết này cho những người xung quanh mình nhé. Hãy cùng giúp nhau có một không gian Internet sạch và an toàn!*
 
 Nếu hay xem TV, bạn chắc hẳn đã trải qua cảm giác mất hứng khi phim đang đến đoạn hay thì nhà đài cho dừng một lúc để quảng cáo?
 
@@ -179,11 +179,11 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0ND
-k1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2
-MDgsMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMT
-M4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2
-NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAxMzYyMi
-w3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0xOTkyNjI3
-NDczXX0=
+eyJoaXN0b3J5IjpbNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4ND
+YwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5
+MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0MCwxNT
+E0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMjYzODA4
+MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMzcyOTIyNjIwLD
+E0NTgwMTM2MjIsNzIwNDI3MTgsNzg5NDE5NjI3LDU3NjAwNTQy
+OV19
 -->
