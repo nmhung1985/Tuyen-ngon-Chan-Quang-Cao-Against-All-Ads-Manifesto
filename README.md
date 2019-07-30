@@ -118,7 +118,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - Router Asus (chạy [firmware Merlin](https://www.asuswrt-merlin.net/)): cách dễ nhất cho người có kiến thức máy tính trung bình. Chỉ hoạt động trên một số loại router của Asus như AC66U, AC68U, AC86U, AC88U v.v... Hướng dẫn cho thiết bị đã flash Merlin: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md)
 - [pi-hole](https://pi-hole.net/): ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Hướng dẫn: [1](http://web.archive.org/web/20190730080355/https://cuccode.com/pihole.html), [video](https://www.youtube.com/watch?v=1lmQqGZf_4A), [voz](https://forums.voz.vn/showthread.php?t=7437968)
 - [Adguard Home](https://adguard.com/en/adguard-home/overview.html): tham vọng thay thế pi-hole nên hỗ trợ nhiều nền tảng và tích hợp sẵn nhiều tính năng. Hướng dẫn: [1](https://adguard.com/en/adguard-home/overview.html)
-- [pfSense](https://www.pfsense.org/), [OPNsense](https://opnsense.org/), [Untangle NG Firewall](https://www.untangle.com/get-untangle/), [Sophos XG Firewall Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx) hoặc [UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx), [nethserver](https://www.nethserver.org/), [ClearOS](https://www.clearos.com/), [VyOS](https://vyos.io/): là các bộ ứng dụng hoặc thậm chí là một hệ điều hành chỉ làm nhiệm vụ tường lửa
+- [pfSense](https://www.pfsense.org/), [OPNsense](https://opnsense.org/), Sophos [XG Firewall Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx) hoặc [UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx), [nethserver](https://www.nethserver.org/), [Untangle NG Firewall](https://www.untangle.com/get-untangle/), [ClearOS](https://www.clearos.com/), [VyOS](https://vyos.io/): là các bộ ứng dụng hoặc thậm chí là một hệ điều hành chỉ làm nhiệm vụ tường lửa, bảo mật nên chặn quảng cáo là một ti. Cực mạnh mẽ và nhiều cấu hình nâng cao, phức tạp
 
 ### Máy tính
 
@@ -207,11 +207,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5ODczNTMxLDI3ODQxMDYyNyw4MTc2Mj
-A0MzQsMTU5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMTE2OTk2MSwt
-MTUxMjcxNTg2NywxODY1NzIyMTgzLDY0NzgxNzk5NCwtNTI0Mz
-Y0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcs
-MTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMj
-U4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcw
-M119
+eyJoaXN0b3J5IjpbMTYyNjc5MjQ4MywyNzg0MTA2MjcsODE3Nj
+IwNDM0LDE1OTUyOTU1MTIsMTI3MTc0NTYyMSwyMjExNjk5NjEs
+LTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5OTQsLTUyND
+M2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMDg0NjAzNTk3
+LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMj
+I1ODk2MDgsMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3
+MDNdfQ==
 -->
