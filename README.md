@@ -179,14 +179,14 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 
-## Chặn quảng cáo này liên quan như thế nào với các ứng dụng bảo mật, chống virus?
+## Việc chặn quảng cáo liên quan như thế nào với các ứng dụng bảo mật, chống virus?
 Đây là câu hỏi rất hợp lý. 
 
 Đúng vậy, ban đầu các ứng dụng chống virus và ứng dụng chặn quảng cáo (theo đúng nghĩa chỉ chặn quảng cáo) là các ứng dụng chuyên biệt chỉ làm đúng nhiệm vụ của mình.
 
-Nhưng dần dần, khi virus, mã độc dần được phát triển theo hướng lây lan qua mạng, thì ứng dụng chặn quảng cáo, với khả năng lọc và chặn các tên miền sẵn có, lại vô tình
+Nhưng khi virus, mã độc dần được phát triển theo hướng lây lan qua mạng, thì ứng dụng chặn quảng cáo, với khả năng lọc và chặn các tên miền của mình, lại vô tình có tác dụng trong việc ngăn chặn các loại virus, mã độc kia.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTQwMTcyNSw1NjMyMTI3NTUsLTY2Mj
+eyJoaXN0b3J5IjpbLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2Mj
 U4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAw
 ODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIwNSwtOD
 Q2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1
