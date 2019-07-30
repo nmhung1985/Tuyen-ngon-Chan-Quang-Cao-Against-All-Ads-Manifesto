@@ -91,10 +91,10 @@ Các chương trình, phần mềm và ứng dụng (gọi chung là "**ứng d�
 
 Từ các cách phân loại này, ngoài việc các ứng dụng trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này giải thích lí do khiến chúng ta đang đối mặt với sự lựa chọn khá là phong phú :)
 
-## Các bước cơ bản để chặn quảng cáo
+## Các bước cần ghi nhớ để chặn quảng cáo hiệu quả
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Vậy hãy kiểm tra lại từng bước:
 1. Đầu tiên, phải có hệ thống/ứng dụng để xử lý.
-2. Ngoài ra còn cần bộ lọc/danh sách chặn (filters lists/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
+2. Ngoài ra còn cần chọn bộ lọc/danh sách chặn (filters lists/hosts) đúng mục đích của mình, cũng như phù hợp với quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện quảng cáo bị chặn (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
 4. Trong trường hợp chặn theo phương thức DNS: Chrome với tính năng Async DNS Resolver, cũng như các trình duyệt tích hợp chức năng mã hóa DNS hoặc "tiết kiệm dung lượng" (data saver), có thể bỏ qua danh sách lọc. Khi đó cần tắt các tính năng này.
 5. Lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
@@ -212,11 +212,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjI1MDk5NywtODY5OTM2MTI5LC0xNz
-MzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3MTMzNCwyNzg0MTA2
-MjcsODE3NjIwNDM0LDE1OTUyOTU1MTIsMTI3MTc0NTYyMSwyMj
-ExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5
-OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMD
-g0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2
-MDkzM119
+eyJoaXN0b3J5IjpbNzY2NzAwODE4LC04Njk5MzYxMjksLTE3Mz
+M3ODMzMjgsLTExNjA2MjQzMzEsODYxMjcxMzM0LDI3ODQxMDYy
+Nyw4MTc2MjA0MzQsMTU5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMT
+E2OTk2MSwtMTUxMjcxNTg2NywxODY1NzIyMTgzLDY0NzgxNzk5
+NCwtNTI0MzY0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2LDEwOD
+Q2MDM1OTcsMTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNjQ1NjYw
+OTMzXX0=
 -->
