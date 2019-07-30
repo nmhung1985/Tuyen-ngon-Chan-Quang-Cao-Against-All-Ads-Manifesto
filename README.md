@@ -124,7 +124,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 **Đang vội và muốn thử ngay?** Nano Adblocker & Nano Defender
 
 ### Android
-- [AdClear](https://adclear.com/en/adclear-installation.php): giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa, chưa hỗ trợ thêm bộ danh sách lọc. Mặc định không thiết lập chặn hết tất cả ứng dụng trên thiết bị để người dùng tìm hiểu cách bật/tắt chặn đối với **từng** ứng dụng. 
+- [AdClear](https://adclear.com/en/adclear-installation.php): giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa, chưa hỗ trợ thêm bộ danh sách lọc. Mặc định không thiết lập chặn hết tất cả ứng dụng trên thiết bị để người dùng khám phá cách bật/tắt chặn đối với **từng** ứng dụng. 
 
 - [Blokada](https://blokada.org/): giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :). Hướng dẫn: [1](https://trainghiemso.vn/blokada-chan-quang-cao-tren-android/)
 
@@ -179,11 +179,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MT
-Q5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgx
-MiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMT
-Q1ODAxMzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5
-LC0xOTkyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMT
-E4NzE5ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYy
-Nzc4XX0=
+eyJoaXN0b3J5IjpbMTE0MTk5MDkyOSwxNzk1MzE1MjA1LC04ND
+YxMDI2NDAsMTUxNDk0MDcwMywxMzgzMjY2NjI2LDgxNTMzODUx
+MSwxMzI2MzgwODEyLC0xOTM4MzY1ODM4LC0xNTIwMDMxNTAwLD
+M3MjkyMjYyMCwxNDU4MDEzNjIyLDcyMDQyNzE4LDc4OTQxOTYy
+Nyw1NzYwMDU0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3MywxMz
+gwNzE2NDM2LC0xMTg3MTk4NTI3LDE0Mzc3OTY5MiwxNTM5MDI0
+MTM3XX0=
 -->
