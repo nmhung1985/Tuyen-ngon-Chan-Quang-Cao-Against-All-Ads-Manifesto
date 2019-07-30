@@ -112,7 +112,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là đã có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
 
 - Router Asus (chạy [firmware Merlin](https://www.asuswrt-merlin.net/)): cách dễ nhất cho người có kiến thức máy tính trung bình. Chỉ hoạt động trên một số loại router của Asus như AC66U, AC68U, AC86U, AC88U v.v... Hướng dẫn cho thiết bị đã flash Merlin: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md)
-- [pi-hole](https://pi-hole.net/): có lẽ là ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Chỉ khó ở việc mua và cá
+- [pi-hole](https://pi-hole.net/): có lẽ là ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Chỉ khó ở việc mua và cấu hình hệ điều hành
 
 ### Máy tính
 
@@ -201,11 +201,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEwMDIxNjUsLTE1MTI3MTU4NjcsMT
-g2NTcyMjE4Myw2NDc4MTc5OTQsLTUyNDM2NDYxMSw1NjMyMTI3
-NTUsLTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLT
-IwNDg1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMx
-NTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNi
-w4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUy
-MDAzMTUwMF19
+eyJoaXN0b3J5IjpbLTk5OTM5MzUyOSwtMTUxMjcxNTg2NywxOD
+Y1NzIyMTgzLDY0NzgxNzk5NCwtNTI0MzY0NjExLDU2MzIxMjc1
+NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcsMTQ0OTU4MzU4MSwtMj
+A0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMjU4OTYwOCwxNzk1MzE1
+MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcwMywxMzgzMjY2NjI2LD
+gxNTMzODUxMSwxMzI2MzgwODEyLC0xOTM4MzY1ODM4LC0xNTIw
+MDMxNTAwXX0=
 -->
