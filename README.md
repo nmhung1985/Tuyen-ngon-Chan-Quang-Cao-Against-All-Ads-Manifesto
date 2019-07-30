@@ -91,7 +91,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 1. Đầu tiên, phải có hệ thống/ứng dụng để xử lý.
 2.  Ngoài ra còn cần bộ lọc/danh sách chặn (filters lists/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện quảng cáo bị chặn (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
-4. Chrome với tính năng Async DNS Resolver, cũng như các trình duyệt tích hợp chức năng mã hóa DNS hoặc "tiết kiệm dung lượng" (data saver) có thể 
+4. Chrome với tính năng Async DNS Resolver, cũng như các trình duyệt tích hợp chức năng mã hóa DNS hoặc "tiết kiệm dung lượng" (data saver), có thể bỏ qua danh sách lọc. Cần tắt các tính năng này.
 5. Lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, v.v..., áp dụng được cho nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Minh bạch: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus, uBlock Origin, v.v... , áp dụng được cho 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
@@ -177,11 +177,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzM5NDk2MCwzNzI5MjI2MjAsMTQ1OD
-AxMzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0x
-OTkyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMTE4Nz
-E5ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4
-LC02MDc2OTA0OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMj
-cyNTgwMzc1LC0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5
-MDE2NjRdfQ==
+eyJoaXN0b3J5IjpbLTE1MjAwMzE1MDAsMzcyOTIyNjIwLDE0NT
+gwMTM2MjIsNzIwNDI3MTgsNzg5NDE5NjI3LDU3NjAwNTQyOSwt
+MTk5MjYyNzQ3MywtNjMzNDY4NDczLDEzODA3MTY0MzYsLTExOD
+cxOTg1MjcsMTQzNzc5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3
+OCwtNjA3NjkwNDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMT
+I3MjU4MDM3NSwtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgz
+OTAxNjY0XX0=
 -->
