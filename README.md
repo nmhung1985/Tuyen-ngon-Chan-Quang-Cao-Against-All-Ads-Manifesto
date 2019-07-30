@@ -146,7 +146,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 ### iOS
 1. Dạng chạy giả lập VPN
-- [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
+- [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Cần trả phí mới có tính năng HTTPS. Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
 
 - [Adguard](https://itunes.apple.com/app/adguard-adblock-privacy/id1047223162?mt=8): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai bản này và bản Pro ở dưới sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Adguard)
 
@@ -167,11 +167,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwNDI3MTgsNzg5NDE5NjI3LDU3NjAwNT
-QyOSwtMTk5MjYyNzQ3MywtNjMzNDY4NDczLDEzODA3MTY0MzYs
-LTExODcxOTg1MjcsMTQzNzc5NjkyLDE1MzkwMjQxMzcsMTYzOD
-A2Mjc3OCwtNjA3NjkwNDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2
-OSwtMTI3MjU4MDM3NSwtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC
-0xMjgzOTAxNjY0LDI1NTY2NjcyMiwtOTM3MDA3MjUwLDk4MzM3
-NDI0XX0=
+eyJoaXN0b3J5IjpbLTE3NDc1MjAzMzEsNzIwNDI3MTgsNzg5ND
+E5NjI3LDU3NjAwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4NDcz
+LDEzODA3MTY0MzYsLTExODcxOTg1MjcsMTQzNzc5NjkyLDE1Mz
+kwMjQxMzcsMTYzODA2Mjc3OCwtNjA3NjkwNDkwLDIwODc0OTAz
+MDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMTA4Mjg1NTQzMS
+wxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2NjcyMiwtOTM3
+MDA3MjUwXX0=
 -->
