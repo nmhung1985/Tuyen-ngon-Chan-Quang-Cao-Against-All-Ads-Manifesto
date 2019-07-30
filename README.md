@@ -152,7 +152,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Adguard Pro](https://itunes.apple.com/app/apple-store/id1126386264?mt=8) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Nhưng chưa hỗ trợ HTTPS. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
 
-- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): tốt nhất, tương tự như Surge, nhưng có thêm tính năng. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
+- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): tốt nhất, tương tự như Surge sau khi trả phí nâng cấp. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
@@ -167,11 +167,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc1MjAzMzEsNzIwNDI3MTgsNzg5ND
-E5NjI3LDU3NjAwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4NDcz
-LDEzODA3MTY0MzYsLTExODcxOTg1MjcsMTQzNzc5NjkyLDE1Mz
-kwMjQxMzcsMTYzODA2Mjc3OCwtNjA3NjkwNDkwLDIwODc0OTAz
-MDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMTA4Mjg1NTQzMS
-wxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2NjcyMiwtOTM3
-MDA3MjUwXX0=
+eyJoaXN0b3J5IjpbMjAxMDIxNDUwMiw3MjA0MjcxOCw3ODk0MT
+k2MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02MzM0Njg0NzMs
+MTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2OTIsMTUzOT
+AyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0OTAsMjA4NzQ5MDMw
+MywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC0xMDgyODU1NDMxLD
+E5ODU0NTk4MzMsLTEyODM5MDE2NjQsMjU1NjY2NzIyLC05Mzcw
+MDcyNTBdfQ==
 -->
