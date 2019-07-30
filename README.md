@@ -157,7 +157,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
 ### DNS
-1. Như đã giới thiệu ngắn gọn ở các phần trước, DNS là định nghĩa hệ thống phân giải tên miền, mà ở đây ta dùng để nói ngắn gọn của phương thức chặn mà theo đó bạn thiết lập cho hệ thống/thiết bị kết nối tới:
+1. Như đã giới thiệu ngắn gọn ở các phần trước, DNS là định nghĩa hệ thống phân giải tên miền, mà ở đây ta cũng dùng để nói ngắn gọn phương thức chặn mà theo đó bạn thiết lập cho hệ thống/thiết bị kết nối tới hệ thống DNS khác:
 - Hệ thống ở xa đó sẽ đảm nhiệm việc lọc và chặn tên miền, rồi mới trả lại thông tin để thiết bị của bạn kết nối tới.
 - Hệ thống ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp, và áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số phiên bản Android (Oreo) không thay đổi được DNS nếu không root.
 - Trên Android, các ứng dụng để đổi DNS đa số cũng chạy dạng giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
@@ -166,7 +166,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mzc0NzI0Miw1NzYwMDU0MjksLTE5OT
+eyJoaXN0b3J5IjpbMTQzOTI0MTc2MSw1NzYwMDU0MjksLTE5OT
 I2Mjc0NzMsLTYzMzQ2ODQ3MywxMzgwNzE2NDM2LC0xMTg3MTk4
 NTI3LDE0Mzc3OTY5MiwxNTM5MDI0MTM3LDE2MzgwNjI3NzgsLT
 YwNzY5MDQ5MCwyMDg3NDkwMzAzLC0xOTQwNjQ1NjksLTEyNzI1
