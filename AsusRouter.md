@@ -127,11 +127,11 @@ b) Chọn bộ lọc Việt Nam: Sau khi Diversion chạy menu lên rồi thì t
 
 Thông tin thêm:
 - Diversion là trình chặn quảng cáo chính, tổng hợp và tạo danh sách bộ lọc dạng hosts rồi đưa qua dnsmasq xử lý. Pixelserv-tls thì là một web server mini nhỏ gọn để hỗ trợ chặn các trang mã hóa https.
-- Vào [url]http://192.168.1.2/servstats[/url] để xem thống kê của pixelserv-tls. Tất nhiên thay 192.168.1.2 bằng IP ảo mà bạn đã cài.
+- Vào http://192.168.1.2/servstats để xem thống kê của pixelserv-tls. Tất nhiên thay 192.168.1.2 bằng IP ảo mà bạn đã cài.
 - Nếu tò mò, thích tìm hiểu, bạn chạy Diversion, chọn **l** để bật log, rồi sau đó chọn **f** rồi **2** để xem Diversion chặn những gì trong nhà. Nếu nhà nhiều thiết bị thì nhìn rất phê :D Còn lại nói chung nên tắt log để giảm tải.
-- Tác giả Diversion bàn luận ở đây. Forum này cũng là forum chuyên về bàn luận router của Asus và Merlin firmware.
-[url]https://www.snbforums.com/threads/diversion-the-router-ad-blocker.48538/page-71#post-447604[/url]
+- Tác giả Diversion bàn luận ở đây. Forum này cũng là forum chuyên  bàn luận về router của Asus và Merlin firmware.
+https://www.snbforums.com/threads/diversion-the-router-ad-blocker.48538/page-71#post-447604
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODkwMDY1OSw0MjM4MDAzMDcsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1MTE1MDU2MTksNDIzODAwMzA3LDczMD
+k5ODExNl19
 -->
