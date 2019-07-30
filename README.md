@@ -77,7 +77,7 @@ Các chương trình, phần mềm và ứng dụng (gọi chung là "**ứng d�
 2.1. Cấp độ Mạng Nội Bộ: 
 - Chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc thiết bị/máy tính có cài hệ thống chặn đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
 - Toàn bộ các thiết bị khác kết nối cùng mạng nội bộ này sẽ không cần làm gì thêm mà vẫn được chặn quảng cáo
-- **Cách duy nhất** để chặn quảng cáo trên các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
+- **Cách duy nhất** để chặn quảng cáo cho các thiết bị như AppleTV, TV thông minh, IoT (Internet of Things) v.v...
 - Chủ yếu áp dụng nguyên lý 1 (ngoại trừ pfSense và một vài hệ thống tương đương)
 
 2.2. Cấp độ Thiết bị: 
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2NjM4MzI2LC03ODYxNzAwNjYsMTcxMj
-MzODA3MCwtNDExOTUxMDM2LC05NjE1ODgyMCwtMTAyMTc1MTMy
-OSwxMjM3OTcwNTI2LDc2NjcwMDgxOCwtODY5OTM2MTI5LC0xNz
-MzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3MTMzNCwyNzg0MTA2
-MjcsODE3NjIwNDM0LDE1OTUyOTU1MTIsMTI3MTc0NTYyMSwyMj
-ExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTUyNjMwMjkyNiw0OTY2MzgzMjYsLTc4Nj
+E3MDA2NiwxNzEyMzM4MDcwLC00MTE5NTEwMzYsLTk2MTU4ODIw
+LC0xMDIxNzUxMzI5LDEyMzc5NzA1MjYsNzY2NzAwODE4LC04Nj
+k5MzYxMjksLTE3MzM3ODMzMjgsLTExNjA2MjQzMzEsODYxMjcx
+MzM0LDI3ODQxMDYyNyw4MTc2MjA0MzQsMTU5NTI5NTUxMiwxMj
+cxNzQ1NjIxLDIyMTE2OTk2MSwtMTUxMjcxNTg2NywxODY1NzIy
+MTgzXX0=
 -->
