@@ -101,10 +101,10 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, nextdns, v.v..., áp dụng được cho nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Minh bạch: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus, uBlock Origin, v.v... , áp dụng được cho 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
 - [FMSF của nmtrung](https://github.com/nmtrung/FMSF-2.0): tác giả là thành viên voz.vn nên bộ lọc khá nổi bên đó, đáng tiếc là không thấy tác giả đề xuất được đưa vào các ứng dụng nổi tiếng, áp dụng được cho 2 nguyên lý như ABPVN.
-6. Các bộ lọc khác để chặn web người lớn, bài bạc, cá cược, theo dõi, phân tích dữ liệu cá nhân, lén đào tiền ảo hoặc thậm chí cả mạng xã hội, mua bán v.v... Nói chung là có đủ cho mọi nhu cầu:
+6. Một số trang như [FilterLists.com](https://filterlists.com/) có liệt kê các bộ lọc khác để chặn web người lớn, bài bạc, cá cược, theo dõi, phân tích dữ liệu cá nhân, lén đào tiền ảo hoặc thậm chí cả mạng xã hội, mua bán v.v... Nói chung là có đủ cho mọi nhu cầu. Tuy nhiên:
 - Nếu chưa có kinh nghiệm, tốt nhất hãy hỏi những người có kinh nghiệm để nhờ họ giới thiệu bộ lọc phù hợp: [Discord HostsVN](https://discord.gg/shPKfxG), [Facebook ABPVN](https://www.facebook.com/abpvn.org), [FMSF voz.vn](https://forums.voz.vn/showthread.php?t=4083932)
 - Đừng ham chọn quá nhiều, có thể lại gây tác dụng ngược làm máy bị chậm hoặc treo.
-[https://filterlists.com/](https://filterlists.com/)
+
 
 ## Tổng quan và sơ lược các ứng dụng nên dùng
 
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMjMzODA3MCwtNDExOTUxMDM2LC05Nj
-E1ODgyMCwtMTAyMTc1MTMyOSwxMjM3OTcwNTI2LDc2NjcwMDgx
-OCwtODY5OTM2MTI5LC0xNzMzNzgzMzI4LC0xMTYwNjI0MzMxLD
-g2MTI3MTMzNCwyNzg0MTA2MjcsODE3NjIwNDM0LDE1OTUyOTU1
-MTIsMTI3MTc0NTYyMSwyMjExNjk5NjEsLTE1MTI3MTU4NjcsMT
-g2NTcyMjE4Myw2NDc4MTc5OTQsLTUyNDM2NDYxMSw1NjMyMTI3
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTc4NjE3MDA2NiwxNzEyMzM4MDcwLC00MT
+E5NTEwMzYsLTk2MTU4ODIwLC0xMDIxNzUxMzI5LDEyMzc5NzA1
+MjYsNzY2NzAwODE4LC04Njk5MzYxMjksLTE3MzM3ODMzMjgsLT
+ExNjA2MjQzMzEsODYxMjcxMzM0LDI3ODQxMDYyNyw4MTc2MjA0
+MzQsMTU5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMTE2OTk2MSwtMT
+UxMjcxNTg2NywxODY1NzIyMTgzLDY0NzgxNzk5NCwtNTI0MzY0
+NjExXX0=
 -->
