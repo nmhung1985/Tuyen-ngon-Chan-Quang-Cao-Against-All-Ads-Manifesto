@@ -122,7 +122,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [Diversion](https://diversion.ch/): (chỉ dành cho router Asus chạy [firmware Merlin](https://www.asuswrt-merlin.net/)): cách dễ nhất cho người có kiến thức máy tính trung bình. Chỉ hoạt động trên một số loại router của Asus như AC66U, AC68U, AC86U, AC88U v.v... Hướng dẫn cho thiết bị đã flash Merlin: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md)
 - [pi-hole](https://pi-hole.net/): ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Hướng dẫn: [1](http://web.archive.org/web/20190730080355/https://cuccode.com/pihole.html), [video](https://www.youtube.com/watch?v=1lmQqGZf_4A), [voz](https://forums.voz.vn/showthread.php?t=7437968)
-- [Adguard Home](https://adguard.com/en/adguard-home/overview.html): tham vọng thay thế pi-hole nên hỗ trợ nhiều nền tảng và tích hợp sẵn nhiều tính năng. Hướng dẫn: [1](https://adguard.com/en/adguard-home/overview.html)
+- [Adguard Home](https://adguard.com/en/adguard-home/overview.html): tham vọng thay thế pi-hole nên hỗ trợ nhiều nền tảng và tích hợp sẵn nhiều tính năng. Hướng dẫn: [1](https://github.com/AdguardTeam/AdGuardHome/wiki/Getting-Started)
 - [pfSense](https://www.pfsense.org/), [OPNsense](https://opnsense.org/), Sophos [XG Firewall Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx) hoặc [UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx), [nethserver](https://www.nethserver.org/), [Untangle NG Firewall](https://www.untangle.com/get-untangle/), [ClearOS](https://www.clearos.com/), [VyOS](https://vyos.io/): là các bộ ứng dụng hoặc thậm chí là một hệ điều hành chỉ làm nhiệm vụ tường lửa, bảo mật nên chặn quảng cáo là một tính năng trong đó. Cực mạnh mẽ và nhiều cấu hình nâng cao, phức tạp. Thường áp dụng được cả 2 nguyên lý và HTTPS.
 
 ### Máy tính
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY1MjIzMDIsMzQxNjc5MDU1LDYzNT
-k3MDg5NCwtNTI2MzAyOTI2LDQ5NjYzODMyNiwtNzg2MTcwMDY2
-LDE3MTIzMzgwNzAsLTQxMTk1MTAzNiwtOTYxNTg4MjAsLTEwMj
-E3NTEzMjksMTIzNzk3MDUyNiw3NjY3MDA4MTgsLTg2OTkzNjEy
-OSwtMTczMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMj
-c4NDEwNjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2
-MjFdfQ==
+eyJoaXN0b3J5IjpbMTI1Mzk0MTM1NSwtMTI1NjUyMjMwMiwzND
+E2NzkwNTUsNjM1OTcwODk0LC01MjYzMDI5MjYsNDk2NjM4MzI2
+LC03ODYxNzAwNjYsMTcxMjMzODA3MCwtNDExOTUxMDM2LC05Nj
+E1ODgyMCwtMTAyMTc1MTMyOSwxMjM3OTcwNTI2LDc2NjcwMDgx
+OCwtODY5OTM2MTI5LC0xNzMzNzgzMzI4LC0xMTYwNjI0MzMxLD
+g2MTI3MTMzNCwyNzg0MTA2MjcsODE3NjIwNDM0LDE1OTUyOTU1
+MTJdfQ==
 -->
