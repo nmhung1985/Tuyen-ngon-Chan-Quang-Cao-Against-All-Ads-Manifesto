@@ -37,7 +37,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 
 ## Cấp độ chặn quảng cáo
 
-#### 1. Phân loại theo phương thức:
+### 1. Phân loại theo phương thức:
 
 1.1. Hosts/Tường lửa: 
 - Danh sách chặn được ghi trực tiếp vào cơ sở dữ liệu nội tại của thiết bị, được chính hệ thống bảo mật nội tại chính chủ xử lý (tập tin hosts trên máy tính, Knox trên điện thoại Samsung)
@@ -65,7 +65,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 - Giúp nguyên lý 1 có thể chặn thêm được một phần quảng cáo mà Youtube, Facebook mã hóa
 - Nếu không có tính năng này thì dù áp dụng được nguyên lý 2 vẫn có thể không ẩn được quảng cáo YouTube
 
-#### 2. Phân loại theo độ bao phủ:
+### 2. Phân loại theo độ bao phủ:
 
 2.1. Cấp độ Mạng Nội Bộ: 
 - Chỉ cần thiết lập trên một thiết bị có chức năng quản lý hệ thống mạng trong nhà như Router (hay được gọi bình dân là "cục modem", "cục wifi") hoặc thiết bị/máy tính có cài hệ thống chặn đặc biệt (pfSense, pi-hole, Adguard Home v.v...).
@@ -82,7 +82,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 - Chỉ hoạt động trên trình duyệt được thiết lập, hoặc có thể kể đến trình duyệt tích hợp sẵn tính năng chặn quảng cáo (ví dụ Brave)
 - Thường áp dụng được cả 2 nguyên lý
 
-Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là **ứng dụng**) trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
+Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là "**ứng dụng**) trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
 Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tuy nhiên, ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. (Lưu ý: do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều, chỉ đọc tham khảo và chỉ luôn tải hoặc mua bản mới nhất ở trang gốc).
 
@@ -179,11 +179,11 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMj
-I1ODk2MDgsMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3
-MDMsMTM4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMT
-kzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAx
-MzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0xOT
-kyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMTE4NzE5
-ODUyN119
+eyJoaXN0b3J5IjpbLTExMDY2OTA5LC0yMDQ4NTIwMDgzLDE2ND
+U2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0
+MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMj
+YzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMzcyOTIy
+NjIwLDE0NTgwMTM2MjIsNzIwNDI3MTgsNzg5NDE5NjI3LDU3Nj
+AwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4NDczLDEzODA3MTY0
+MzZdfQ==
 -->
