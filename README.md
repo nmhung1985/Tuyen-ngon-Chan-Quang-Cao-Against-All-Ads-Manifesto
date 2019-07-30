@@ -111,7 +111,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 ### Mạng nội bộ
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là đã có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
 
-Đối với dòng Router Asus vẫn có cách thiết lập khá dễ cho người có kiến thức máy tính trung bình. Mời bạn xem hướng dẫn [ở đây](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md).
+- Router Asus vẫn có cách thiết lập khá dễ cho người có kiến thức máy tính trung bình. Mời bạn xem hướng dẫn [ở đây](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md).
 
 ### Máy tính
 
@@ -200,11 +200,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2ND
-c4MTc5OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2
-NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMT
-Y0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIwNSwtODQ2MTAy
-NjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1MTEsMT
-MyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5
-MjI2MjBdfQ==
+eyJoaXN0b3J5IjpbMjAyMTEyNzgxMSwtMTUxMjcxNTg2NywxOD
+Y1NzIyMTgzLDY0NzgxNzk5NCwtNTI0MzY0NjExLDU2MzIxMjc1
+NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcsMTQ0OTU4MzU4MSwtMj
+A0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMjU4OTYwOCwxNzk1MzE1
+MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcwMywxMzgzMjY2NjI2LD
+gxNTMzODUxMSwxMzI2MzgwODEyLC0xOTM4MzY1ODM4LC0xNTIw
+MDMxNTAwXX0=
 -->
