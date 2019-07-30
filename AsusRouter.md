@@ -123,7 +123,7 @@ b) Chọn bộ lọc Việt Nam: Sau khi Diversion chạy menu lên rồi thì t
 `https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts`
 - Chọn **e** (Exit). Diversion sẽ hỏi cập nhật ko, chọn **1** (Yes).
 
-10. **Reboot **router một lần cuối cùng để mọi thứ mượt mà! :beauty:
+10. **Reboot** router một lần cuối cùng để mọi thứ mượt mà! :beauty:
 
 Thông tin thêm:
 - Diversion là trình chặn quảng cáo chính, tổng hợp và tạo danh sách bộ lọc dạng hosts rồi đưa qua dnsmasq xử lý. Pixelserv-tls thì là một web server mini nhỏ gọn để hỗ trợ chặn các trang mã hóa https.
@@ -132,6 +132,6 @@ Thông tin thêm:
 - Tác giả Diversion bàn luận ở đây. Forum này cũng là forum chuyên về bàn luận router của Asus và Merlin firmware.
 [url]https://www.snbforums.com/threads/diversion-the-router-ad-blocker.48538/page-71#post-447604[/url]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU1MDQwNzcsNDIzODAwMzA3LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbMjEzODkwMDY1OSw0MjM4MDAzMDcsNzMwOT
+k4MTE2XX0=
 -->
