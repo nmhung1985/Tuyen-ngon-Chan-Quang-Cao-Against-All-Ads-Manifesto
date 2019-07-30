@@ -120,7 +120,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 ### Mạng nội bộ
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là đã có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
 
-- Diversion: (chỉ dành cho router Asus chạy [firmware Merlin](https://www.asuswrt-merlin.net/)): cách dễ nhất cho người có kiến thức máy tính trung bình. Chỉ hoạt động trên một số loại router của Asus như AC66U, AC68U, AC86U, AC88U v.v... Hướng dẫn cho thiết bị đã flash Merlin: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md)
+- [Diversion](https://diversion.ch/): (chỉ dành cho router Asus chạy [firmware Merlin](https://www.asuswrt-merlin.net/)): cách dễ nhất cho người có kiến thức máy tính trung bình. Chỉ hoạt động trên một số loại router của Asus như AC66U, AC68U, AC86U, AC88U v.v... Hướng dẫn cho thiết bị đã flash Merlin: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md)
 - [pi-hole](https://pi-hole.net/): ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Hướng dẫn: [1](http://web.archive.org/web/20190730080355/https://cuccode.com/pihole.html), [video](https://www.youtube.com/watch?v=1lmQqGZf_4A), [voz](https://forums.voz.vn/showthread.php?t=7437968)
 - [Adguard Home](https://adguard.com/en/adguard-home/overview.html): tham vọng thay thế pi-hole nên hỗ trợ nhiều nền tảng và tích hợp sẵn nhiều tính năng. Hướng dẫn: [1](https://adguard.com/en/adguard-home/overview.html)
 - [pfSense](https://www.pfsense.org/), [OPNsense](https://opnsense.org/), Sophos [XG Firewall Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-xg-firewall-home-edition.aspx) hoặc [UTM Home Edition](https://www.sophos.com/en-us/products/free-tools/sophos-utm-home-edition.aspx), [nethserver](https://www.nethserver.org/), [Untangle NG Firewall](https://www.untangle.com/get-untangle/), [ClearOS](https://www.clearos.com/), [VyOS](https://vyos.io/): là các bộ ứng dụng hoặc thậm chí là một hệ điều hành chỉ làm nhiệm vụ tường lửa, bảo mật nên chặn quảng cáo là một tính năng trong đó. Cực mạnh mẽ và nhiều cấu hình nâng cao, phức tạp. Thường áp dụng được cả 2 nguyên lý và HTTPS.
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk0MTg5NTcsLTUyNjMwMjkyNiw0OT
-Y2MzgzMjYsLTc4NjE3MDA2NiwxNzEyMzM4MDcwLC00MTE5NTEw
-MzYsLTk2MTU4ODIwLC0xMDIxNzUxMzI5LDEyMzc5NzA1MjYsNz
-Y2NzAwODE4LC04Njk5MzYxMjksLTE3MzM3ODMzMjgsLTExNjA2
-MjQzMzEsODYxMjcxMzM0LDI3ODQxMDYyNyw4MTc2MjA0MzQsMT
-U5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMTE2OTk2MSwtMTUxMjcx
-NTg2N119
+eyJoaXN0b3J5IjpbNjM1OTcwODk0LC01MjYzMDI5MjYsNDk2Nj
+M4MzI2LC03ODYxNzAwNjYsMTcxMjMzODA3MCwtNDExOTUxMDM2
+LC05NjE1ODgyMCwtMTAyMTc1MTMyOSwxMjM3OTcwNTI2LDc2Nj
+cwMDgxOCwtODY5OTM2MTI5LC0xNzMzNzgzMzI4LC0xMTYwNjI0
+MzMxLDg2MTI3MTMzNCwyNzg0MTA2MjcsODE3NjIwNDM0LDE1OT
+UyOTU1MTIsMTI3MTc0NTYyMSwyMjExNjk5NjEsLTE1MTI3MTU4
+NjddfQ==
 -->
