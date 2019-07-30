@@ -161,17 +161,17 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - Hệ thống DNS ở xa đó sẽ đảm nhiệm việc lọc và chặn tên miền, rồi mới trả lại thông tin để thiết bị của bạn kết nối tới.
 - Có lẽ cũng là cách dễ nhất, vì hệ thống DNS ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp.
 - Áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số trường hợp, ví dụ như trên điện thoại thì có vẻ do quy định chung gì đó mà các nhà sản xuất không có phần cấu hình thay đổi DNS của kết nối dữ liệu di động (3G, 4G) nếu không root hoặc jailbreak.
-- Trên Android, ngoài cách thủ công thìcác ứng dụng để đổi DNS đa số cũng chạy dạng giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
+- Trên Android, ngoài cách thủ công thì có các ứng dụng để đổi DNS cũng bằng cách chạy giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
 
 2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên NextDNS. Vì với Adguard DNS bạn không thể thêm hoặc chọn bộ lọc theo ý mình, trong khi NextDNS cho chọn lựa.
 
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODI4MzUzLDcyMDQyNzE4LDc4OTQxOT
-YyNyw1NzYwMDU0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3Mywx
-MzgwNzE2NDM2LC0xMTg3MTk4NTI3LDE0Mzc3OTY5MiwxNTM5MD
-I0MTM3LDE2MzgwNjI3NzgsLTYwNzY5MDQ5MCwyMDg3NDkwMzAz
-LC0xOTQwNjQ1NjksLTEyNzI1ODAzNzUsLTEwODI4NTU0MzEsMT
-k4NTQ1OTgzMywtMTI4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAw
-NzI1MF19
+eyJoaXN0b3J5IjpbLTkxMTA4NjAxOCw3MjA0MjcxOCw3ODk0MT
+k2MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02MzM0Njg0NzMs
+MTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2OTIsMTUzOT
+AyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0OTAsMjA4NzQ5MDMw
+MywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC0xMDgyODU1NDMxLD
+E5ODU0NTk4MzMsLTEyODM5MDE2NjQsMjU1NjY2NzIyLC05Mzcw
+MDcyNTBdfQ==
 -->
