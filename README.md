@@ -165,13 +165,15 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên NextDNS. Vì với Adguard DNS bạn chọn bộ lọc theo ý mình, trong khi NextDNS có lựa chọn.
 
-3. DNS mã hóa: Một số hệ thống và ứng dụng bắt đầu hỗ trợ các loại DNS mã hóa như DNS-over-HTTPS (DoH), DNS-over-TLS (DoT).
+3. DNS mã hóa: Một số hệ thống và ứng dụng bắt đầu hỗ trợ các loại DNS mã hóa như DNS-over-HTTPS (DoH), DNS-over-TLS (DoT). Nếu có thể, hãy luôn chọn và thiết lập sử dụng các DNS mã hóa này.
+4. Hướng dẫn:
+- Adguard DNS
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjI0ODAyODQsNzIwNDI3MTgsNzg5ND
-E5NjI3LDU3NjAwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4NDcz
-LDEzODA3MTY0MzYsLTExODcxOTg1MjcsMTQzNzc5NjkyLDE1Mz
-kwMjQxMzcsMTYzODA2Mjc3OCwtNjA3NjkwNDkwLDIwODc0OTAz
-MDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMTA4Mjg1NTQzMS
-wxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2NjcyMiwtOTM3
-MDA3MjUwXX0=
+eyJoaXN0b3J5IjpbNTA5NDM1MjExLDcyMDQyNzE4LDc4OTQxOT
+YyNyw1NzYwMDU0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3Mywx
+MzgwNzE2NDM2LC0xMTg3MTk4NTI3LDE0Mzc3OTY5MiwxNTM5MD
+I0MTM3LDE2MzgwNjI3NzgsLTYwNzY5MDQ5MCwyMDg3NDkwMzAz
+LC0xOTQwNjQ1NjksLTEyNzI1ODAzNzUsLTEwODI4NTU0MzEsMT
+k4NTQ1OTgzMywtMTI4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAw
+NzI1MF19
 -->
