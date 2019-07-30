@@ -208,14 +208,14 @@ Ngoài ra:
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 
 ## Thông tin thêm
-Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn cứ thoải mái gửi email cho người viết theo địa chỉ:
+Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTE0MzI4LC0xNzMzNzgzMzI4LC0xMT
-YwNjI0MzMxLDg2MTI3MTMzNCwyNzg0MTA2MjcsODE3NjIwNDM0
-LDE1OTUyOTU1MTIsMTI3MTc0NTYyMSwyMjExNjk5NjEsLTE1MT
-I3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5OTQsLTUyNDM2NDYx
-MSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0ND
-k1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTg2OTkzNjEyOSwtMTczMzc4MzMyOCwtMT
+E2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEwNjI3LDgxNzYyMDQz
+NCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMjIxMTY5OTYxLC0xNT
+EyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3OTk0LC01MjQzNjQ2
+MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4NDYwMzU5NywxND
+Q5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5MzMsLTIyNTg5
+NjA4XX0=
 -->
