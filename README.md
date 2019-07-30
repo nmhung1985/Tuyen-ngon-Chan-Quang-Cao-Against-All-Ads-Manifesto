@@ -206,12 +206,15 @@ Ngoài ra:
 - Ứng dụng bảo mật tốt thì thường có giá đắt hơn nhiều so với ứng dụng chặn quảng cáo.
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
+
+## Thông tin người viết
+Người viết từng là người đi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjA2MjQzMzEsODYxMjcxMzM0LDI3OD
-QxMDYyNyw4MTc2MjA0MzQsMTU5NTI5NTUxMiwxMjcxNzQ1NjIx
-LDIyMTE2OTk2MSwtMTUxMjcxNTg2NywxODY1NzIyMTgzLDY0Nz
-gxNzk5NCwtNTI0MzY0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2
-LDEwODQ2MDM1OTcsMTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNj
-Q1NjYwOTMzLC0yMjU4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2
-NDBdfQ==
+eyJoaXN0b3J5IjpbMTU3ODQ1NTQ2LC0xMTYwNjI0MzMxLDg2MT
+I3MTMzNCwyNzg0MTA2MjcsODE3NjIwNDM0LDE1OTUyOTU1MTIs
+MTI3MTc0NTYyMSwyMjExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NT
+cyMjE4Myw2NDc4MTc5OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUs
+LTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLTIwND
+g1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIw
+NV19
 -->
