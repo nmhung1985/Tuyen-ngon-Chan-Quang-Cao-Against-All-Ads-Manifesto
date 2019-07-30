@@ -208,13 +208,13 @@ Ngoài ra:
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 
 ## Thông tin người viết
-Người viết từng là người đi
+Người viết từng là người điều phối việc bản địa hóa các phần mềm của Mozilla (Firefox, Thunderbird v.v...) sang tiếng Việt. Hiện tại, anh vẫn tiếp tục đóng góp và d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODQ1NTQ2LC0xMTYwNjI0MzMxLDg2MT
-I3MTMzNCwyNzg0MTA2MjcsODE3NjIwNDM0LDE1OTUyOTU1MTIs
-MTI3MTc0NTYyMSwyMjExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NT
-cyMjE4Myw2NDc4MTc5OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUs
-LTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLTIwND
-g1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIw
-NV19
+eyJoaXN0b3J5IjpbMjEwNjMxNjcwNywtMTE2MDYyNDMzMSw4Nj
+EyNzEzMzQsMjc4NDEwNjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEy
+LDEyNzE3NDU2MjEsMjIxMTY5OTYxLC0xNTEyNzE1ODY3LDE4Nj
+U3MjIxODMsNjQ3ODE3OTk0LC01MjQzNjQ2MTEsNTYzMjEyNzU1
+LC02NjI1ODkzNjYsMTA4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMD
+Q4NTIwMDgzLDE2NDU2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUy
+MDVdfQ==
 -->
