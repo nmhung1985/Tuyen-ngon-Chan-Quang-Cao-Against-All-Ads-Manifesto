@@ -118,7 +118,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - Router Asus (chạy [firmware Merlin](https://www.asuswrt-merlin.net/)): cách dễ nhất cho người có kiến thức máy tính trung bình. Chỉ hoạt động trên một số loại router của Asus như AC66U, AC68U, AC86U, AC88U v.v... Hướng dẫn cho thiết bị đã flash Merlin: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md)
 - [pi-hole](https://pi-hole.net/): ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Hướng dẫn: [1](http://web.archive.org/web/20190730080355/https://cuccode.com/pihole.html), [video](https://www.youtube.com/watch?v=1lmQqGZf_4A), [voz](https://forums.voz.vn/showthread.php?t=7437968)
 - [Adguard Home](https://adguard.com/en/adguard-home/overview.html): tham vọng thay thế pi-hole nên hỗ trợ nhiều nền tảng và tích hợp sẵn nhiều tính năng. Hướng dẫn: [1](https://adguard.com/en/adguard-home/overview.html)
-- 
+- pfSense, opnsense
 
 ### Máy tính
 
@@ -207,11 +207,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTUyMDUsODE3NjIwNDM0LDE1OTUyOT
-U1MTIsMTI3MTc0NTYyMSwyMjExNjk5NjEsLTE1MTI3MTU4Njcs
-MTg2NTcyMjE4Myw2NDc4MTc5OTQsLTUyNDM2NDYxMSw1NjMyMT
-I3NTUsLTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEs
-LTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NT
-MxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYy
-Nl19
+eyJoaXN0b3J5IjpbLTQ4OTY3MTY0Niw4MTc2MjA0MzQsMTU5NT
+I5NTUxMiwxMjcxNzQ1NjIxLDIyMTE2OTk2MSwtMTUxMjcxNTg2
+NywxODY1NzIyMTgzLDY0NzgxNzk5NCwtNTI0MzY0NjExLDU2Mz
+IxMjc1NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcsMTQ0OTU4MzU4
+MSwtMjA0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMjU4OTYwOCwxNz
+k1MzE1MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcwMywxMzgzMjY2
+NjI2XX0=
 -->
