@@ -179,12 +179,14 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 
+## Chặn quảng cáo này liên quan như thế nào với các ứng dụng bảo mật, chống virus?
+Đây là câu hỏi rất hợp lý. Đúng vậy, ban đầu các ứng dụng chống virus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTE2Mzk2OSw1NjMyMTI3NTUsLTY2Mj
-U4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAw
-ODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIwNSwtOD
-Q2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1
-MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMC
-wzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0MjcxOCw3ODk0MTk2
-MjddfQ==
+eyJoaXN0b3J5IjpbLTIxMDkyNTM4MDEsNTYzMjEyNzU1LC02Nj
+I1ODkzNjYsMTA4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIw
+MDgzLDE2NDU2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLT
+g0NjEwMjY0MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4
+NTExLDEzMjYzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MD
+AsMzcyOTIyNjIwLDE0NTgwMTM2MjIsNzIwNDI3MTgsNzg5NDE5
+NjI3XX0=
 -->
