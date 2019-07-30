@@ -94,7 +94,7 @@ Từ các cách phân loại này, ngoài việc các ứng dụng trên các n�
 ## Các bước cần ghi nhớ để chặn quảng cáo hiệu quả
 Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần mềm này, ứng dụng kia để chặn. Nhưng sau khi cài rồi bạn thấy hình như không hiệu quả lắm. Vậy hãy kiểm tra lại từng bước:
 1. Đầu tiên, phải có hệ thống/ứng dụng để xử lý.
-2. Ngoài ra còn cần chọn bộ lọc/danh sách chặn (filters lists/hosts) đúng mục đích của mình, cũng như phù hợp với quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
+2. Tiếp theo, chọn bộ lọc/danh sách chặn (filters lists/hosts) đúng nhu cầu của mình, cũng như phù hợp với quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện quảng cáo bị chặn (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
 4. Trong trường hợp chặn theo phương thức DNS: Chrome với tính năng Async DNS Resolver, cũng như các trình duyệt tích hợp chức năng mã hóa DNS hoặc "tiết kiệm dung lượng" (data saver), có thể bỏ qua danh sách lọc. Khi đó cần tắt các tính năng này.
 5. Lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
@@ -212,11 +212,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY2NzAwODE4LC04Njk5MzYxMjksLTE3Mz
-M3ODMzMjgsLTExNjA2MjQzMzEsODYxMjcxMzM0LDI3ODQxMDYy
-Nyw4MTc2MjA0MzQsMTU5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMT
-E2OTk2MSwtMTUxMjcxNTg2NywxODY1NzIyMTgzLDY0NzgxNzk5
-NCwtNTI0MzY0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2LDEwOD
-Q2MDM1OTcsMTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNjQ1NjYw
-OTMzXX0=
+eyJoaXN0b3J5IjpbLTE5MjA5NzQ5NzUsNzY2NzAwODE4LC04Nj
+k5MzYxMjksLTE3MzM3ODMzMjgsLTExNjA2MjQzMzEsODYxMjcx
+MzM0LDI3ODQxMDYyNyw4MTc2MjA0MzQsMTU5NTI5NTUxMiwxMj
+cxNzQ1NjIxLDIyMTE2OTk2MSwtMTUxMjcxNTg2NywxODY1NzIy
+MTgzLDY0NzgxNzk5NCwtNTI0MzY0NjExLDU2MzIxMjc1NSwtNj
+YyNTg5MzY2LDEwODQ2MDM1OTcsMTQ0OTU4MzU4MSwtMjA0ODUy
+MDA4M119
 -->
