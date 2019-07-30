@@ -1,6 +1,6 @@
 # Tuyên ngôn Chặn Quảng Cáo
 
-***Lời nhắn nhủ**: Đây đảm bảo là bài viết tổng hợp đầy đủ nhất bằng tiếng Việt về việc chặn quảng cáo. Nếu thấy hữu ích, bạn hãy hướng dẫn hoặc giới thiệu bài viết này cho những người xung quanh mình nhé. Hãy cùng giúp nhau có một không gian Internet sạch và an toàn!*
+***Lời nhắn nhủ**: Đây đảm bảo là bài viết tổng hợp đầy đủ nhất bằng tiếng Việt về việc chặn quảng cáo, tên miền lừa đảo, mã độc. Nếu thấy hữu ích, bạn hãy hướng dẫn hoặc giới thiệu bài viết này cho những người xung quanh mình nhé. Hãy cùng giúp nhau có một không gian Internet sạch và an toàn!*
 
 Nếu hay xem TV, bạn chắc hẳn đã trải qua cảm giác mất hứng khi phim đang đến đoạn hay thì nhà đài cho dừng một lúc để quảng cáo?
 
@@ -8,7 +8,7 @@ Sang thời đại Internet, hẳn bạn cũng đã gặp tình cảnh xem YouTu
 
 Bạn có biết gói data 4G của bạn có thể hết dung lượng sớm vì bị quảng cáo [chiếm tới 79%](https://www.businessinsider.com/enders-analysis-ad-blocker-study-finds-ads-take-up-79-of-mobile-data-transfer-2016-3) không?
 
-Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi, lừa bạn đăng nhập tài khoản thương mại, hoặc thậm chí chủ động gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào bitcoin)?
+Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi, lừa bạn đăng nhập tài khoản tài chính, hoặc thậm chí chủ động gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào bitcoin)?
 
 Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy những nội dung người lớn?
 
@@ -179,11 +179,11 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMD
-Q4NTIwMDgzLDE2NDU2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUy
-MDUsLTg0NjEwMjY0MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsOD
-E1MzM4NTExLDEzMjYzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAw
-MzE1MDAsMzcyOTIyNjIwLDE0NTgwMTM2MjIsNzIwNDI3MTgsNz
-g5NDE5NjI3LDU3NjAwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4
+eyJoaXN0b3J5IjpbLTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0ND
+k1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2
+MDgsMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMT
+M4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2
+NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAxMzYyMi
+w3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0xOTkyNjI3
 NDczXX0=
 -->
