@@ -107,7 +107,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 ### Mạng nội bộ
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là đã có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
 
-Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá dễ cho người có kiến thức máy tính trung bình. Mời bạn xem ở đây.
+Đối với dòng Router Asus vẫn có cách thiết lập khá dễ cho người có kiến thức máy tính trung bình. Mời bạn xem hướng dẫn [ở đây](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md).
 
 ### Máy tính
 
@@ -179,11 +179,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0Nj
-EwMjY0MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTEx
-LDEzMjYzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMz
-cyOTIyNjIwLDE0NTgwMTM2MjIsNzIwNDI3MTgsNzg5NDE5NjI3
-LDU3NjAwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4NDczLDEzOD
-A3MTY0MzYsLTExODcxOTg1MjcsMTQzNzc5NjkyLDE1MzkwMjQx
-MzddfQ==
+eyJoaXN0b3J5IjpbMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NT
+MxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYy
+Niw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMT
+UyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0Mjcx
+OCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02Mz
+M0Njg0NzMsMTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2
+OTJdfQ==
 -->
