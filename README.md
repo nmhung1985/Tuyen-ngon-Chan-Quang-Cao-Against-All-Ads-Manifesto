@@ -2,7 +2,7 @@
 
 ***Lời nhắn nhủ**: Đây đảm bảo là bài viết tổng hợp đầy đủ nhất bằng tiếng Việt về việc chặn quảng cáo. Nếu thấy hữu ích, bạn hãy hướng dẫn hoặc giới thiệu bài viết này cho những người xung quanh mình nhé. Hãy cùng giúp nhau có một không gian Internet sạch và an toàn!*
 
-Nếu hay xem TV, bạn chắc hẳn đã trải qua cảm giác mất hứng khi phim đang đến đoạn hay thì nhà đài cho dừng một lúc để quảng cáo?
+Nếu hay xem TV, bạn chắc hẳn đã trải qua cảm giác mất hứng khi phim đang đến đoạn hay thì đài truyền hình cho dừng một lúc để quảng cáo?
 
 Sang thời đại Internet, hẳn bạn cũng đã gặp tình cảnh xem YouTube được một chút thì gặp video quảng cáo cả vài phút?
 
@@ -207,11 +207,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU0MDkwMjcsMjc4NDEwNjI3LDgxNz
-YyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMjIxMTY5OTYx
-LC0xNTEyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3OTk0LC01Mj
-QzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4NDYwMzU5
-NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5MzMsLT
-IyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0MCwxNTE0OTQw
-NzAzXX0=
+eyJoaXN0b3J5IjpbODYxMjcxMzM0LDI3ODQxMDYyNyw4MTc2Mj
+A0MzQsMTU5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMTE2OTk2MSwt
+MTUxMjcxNTg2NywxODY1NzIyMTgzLDY0NzgxNzk5NCwtNTI0Mz
+Y0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcs
+MTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMj
+U4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcw
+M119
 -->
