@@ -120,7 +120,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 2.2. Các trình duyệt khác (Edge, Safari, Opera, Yandex): tiện ích [Adguard cho trình duyệt](https://adguard.com/en/adguard-browser-extension/edge/overview.html) là tốt nhất.
 
-**Gợi ý lựa chọn nhanh**: Nano Adblocker & Nano Defender
+**Gợi ý lựa chọn nhanh của người viết**: Nano Adblocker & Nano Defender
 
 ### Android
 - [AdClear](https://adclear.com/en/adclear-installation.php): giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa, chưa hỗ trợ thêm bộ danh sách lọc. Mặc định không thiết lập chặn hết tất cả ứng dụng trên thiết bị để người dùng tìm hiểu cách bật/tắt chặn đối với **từng** ứng dụng. 
@@ -147,6 +147,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US) (bản chuẩn cho Android): do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
 
+**Gợi ý lựa chọn nhanh của người viết**: AdClear/Blokada và Youtube Vanced
 ### iOS
 1. Dạng chạy giả lập VPN
 - [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Cần trả phí mới có tính năng HTTPS. Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
@@ -173,7 +174,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDE2OTY2NywzNzI5MjI2MjAsMTQ1OD
+eyJoaXN0b3J5IjpbLTYyMzE2MTk1OSwzNzI5MjI2MjAsMTQ1OD
 AxMzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0x
 OTkyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMTE4Nz
 E5ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4
