@@ -120,7 +120,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 2.2. Các trình duyệt khác (Edge, Safari, Opera, Yandex): tiện ích [Adguard cho trình duyệt](https://adguard.com/en/adguard-browser-extension/edge/overview.html) là tốt nhất.
 
-Lựa chọn 
+**Gợi ý lựa chọn nhanh**: Nano Adblocker & Nano Defender
 
 ### Android
 - [AdClear](https://adclear.com/en/adclear-installation.php): giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa, chưa hỗ trợ thêm bộ danh sách lọc. Mặc định không thiết lập chặn hết tất cả ứng dụng trên thiết bị để người dùng tìm hiểu cách bật/tắt chặn đối với **từng** ứng dụng. 
@@ -173,11 +173,11 @@ Lựa chọn
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NTgxMjIyLDM3MjkyMjYyMCwxNDU4MD
-EzNjIyLDcyMDQyNzE4LDc4OTQxOTYyNyw1NzYwMDU0MjksLTE5
-OTI2Mjc0NzMsLTYzMzQ2ODQ3MywxMzgwNzE2NDM2LC0xMTg3MT
-k4NTI3LDE0Mzc3OTY5MiwxNTM5MDI0MTM3LDE2MzgwNjI3Nzgs
-LTYwNzY5MDQ5MCwyMDg3NDkwMzAzLC0xOTQwNjQ1NjksLTEyNz
-I1ODAzNzUsLTEwODI4NTU0MzEsMTk4NTQ1OTgzMywtMTI4Mzkw
-MTY2NF19
+eyJoaXN0b3J5IjpbMTMxMDE2OTY2NywzNzI5MjI2MjAsMTQ1OD
+AxMzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0x
+OTkyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMTE4Nz
+E5ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4
+LC02MDc2OTA0OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMj
+cyNTgwMzc1LC0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5
+MDE2NjRdfQ==
 -->
