@@ -24,7 +24,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 ![So sánh trước và sau khi chặn](https://cdn.adguard.com/public/Adguard/Blog/AGHome/devcomp.jpg)
 
 ## Thông tin rất thú vị! Vậy tôi nên làm thế nào?
-Các hệ thống và ứng dụng chặn quảng cáo hiện nay có rất nhiều, có thể khiến bạn cực kỳ bối rối. Tuy nhiên, chúng vẫn có những đặc điểm cơ bản để phân biệt. Nên đúng vậy, mục đích chính của bài viết này là cung cấp các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tuy nhiên, ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. 
+Các hệ thống và ứng dụng chặn quảng cáo hiện nay có rất nhiều, có thể khiến bạn cực kỳ bối rối. Tuy nhiên, chúng vẫn có những đặc điểm cơ bản để phân biệt. Nên đúng vậy, mục đích chính của bài viết này là cung cấp các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. 
 
 ## Nguyên lý chặn quảng cáo
 1.  Lọc lớp mạng (network filter): 
@@ -214,11 +214,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzM1MjIxNiwtODY5OTM2MTI5LC0xNz
-MzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3MTMzNCwyNzg0MTA2
-MjcsODE3NjIwNDM0LDE1OTUyOTU1MTIsMTI3MTc0NTYyMSwyMj
-ExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5
-OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMD
-g0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2
-MDkzM119
+eyJoaXN0b3J5IjpbNTI1MzkzMjg0LC04Njk5MzYxMjksLTE3Mz
+M3ODMzMjgsLTExNjA2MjQzMzEsODYxMjcxMzM0LDI3ODQxMDYy
+Nyw4MTc2MjA0MzQsMTU5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMT
+E2OTk2MSwtMTUxMjcxNTg2NywxODY1NzIyMTgzLDY0NzgxNzk5
+NCwtNTI0MzY0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2LDEwOD
+Q2MDM1OTcsMTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNjQ1NjYw
+OTMzXX0=
 -->
