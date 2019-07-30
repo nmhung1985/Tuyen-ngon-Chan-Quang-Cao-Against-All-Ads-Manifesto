@@ -31,7 +31,9 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 - Ưu điểm thường thấy là có thể ẩn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
 -  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp nâng cao khả năng chặn.
 
-*Hình minh họa 1: 
+*Hình minh họa 1: Sau khi áp dụng chặn quảng cáo, trình duyệt không còn phải tải nhiều và thời gian cũng mở cũng nhanh hơn*
+
+![So sánh truo
 
 *Hình minh họa 2: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
 
@@ -203,7 +205,7 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI3ODI4NjksMTI3MTc0NTYyMSwyMj
+eyJoaXN0b3J5IjpbLTEyODUzMTk0NTgsMTI3MTc0NTYyMSwyMj
 ExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5
 OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMD
 g0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2
