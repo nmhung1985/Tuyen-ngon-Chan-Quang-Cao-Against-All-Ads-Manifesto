@@ -26,16 +26,16 @@ a) Cắm USB vào, thường thì router sẽ tự nhận. Tại putty, gõ lệ
 
 ```
 /dev/sda1 on /tmp/mnt/PpA type ext2 (rw,nodev,relatime,barrier=1,data=writeback)
- /dev/sdb on /tmp/mnt/PpB type tntfs (rw,nodev,relatime,uid=0,gid=0,umask=00 v.v...)
+/dev/sdb on /tmp/mnt/PpB type tntfs (rw,nodev,relatime,uid=0,gid=0,umask=00 v.v...)
 ```
 
 b) unmount/eject usb để chuẩn bị format. Gõ lệnh:
-umount -f /dev/sda1
+umount -f /dev/sd**a1**
 
 c) Nếu là a1-2-3, b1-2-3 thì không làm bước này. Còn nếu là a,b (không số) thì chạy thêm các lệnh sau:
 
 dd count=1 bs=512 if=/dev/zero of=/dev/sda && sync
-fdisk /dev/sda
+fdisk /dev/sd**a**
 nhấn **o** để tạo table phân vùng
 nhấn **n** để tạo phân vùng
 nhấn **p** để thiết lập phân vùng này là primary
@@ -43,10 +43,10 @@ nhấn **1** để thiết lập làm phân vùng đầu tiên
 nhấn **Enter** hai lần để dùng thông số mặc định
 nhấn **w** để thật sự xử lý và ghi thay đổi vào USB
 
-Từ đây USB của bạn sẽ được nhận là a1-2-3, b1-2-3, vd /dev/sda## 1
+Từ đây USB của bạn sẽ được nhận là a1-2-3, b1-2-3, vd /dev/sd**a1**
 
 d) Gõ lệnh sau để format thành ext2 và đặt tên cho ổ:
-mke2fs /dev/sda## 1 -t ext2 -L **Tên-Ổ-USB**
+mke2fs /dev/sd**a1** -t ext2 -L **Tên-Ổ-USB**
 
 e) **Reboot** router và vào putty check lại sẽ thấy. Gõ lệnh:
 **mount**
@@ -127,6 +127,6 @@ Thông tin thêm:
 - Tác giả Diversion bàn luận ở đây. Forum này cũng là forum chuyên về bàn luận router của Asus và Merlin firmware.
 [url]https://www.snbforums.com/threads/diversion-the-router-ad-blocker.48538/page-71#post-447604[/url]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzA2OTU1LDQyMzgwMDMwNyw3MzA5OT
-gxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0NTQwNTc4MTEsNDIzODAwMzA3LDczMD
+k5ODExNl19
 -->
