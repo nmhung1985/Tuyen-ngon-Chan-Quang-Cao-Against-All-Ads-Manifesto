@@ -173,17 +173,17 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên nextdns. Vì với Adguard DNS bạn không có tùy chọn bộ lọc theo ý mình, trong khi nextdns có lựa chọn.
 
 3. DNS mã hóa: Một số hệ thống và ứng dụng bắt đầu hỗ trợ các loại DNS mã hóa như DNS-over-HTTPS (DoH), DNS-over-TLS (DoT). Nếu có thể, hãy luôn chọn và thiết lập sử dụng các *DNS-chặn-quảng-cáo-có-mã-hóa* này.
-**Lưu ý**: Nếu a) bạn dùng phương thức chặn DNS bằng giả lập VPN và b) nếu trình duyệt tích hợp sẵn tính năng DNS mã hóa và kết nối tới DNS-không-có-chặn-quảng-cáo của họ thì cần tắt tính năng DNS mã hóa này đi.
+**Lưu ý**: Nếu bạn dùng phương thức chặn DNS mà sử dụng trình duyệt tích hợp sẵn tính năng mã hóa DNS nhưng lại kết nối tới DNS-không-có-chặn-quảng-cáo của họ thì cần tắt tính năng mã hóa DNS này trên trình duyệt.
 
 5. Hướng dẫn:
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNj
-M4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2
-MjAsMTQ1ODAxMzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MD
-A1NDI5LC0xOTkyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQz
-NiwtMTE4NzE5ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNj
-M4MDYyNzc4LC02MDc2OTA0OTAsMjA4NzQ5MDMwMywtMTk0MDY0
-NTY5XX0=
+eyJoaXN0b3J5IjpbLTEzMTQxNTc2OCwxMzgzMjY2NjI2LDgxNT
+MzODUxMSwxMzI2MzgwODEyLC0xOTM4MzY1ODM4LC0xNTIwMDMx
+NTAwLDM3MjkyMjYyMCwxNDU4MDEzNjIyLDcyMDQyNzE4LDc4OT
+QxOTYyNyw1NzYwMDU0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3
+MywxMzgwNzE2NDM2LC0xMTg3MTk4NTI3LDE0Mzc3OTY5MiwxNT
+M5MDI0MTM3LDE2MzgwNjI3NzgsLTYwNzY5MDQ5MCwyMDg3NDkw
+MzAzXX0=
 -->
