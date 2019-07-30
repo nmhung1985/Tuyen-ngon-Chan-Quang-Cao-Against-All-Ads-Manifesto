@@ -82,7 +82,7 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 - Chỉ hoạt động trên trình duyệt được thiết lập, hoặc có thể kể đến trình duyệt tích hợp sẵn tính năng chặn quảng cáo (ví dụ Brave)
 - Thường áp dụng được cả 2 nguyên lý
 
-Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là "**ứng dụng**) trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
+Từ các cách phân loại này, ngoài việc các chương trình, phần mềm và ứng dụng (từ đây gọi chung là "**ứng dụng**") trên các nền tảng áp dụng riêng rẽ hoặc kết hợp các phương thức, thì bản thân chúng ta cũng có thể chọn riêng rẽ hoặc kết hợp các chương trình và ứng dụng. Điều này khiến chúng ta có nhiều lựa chọn khá là phong phú :)
 
 Do đó, bài viết này không thể hướng dẫn chi tiết tường tận từng ứng dụng. Mà mục đích chính vẫn là các thông tin cơ bản để bạn hiểu và từ đó chọn được cái phù hợp với mình nhất. Tuy nhiên, ở các phần kế tiếp vẫn có tổng quan sơ lược gợi ý một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. (Lưu ý: do người viết thu thập từ nhiều nguồn khác nhau nên không thể đảm bảo các bài hướng dẫn có chất lượng đồng đều, chỉ đọc tham khảo và chỉ luôn tải hoặc mua bản mới nhất ở trang gốc).
 
@@ -179,11 +179,11 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY2OTA5LC0yMDQ4NTIwMDgzLDE2ND
-U2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0
-MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMj
-YzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMzcyOTIy
-NjIwLDE0NTgwMTM2MjIsNzIwNDI3MTgsNzg5NDE5NjI3LDU3Nj
-AwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4NDczLDEzODA3MTY0
-MzZdfQ==
+eyJoaXN0b3J5IjpbMTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNj
+Q1NjYwOTMzLC0yMjU4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2
+NDAsMTUxNDk0MDcwMywxMzgzMjY2NjI2LDgxNTMzODUxMSwxMz
+I2MzgwODEyLC0xOTM4MzY1ODM4LC0xNTIwMDMxNTAwLDM3Mjky
+MjYyMCwxNDU4MDEzNjIyLDcyMDQyNzE4LDc4OTQxOTYyNyw1Nz
+YwMDU0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3MywxMzgwNzE2
+NDM2XX0=
 -->
