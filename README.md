@@ -91,7 +91,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 1. Đầu tiên, phải có hệ thống/ứng dụng để xử lý.
 2. Ngoài ra còn cần bộ lọc/danh sách chặn (filters lists/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện quảng cáo bị chặn (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
-4. Chrome với tính năng Async DNS Resolver, cũng như các trình duyệt tích hợp chức năng mã hóa DNS hoặc "tiết kiệm dung lượng" (data saver), có thể bỏ qua danh sách lọc. Cần tắt các tính năng này.
+4. Trong trường hợp chặn theo phương thức DNS: Chrome với tính năng Async DNS Resolver, cũng như các trình duyệt tích hợp chức năng mã hóa DNS hoặc "tiết kiệm dung lượng" (data saver), có thể bỏ qua danh sách lọc. Khi đó cần tắt các tính năng này.
 5. Lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, v.v..., áp dụng được cho nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Minh bạch: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus, uBlock Origin, v.v... , áp dụng được cho 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
@@ -173,17 +173,17 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên nextdns. Vì với Adguard DNS bạn không có tùy chọn bộ lọc theo ý mình, trong khi nextdns có lựa chọn.
 
 3. DNS mã hóa: Một số hệ thống và ứng dụng bắt đầu hỗ trợ các loại DNS mã hóa như DNS-over-HTTPS (DoH), DNS-over-TLS (DoT). Nếu có thể, hãy luôn chọn và thiết lập sử dụng các *DNS-chặn-quảng-cáo-có-mã-hóa* này.
-**Lưu ý**: Nếu bạn dùng phương thức chặn DNS mà sử dụng trình duyệt tích hợp sẵn tính năng mã hóa DNS nhưng lại kết nối tới DNS-không-có-chặn-quảng-cáo của họ, thì cần tắt tính năng mã hóa DNS này trong trình duyệt (Ý 4 ở phần [Các bước cơ bản để chặn quảng cáo](#các-bước-cơ-bản để chặn quảng cáo))
+**Lưu ý**: Nếu bạn dùng phương thức chặn DNS mà sử dụng trình duyệt tích hợp sẵn tính năng mã hóa DNS nhưng lại kết nối tới DNS-không-có-chặn-quảng-cáo của họ, thì cần tắt tính năng mã hóa DNS này trong trình duyệt (Ý 4 ở phần [Các bước cơ bản để chặn quảng cáo](#các-bước-cơ-bản-để-chặn-quảng-cáo))
 
 5. Hướng dẫn:
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA4MTAzNTM1LDEzODMyNjY2MjYsODE1Mz
-M4NTExLDEzMjYzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1
-MDAsMzcyOTIyNjIwLDE0NTgwMTM2MjIsNzIwNDI3MTgsNzg5ND
-E5NjI3LDU3NjAwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4NDcz
-LDEzODA3MTY0MzYsLTExODcxOTg1MjcsMTQzNzc5NjkyLDE1Mz
-kwMjQxMzcsMTYzODA2Mjc3OCwtNjA3NjkwNDkwLDIwODc0OTAz
-MDNdfQ==
+eyJoaXN0b3J5IjpbMTUxNDk0MDcwMywxMzgzMjY2NjI2LDgxNT
+MzODUxMSwxMzI2MzgwODEyLC0xOTM4MzY1ODM4LC0xNTIwMDMx
+NTAwLDM3MjkyMjYyMCwxNDU4MDEzNjIyLDcyMDQyNzE4LDc4OT
+QxOTYyNyw1NzYwMDU0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3
+MywxMzgwNzE2NDM2LC0xMTg3MTk4NTI3LDE0Mzc3OTY5MiwxNT
+M5MDI0MTM3LDE2MzgwNjI3NzgsLTYwNzY5MDQ5MCwyMDg3NDkw
+MzAzXX0=
 -->
