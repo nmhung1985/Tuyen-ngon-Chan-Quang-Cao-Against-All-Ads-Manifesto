@@ -101,8 +101,12 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 
 Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá nhân người viết dựa trên bốn yếu tố: dễ cài đặt và thiết lập ngay, miễn phí, tốt nhất, trả phí. Thành ra ví dụ nếu ứng dụng trả phí vượt trội thì vẫn sẽ được liệt kê trước.
 
-|[Mạng nội bộ](#mạng-nội-bộ)|[Máy tính (Windows/Mac)](#máy-tính)|[Android](#android)  |[iOS](#ios)|[DNS](#dns)|
-|:-:|:-:|:-:|:-:|:-:|
+- [Mạng nội bộ](#mạng-nội-bộ)
+- [Máy tính (Windows/Mac)](#máy-tính)
+- [Android](#android)
+- [iOS](#ios)
+- [DNS](#dns)
+
 
 ### Mạng nội bộ
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là đã có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
@@ -196,11 +200,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTcyMjE4Myw2NDc4MTc5OTQsLTUyND
-M2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMDg0NjAzNTk3
-LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMj
-I1ODk2MDgsMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3
-MDMsMTM4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMT
-kzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAx
-MzYyMl19
+eyJoaXN0b3J5IjpbOTMzOTczMTU3LDE4NjU3MjIxODMsNjQ3OD
+E3OTk0LC01MjQzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYs
+MTA4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2ND
+U2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0
+MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMj
+YzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMzcyOTIy
+NjIwXX0=
 -->
