@@ -6,7 +6,7 @@ Nếu hay xem TV, bạn chắc hẳn đã trải qua cảm giác mất hứng kh
 
 Sang thời đại Internet, hẳn bạn cũng đã gặp tình cảnh xem YouTube được một chút thì gặp video quảng cáo cả vài phút?
 
-Bạn có biết gói data 4G của bạn có thể hết dung lượng sớm vì bị quảng cáo chiếm tới 80% không?
+Bạn có biết gói data 4G của bạn có thể hết dung lượng sớm vì bị quảng cáo [chiếm tới 80%](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/Adblock.Plus_Study_SFU.pdf) không?
 
 Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi, lừa bạn đăng nhập tài khoản thương mại, hoặc thậm chí chủ động gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào bitcoin)?
 
@@ -179,11 +179,11 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDYzMTAxNSwxNjQ1NjYwOTMzLC0yMj
-U4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcw
-MywxMzgzMjY2NjI2LDgxNTMzODUxMSwxMzI2MzgwODEyLC0xOT
-M4MzY1ODM4LC0xNTIwMDMxNTAwLDM3MjkyMjYyMCwxNDU4MDEz
-NjIyLDcyMDQyNzE4LDc4OTQxOTYyNyw1NzYwMDU0MjksLTE5OT
-I2Mjc0NzMsLTYzMzQ2ODQ3MywxMzgwNzE2NDM2LC0xMTg3MTk4
-NTI3XX0=
+eyJoaXN0b3J5IjpbLTE3ODQ4Mzg0ODAsMTY0NTY2MDkzMywtMj
+I1ODk2MDgsMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3
+MDMsMTM4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMT
+kzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAx
+MzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0xOT
+kyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMTE4NzE5
+ODUyN119
 -->
