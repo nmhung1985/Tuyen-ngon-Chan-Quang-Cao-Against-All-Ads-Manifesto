@@ -91,7 +91,8 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 1. Đầu tiên, phải có hệ thống/ứng dụng để xử lý.
 2.  Ngoài ra còn cần bộ lọc/danh sách chặn (filters lists/hosts) phù hợp với khu vực, quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện quảng cáo bị chặn (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
-4. Do đó, bạn lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
+4. 
+5. Lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, v.v..., áp dụng được cho nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Minh bạch: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus, uBlock Origin, v.v... , áp dụng được cho 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
 - [FMSF của nmtrung](https://github.com/nmtrung/FMSF-2.0): tác giả là thành viên voz.vn nên bộ lọc khá nổi bên đó, đáng tiếc là không thấy tác giả đề xuất được đưa vào các ứng dụng nổi tiếng, áp dụng được cho 2 nguyên lý như ABPVN.
@@ -147,7 +148,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US) (bản chuẩn cho Android): do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
 
-**Gợi ý lựa chọn nhanh**: AdClear (hoặc Blokada), Youtube Vanced, Brave Browser
+**Gợi ý lựa chọn nhanh**: AdClear (hoặc Blokada), Youtube Vanced
 ### iOS
 1. Dạng chạy giả lập VPN
 - [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Cần trả phí mới có tính năng HTTPS. Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
@@ -160,7 +161,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
-**Gợi ý lựa chọn nhanh**: Surge, Adguard, Brave Brow
+**Gợi ý lựa chọn nhanh**: Surge, Adguard
 
 ### DNS
 1. Như đã giới thiệu ngắn gọn ở các phần trước, DNS là định nghĩa hệ thống phân giải tên miền, mà ở đây ta cũng dùng để nói ngắn gọn phương thức chặn mà theo đó bạn thiết lập cho hệ thống/thiết bị kết nối tới hệ thống DNS khác:
@@ -176,11 +177,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg2NTUsMzcyOTIyNjIwLDE0NTgwMT
-M2MjIsNzIwNDI3MTgsNzg5NDE5NjI3LDU3NjAwNTQyOSwtMTk5
-MjYyNzQ3MywtNjMzNDY4NDczLDEzODA3MTY0MzYsLTExODcxOT
-g1MjcsMTQzNzc5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwt
-NjA3NjkwNDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3Mj
-U4MDM3NSwtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAx
-NjY0XX0=
+eyJoaXN0b3J5IjpbMTkzNDcwNDQzNiwzNzI5MjI2MjAsMTQ1OD
+AxMzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0x
+OTkyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMTE4Nz
+E5ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4
+LC02MDc2OTA0OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMj
+cyNTgwMzc1LC0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5
+MDE2NjRdfQ==
 -->
