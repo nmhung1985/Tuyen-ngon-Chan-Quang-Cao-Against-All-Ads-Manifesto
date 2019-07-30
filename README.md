@@ -96,7 +96,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 1. Đầu tiên, phải có hệ thống/ứng dụng để xử lý.
 2. Tiếp theo, chọn bộ lọc/danh sách chặn (filters lists/hosts) đúng nhu cầu của mình, cũng như phù hợp với quốc gia thì mới tối ưu. (Do ứng dụng đều là của nước ngoài nên mặc định họ thường sẽ không kích hoạt bộ lọc cho Việt Nam)
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện quảng cáo bị chặn (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
-4. Trong trường hợp chặn theo phương thức DNS: Chrome với tính năng Async DNS Resolver, cũng như các trình duyệt tích hợp chức năng mã hóa DNS hoặc "tiết kiệm dung lượng" (data saver), có thể bỏ qua danh sách lọc. Khi đó cần tắt các tính năng này.
+4. Trong trường hợp chặn theo phương thức DNS: Chrome với tính năng Async DNS Resolver, cũng như các trình duyệt tích hợp chức năng mã hóa DNS (Trusted Recursive Resolver - TRR của Firefox) hoặc "tiết kiệm dung lượng" (data saver), có thể bỏ qua danh sách lọc. Khi đó cần tắt các tính năng này.
 5. Lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, nextdns, v.v..., áp dụng được cho nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Minh bạch: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus, uBlock Origin, v.v... , áp dụng được cho 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxNjc5MDU1LDYzNTk3MDg5NCwtNTI2Mz
-AyOTI2LDQ5NjYzODMyNiwtNzg2MTcwMDY2LDE3MTIzMzgwNzAs
-LTQxMTk1MTAzNiwtOTYxNTg4MjAsLTEwMjE3NTEzMjksMTIzNz
-k3MDUyNiw3NjY3MDA4MTgsLTg2OTkzNjEyOSwtMTczMzc4MzMy
-OCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEwNjI3LDgxNz
-YyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMjIxMTY5OTYx
-XX0=
+eyJoaXN0b3J5IjpbLTEyNTY1MjIzMDIsMzQxNjc5MDU1LDYzNT
+k3MDg5NCwtNTI2MzAyOTI2LDQ5NjYzODMyNiwtNzg2MTcwMDY2
+LDE3MTIzMzgwNzAsLTQxMTk1MTAzNiwtOTYxNTg4MjAsLTEwMj
+E3NTEzMjksMTIzNzk3MDUyNiw3NjY3MDA4MTgsLTg2OTkzNjEy
+OSwtMTczMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMj
+c4NDEwNjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2
+MjFdfQ==
 -->
