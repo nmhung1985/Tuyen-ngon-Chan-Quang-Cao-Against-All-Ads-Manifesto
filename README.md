@@ -130,6 +130,8 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Adguard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html): chỉ hỗ trợ Samsung Internet Browser và Yandex Browser, không hỗ trợ HTTPS, áp dụng 2 nguyên lý
 
+- [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen):
+
 - [AdAway](https://adaway.org/) (**phải root**): chặn dạng hosts
 
 - [Adhell3](https://gitlab.com/fusionjack/adhell3) (Trả phí): tốt nhất **cho và chỉ duy nhất máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
@@ -170,11 +172,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2ODU5MjI0LDE0NTgwMTM2MjIsNzIwND
-I3MTgsNzg5NDE5NjI3LDU3NjAwNTQyOSwtMTk5MjYyNzQ3Mywt
-NjMzNDY4NDczLDEzODA3MTY0MzYsLTExODcxOTg1MjcsMTQzNz
-c5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwtNjA3NjkwNDkw
-LDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4MDM3NSwtMT
-A4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNjY0LDI1NTY2
-NjcyMl19
+eyJoaXN0b3J5IjpbLTIwODE3NzkzODgsMTQ1ODAxMzYyMiw3Mj
+A0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDcz
+LC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxND
+M3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0
+OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC
+0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5MDE2NjQsMjU1
+NjY2NzIyXX0=
 -->
