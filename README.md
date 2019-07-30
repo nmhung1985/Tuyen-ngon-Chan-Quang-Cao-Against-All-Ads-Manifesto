@@ -178,12 +178,13 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 5. Hướng dẫn:
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4ND
-YwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5
-MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0MCwxNT
-E0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMjYzODA4
-MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMzcyOTIyNjIwLD
-E0NTgwMTM2MjIsNzIwNDI3MTgsNzg5NDE5NjI3LDU3NjAwNTQy
-OV19
+eyJoaXN0b3J5IjpbMjExNTE2Mzk2OSw1NjMyMTI3NTUsLTY2Mj
+U4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAw
+ODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIwNSwtOD
+Q2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1
+MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMC
+wzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0MjcxOCw3ODk0MTk2
+MjddfQ==
 -->
