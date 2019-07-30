@@ -8,7 +8,7 @@ Sang thời đại Internet, hẳn bạn cũng đã gặp tình cảnh xem YouTu
 
 Bạn có biết gói data 4G của bạn có thể hết dung lượng sớm vì bị quảng cáo [chiếm tới 79%](https://www.businessinsider.com/enders-analysis-ad-blocker-study-finds-ads-take-up-79-of-mobile-data-transfer-2016-3) không?
 
-Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi, lừa bạn đăng nhập tài khoản tài chính, hoặc thậm chí chủ động gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào tiền ảo)?
+Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi ([câu chuyện Facebook nghe lén](http://genk.vn/cai-gia-phai-tra-cho-su-mien-phi-cua-facebook-20161213154746341.chn)), lừa bạn đăng nhập tài khoản tài chính, hoặc thậm chí chủ động gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào tiền ảo)?
 
 Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy những nội dung người lớn?
 
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mzk0MTM1NSwtMTI1NjUyMjMwMiwzND
-E2NzkwNTUsNjM1OTcwODk0LC01MjYzMDI5MjYsNDk2NjM4MzI2
-LC03ODYxNzAwNjYsMTcxMjMzODA3MCwtNDExOTUxMDM2LC05Nj
-E1ODgyMCwtMTAyMTc1MTMyOSwxMjM3OTcwNTI2LDc2NjcwMDgx
-OCwtODY5OTM2MTI5LC0xNzMzNzgzMzI4LC0xMTYwNjI0MzMxLD
-g2MTI3MTMzNCwyNzg0MTA2MjcsODE3NjIwNDM0LDE1OTUyOTU1
-MTJdfQ==
+eyJoaXN0b3J5IjpbODM5Mjk4NjYwLDEyNTM5NDEzNTUsLTEyNT
+Y1MjIzMDIsMzQxNjc5MDU1LDYzNTk3MDg5NCwtNTI2MzAyOTI2
+LDQ5NjYzODMyNiwtNzg2MTcwMDY2LDE3MTIzMzgwNzAsLTQxMT
+k1MTAzNiwtOTYxNTg4MjAsLTEwMjE3NTEzMjksMTIzNzk3MDUy
+Niw3NjY3MDA4MTgsLTg2OTkzNjEyOSwtMTczMzc4MzMyOCwtMT
+E2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEwNjI3LDgxNzYyMDQz
+NF19
 -->
