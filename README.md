@@ -160,18 +160,18 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 1. Như đã giới thiệu ngắn gọn ở các phần trước, DNS là định nghĩa hệ thống phân giải tên miền, mà ở đây ta cũng dùng để nói ngắn gọn phương thức chặn mà theo đó bạn thiết lập cho hệ thống/thiết bị kết nối tới hệ thống DNS khác:
 - Hệ thống DNS ở xa đó sẽ đảm nhiệm việc lọc và chặn tên miền, rồi mới trả lại thông tin để thiết bị của bạn kết nối tới.
 - Có lẽ cũng là cách dễ nhất, vì hệ thống DNS ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp.
-- Áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số trường hợp, ví dụ như trên điện thoại thì cách này không có tác dụng nếu dùng 4G.
+- Áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số trường hợp, ví dụ như trên điện thoại thì có vẻ do quy định chung gì đó mà các nhà sản xuất không cho thay đổi DNS của kết nối dữ liệu di động (3G, 4G).
 - Trên Android, các ứng dụng để đổi DNS đa số cũng chạy dạng giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
 
 2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên NextDNS. Vì với Adguard DNS bạn không thể thêm hoặc chọn bộ lọc theo ý mình, trong khi NextDNS cho chọn lựa.
 
 3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg5NDE5NjI3LDU3NjAwNTQyOSwtMTk5Mj
-YyNzQ3MywtNjMzNDY4NDczLDEzODA3MTY0MzYsLTExODcxOTg1
-MjcsMTQzNzc5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwtNj
-A3NjkwNDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3MjU4
-MDM3NSwtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAxNj
-Y0LDI1NTY2NjcyMiwtOTM3MDA3MjUwLDk4MzM3NDI0LC03ODg3
-NzI4MzFdfQ==
+eyJoaXN0b3J5IjpbOTcyMjI4NTQ4LDc4OTQxOTYyNyw1NzYwMD
+U0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3MywxMzgwNzE2NDM2
+LC0xMTg3MTk4NTI3LDE0Mzc3OTY5MiwxNTM5MDI0MTM3LDE2Mz
+gwNjI3NzgsLTYwNzY5MDQ5MCwyMDg3NDkwMzAzLC0xOTQwNjQ1
+NjksLTEyNzI1ODAzNzUsLTEwODI4NTU0MzEsMTk4NTQ1OTgzMy
+wtMTI4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAwNzI1MCw5ODMz
+NzQyNF19
 -->
