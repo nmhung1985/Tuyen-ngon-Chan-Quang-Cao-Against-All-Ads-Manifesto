@@ -186,14 +186,12 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 2. Các nhà cung cấp DNS: [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html) có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên [nextdns](https://www.nextdns.io/). Vì với Adguard DNS bạn không có tùy chọn bộ lọc theo ý mình, trong khi nextdns có lựa chọn.
 
-5. Hướng dẫn: Cách làm giống nhau cho các hệ thống DNS
-- [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
-- [nextdns](https://www.nextdns.io/)
+5. Hướng dẫn: Cách làm giống nhau không phụ thuộc nhà cung cấp, nên bạn chỉ cần xem hướng dẫn mẫu của Adguard DNS [tại đây](https://adguard.com/en/adguard-dns/overview.html#instruction).
 
 ## Việc chặn quảng cáo liên quan như thế nào với các ứng dụng bảo mật, chống virus?
-Đây là câu hỏi rất hợp lý. 
+Đây là câu hỏi rất hay. 
 
-Đúng vậy, ban đầu các ứng dụng chống virus và ứng dụng chặn quảng cáo (theo đúng nghĩa chỉ chặn quảng cáo) là các ứng dụng chuyên biệt chỉ làm đúng nhiệm vụ của mình.
+Ban đầu các ứng dụng chống virus và ứng dụng chặn quảng cáo (theo đúng nghĩa chỉ chặn quảng cáo) là các ứng dụng chuyên biệt chỉ làm đúng nhiệm vụ của mình.
 
 Nhưng khi virus, mã độc dần được phát triển theo hướng lây lan qua mạng, thì ứng dụng chặn quảng cáo, với khả năng lọc và chặn các tên miền của mình, lại vô tình có tác dụng trong việc ngăn chặn các **tên miền phân phối** virus, mã độc.
 
@@ -211,7 +209,7 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MzExMTExMyw3NjY3MDA4MTgsLTg2OT
+eyJoaXN0b3J5IjpbMTIzNzk3MDUyNiw3NjY3MDA4MTgsLTg2OT
 kzNjEyOSwtMTczMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEz
 MzQsMjc4NDEwNjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEyLDEyNz
 E3NDU2MjEsMjIxMTY5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIx
