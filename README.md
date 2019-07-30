@@ -111,7 +111,8 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 ### Mạng nội bộ
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là đã có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
 
-- Router Asus: cách dễ nhất cho người có kiến thức máy tính trung bình. Cần flash sang Merlin firmware. Mời bạn xem hướng dẫn [ở đây](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md).
+- Router Asus (chạy firmware Merlin): cách dễ nhất cho người có kiến thức máy tính trung bình. Hướng dẫn cho thiết bị đã flash Merlin: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md)
+- pi-hole: 
 
 ### Máy tính
 
@@ -200,7 +201,7 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMyNzIxNSwtMTUxMjcxNTg2NywxOD
+eyJoaXN0b3J5IjpbMjAxMTI5NjI5NywtMTUxMjcxNTg2NywxOD
 Y1NzIyMTgzLDY0NzgxNzk5NCwtNTI0MzY0NjExLDU2MzIxMjc1
 NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcsMTQ0OTU4MzU4MSwtMj
 A0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMjU4OTYwOCwxNzk1MzE1
