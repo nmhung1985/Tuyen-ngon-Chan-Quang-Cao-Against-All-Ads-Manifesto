@@ -8,7 +8,7 @@ Sang thời đại Internet, hẳn bạn cũng đã gặp tình cảnh xem YouTu
 
 Bạn có biết gói data 4G của bạn có thể hết dung lượng sớm vì bị quảng cáo chiếm tới 80% không?
 
-Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi hoặc thậm chí gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào bitcoin)?
+Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã theo dõi, lừa bạn đăng nhập tài khoản thương mại, hoặc thậm chí chủ động gieo rắc mã độc hại vào thiết bị của bạn (tải ngầm virus hoặc đào bitcoin)?
 
 Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy những nội dung người lớn?
 
@@ -179,11 +179,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjEwMjY0MCwxNTE0OTQwNzAzLDEzOD
-MyNjY2MjYsODE1MzM4NTExLDEzMjYzODA4MTIsLTE5MzgzNjU4
-MzgsLTE1MjAwMzE1MDAsMzcyOTIyNjIwLDE0NTgwMTM2MjIsNz
-IwNDI3MTgsNzg5NDE5NjI3LDU3NjAwNTQyOSwtMTk5MjYyNzQ3
-MywtNjMzNDY4NDczLDEzODA3MTY0MzYsLTExODcxOTg1MjcsMT
-QzNzc5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwtNjA3Njkw
-NDkwXX0=
+eyJoaXN0b3J5IjpbMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MT
+Q5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgx
+MiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMT
+Q1ODAxMzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5
+LC0xOTkyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMT
+E4NzE5ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYy
+Nzc4XX0=
 -->
