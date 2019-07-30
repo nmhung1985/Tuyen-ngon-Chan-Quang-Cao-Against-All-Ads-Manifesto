@@ -128,7 +128,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [Blokada](https://blokada.org/): giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :). Hướng dẫn: [1](https://trainghiemso.vn/blokada-chan-quang-cao-tren-android/)
 
-- [Adguard Premium](https://adguard.com/en/adguard-android/overview.html) (Trả phí): Tốt nhất. Loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS. Hướng dẫn: [1](http://www.techrum.vn/threads/tai-ng-dung-adguard-premium-chan-quang-cao-khi-xem-phim-luot-web-tren-android.193532/), [2](https://giasutintuong.com/phan-mem/adguard-premium-v2-11-81-viet-hoa-huong-dan-cai-dat-va-cau-hinh-chi-tiet.html), [3](https://c.mi.com/thread-928981-1-0.html).
+- [Adguard Premium](https://adguard.com/en/adguard-android/overview.html) (Trả phí): ==Tốt nhất!== Loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS. Hướng dẫn: [1](http://www.techrum.vn/threads/tai-ng-dung-adguard-premium-chan-quang-cao-khi-xem-phim-luot-web-tren-android.193532/), [2](https://giasutintuong.com/phan-mem/adguard-premium-v2-11-81-viet-hoa-huong-dan-cai-dat-va-cau-hinh-chi-tiet.html), [3](https://c.mi.com/thread-928981-1-0.html).
 
 - [Adguard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html): chỉ hỗ trợ Samsung Internet Browser và Yandex Browser, không hỗ trợ HTTPS, áp dụng 2 nguyên lý
 
@@ -136,7 +136,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [AdAway](https://adaway.org/) (**phải root**): chặn dạng hosts, liệt kê ở đây vì đã nổi tiếng lâu đời chứ để dùng ngay thì khó.
 
-- [Adhell3](https://gitlab.com/fusionjack/adhell3) (Trả phí): tốt nhất **cho và chỉ duy nhất máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
+- [Adhell3](https://gitlab.com/fusionjack/adhell3) (Trả phí): ==Tốt nhất!== **cho và chỉ duy nhất máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
 
 - Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho các máy Android khác, tên "Disconnect Premium VPN". 
 
@@ -179,11 +179,11 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNj
-Q1NjYwOTMzLC0yMjU4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2
-NDAsMTUxNDk0MDcwMywxMzgzMjY2NjI2LDgxNTMzODUxMSwxMz
-I2MzgwODEyLC0xOTM4MzY1ODM4LC0xNTIwMDMxNTAwLDM3Mjky
-MjYyMCwxNDU4MDEzNjIyLDcyMDQyNzE4LDc4OTQxOTYyNyw1Nz
-YwMDU0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3MywxMzgwNzE2
-NDM2XX0=
+eyJoaXN0b3J5IjpbNTA0Njc5NTkxLDE0NDk1ODM1ODEsLTIwND
+g1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIw
+NSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MT
+UzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAz
+MTUwMCwzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0MjcxOCw3OD
+k0MTk2MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02MzM0Njg0
+NzNdfQ==
 -->
