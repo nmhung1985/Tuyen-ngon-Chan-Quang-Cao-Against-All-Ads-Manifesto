@@ -167,13 +167,13 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 **Đang vội và muốn thử ngay?** AdClear (hoặc Blokada), Youtube Vanced
 ### iOS
 1. Dạng chạy giả lập VPN
-- [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Cần trả phí mới có tính năng HTTPS. Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
+- [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Cần trả phí mới có tính năng HTTPS và DNS mã hóa (loại DoH). Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
 
 - [Adguard](https://itunes.apple.com/app/adguard-adblock-privacy/id1047223162?mt=8): thiếu các tính năng DNS, tự tạo bộ lọc. Có phần trả phí để nâng cấp lên bản Premium. Dần dần tương lai bản này và bản Pro ở dưới sẽ có tính năng giống nhau, chỉ khác phần cách thức thanh toán. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Adguard)
 
-- [Adguard Pro](https://itunes.apple.com/app/apple-store/id1126386264?mt=8) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Nhưng chưa hỗ trợ HTTPS. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
+- [Adguard Pro](https://itunes.apple.com/app/apple-store/id1126386264?mt=8) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Chưa hỗ trợ HTTPS. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
 
-- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): ==**Tốt nhất!**== Tương tự như Surge sau khi trả phí nâng cấp. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
+- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): ==**Tốt nhất!**== Tương tự như Surge sau khi trả phí nâng cấp, nhưng không có DNS mã hóa. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1OTcwODk0LC01MjYzMDI5MjYsNDk2Nj
-M4MzI2LC03ODYxNzAwNjYsMTcxMjMzODA3MCwtNDExOTUxMDM2
-LC05NjE1ODgyMCwtMTAyMTc1MTMyOSwxMjM3OTcwNTI2LDc2Nj
-cwMDgxOCwtODY5OTM2MTI5LC0xNzMzNzgzMzI4LC0xMTYwNjI0
-MzMxLDg2MTI3MTMzNCwyNzg0MTA2MjcsODE3NjIwNDM0LDE1OT
-UyOTU1MTIsMTI3MTc0NTYyMSwyMjExNjk5NjEsLTE1MTI3MTU4
-NjddfQ==
+eyJoaXN0b3J5IjpbMzQxNjc5MDU1LDYzNTk3MDg5NCwtNTI2Mz
+AyOTI2LDQ5NjYzODMyNiwtNzg2MTcwMDY2LDE3MTIzMzgwNzAs
+LTQxMTk1MTAzNiwtOTYxNTg4MjAsLTEwMjE3NTEzMjksMTIzNz
+k3MDUyNiw3NjY3MDA4MTgsLTg2OTkzNjEyOSwtMTczMzc4MzMy
+OCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEwNjI3LDgxNz
+YyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMjIxMTY5OTYx
+XX0=
 -->
