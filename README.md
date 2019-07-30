@@ -121,7 +121,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 2.1. Các trình duyệt cùng nhân với Chrome/Firefox:
 - uBlock Origin: tiện ích phổ biến nhất, nhưng lời khuyên là nên dùng 2 tiện ích ở dưới
-- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) & [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/): ==Tốt nhất!== Nano Adblocker là bản fork của uBlock Origin với một số tối ưu, nên dùng kết hợp Nano Defender để tránh bị các trang web nhận diện là đang dùng trình chặn quảng cáo. Hướng dẫn: Vào kho tiện ích của hai trình duyệt này và gõ tên các tiện ích vừa nói ở trên để cài.
+- [Nano Adblocker](https://github.com/NanoAdblocker/NanoCore) & [Nano Defender](https://jspenguin2017.github.io/uBlockProtector/): ==**Tốt nhất!**== Nano Adblocker là bản fork của uBlock Origin với một số tối ưu, nên dùng kết hợp Nano Defender để tránh bị các trang web nhận diện là đang dùng trình chặn quảng cáo. Hướng dẫn: Vào kho tiện ích của hai trình duyệt này và gõ tên các tiện ích vừa nói ở trên để cài.
 
 2.2. Các trình duyệt khác (Edge, Safari, Opera, Yandex): tiện ích [Adguard cho trình duyệt](https://adguard.com/en/adguard-browser-extension/edge/overview.html) là tốt nhất.
 
@@ -132,7 +132,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [Blokada](https://blokada.org/): giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :). Hướng dẫn: [1](https://trainghiemso.vn/blokada-chan-quang-cao-tren-android/)
 
-- [Adguard Premium](https://adguard.com/en/adguard-android/overview.html) (Trả phí): ==Tốt nhất!== Loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS. Hướng dẫn: [1](http://www.techrum.vn/threads/tai-ng-dung-adguard-premium-chan-quang-cao-khi-xem-phim-luot-web-tren-android.193532/), [2](https://giasutintuong.com/phan-mem/adguard-premium-v2-11-81-viet-hoa-huong-dan-cai-dat-va-cau-hinh-chi-tiet.html), [3](https://c.mi.com/thread-928981-1-0.html).
+- [Adguard Premium](https://adguard.com/en/adguard-android/overview.html) (Trả phí): ==**Tốt nhất!**== Loại giả lập VPN duy nhất hiện tại có thể áp dụng cả 2 nguyên lý, hỗ trợ DNS, HTTPS. Hướng dẫn: [1](http://www.techrum.vn/threads/tai-ng-dung-adguard-premium-chan-quang-cao-khi-xem-phim-luot-web-tren-android.193532/), [2](https://giasutintuong.com/phan-mem/adguard-premium-v2-11-81-viet-hoa-huong-dan-cai-dat-va-cau-hinh-chi-tiet.html), [3](https://c.mi.com/thread-928981-1-0.html).
 
 - [Adguard Content Blocker](https://adguard.com/en/adguard-content-blocker/overview.html): chỉ hỗ trợ Samsung Internet Browser và Yandex Browser, không hỗ trợ HTTPS, áp dụng 2 nguyên lý
 
@@ -140,7 +140,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [AdAway](https://adaway.org/) (**phải root**): chặn dạng hosts, liệt kê ở đây vì đã nổi tiếng lâu đời chứ để dùng ngay thì khó.
 
-- [Adhell3](https://gitlab.com/fusionjack/adhell3) (Trả phí): ==Tốt nhất!== **cho và chỉ duy nhất máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
+- [Adhell3](https://gitlab.com/fusionjack/adhell3) (Trả phí): ==**Tốt nhất!**== **cho và chỉ duy nhất máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
 
 - Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho các máy Android khác, tên "Disconnect Premium VPN". 
 
@@ -161,7 +161,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [Adguard Pro](https://itunes.apple.com/app/apple-store/id1126386264?mt=8) (trả phí): Hoạt động tương tự Adguard Premium trên Android. Nhưng chưa hỗ trợ HTTPS. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Adguard-Pro)
 
-- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): ==Tốt nhất!== Tương tự như Surge sau khi trả phí nâng cấp. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
+- [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): ==**Tốt nhất!**== Tương tự như Surge sau khi trả phí nâng cấp. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
 
@@ -200,11 +200,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzOTczMTU3LDE4NjU3MjIxODMsNjQ3OD
-E3OTk0LC01MjQzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYs
-MTA4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2ND
-U2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0
-MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMj
-YzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMzcyOTIy
-NjIwXX0=
+eyJoaXN0b3J5IjpbLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2ND
+c4MTc5OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2
+NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMT
+Y0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIwNSwtODQ2MTAy
+NjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1MTEsMT
+MyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5
+MjI2MjBdfQ==
 -->
