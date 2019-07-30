@@ -3,7 +3,7 @@ Quên ko hỏi rõ của bạn là AC66U hay là AC66U**-B1**. Tạm thời mìn
 1. 
 - Đầu tiên là cần có 1 cái USB dành riêng cho router, sẽ gắn liền với router suốt. Dung lượng thì yêu cầu rất ít (512MB), nhưng usb dung lượng cỡ này thì thường đời cũ, có thể lại chậm (?!). Nói chung là trừ khi bạn nắm rõ thông số usb, còn ko thì có thể post mẫu usb bạn có lên đây để mọi người xem có ok ko.
 - Chương trình để thao tác dòng lệnh ssh trong router. Tải [putty.exe]("https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html") là gọn nhẹ nhất.
-- Bộ lọc sẽ dùng là hostsVN do của bạn Big Dargon. Mình đánh giá là bộ lọc ổn nhất cho VN hiện tại, vì tác giả dùng pi-hole để lọc và hiện vẫn thường xuyên tương tác với mọi người để sửa lỗi. Bạn có thể vào trao đổi tại [topic này]("https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-ung-dung-bang-surge-adguard-pro-shadowrocket-va-adblock.2844988/").
+- Bộ lọc sẽ dùng là hostsVN của Big Dargon. Mình đánh giá là bộ lọc ổn nhất cho VN hiện tại, vì tác giả dùng pi-hole để lọc và hiện vẫn thường xuyên tương tác với mọi người để sửa lỗi. Bạn có thể vào trao đổi tại [topic này]("https://tinhte.vn/threads/huong-dan-chan-quang-cao-trong-ung-dung-bang-surge-adguard-pro-shadowrocket-va-adblock.2844988/").
 
 2. Log vào trang quản lý router. Giả sử IP 192.168.1.1 nhé.
 a) Ở LAN> DHCP Server, phần IP Pool Starting Address. Nếu bạn đã từng chỉnh rồi thì thôi, còn bình thường mặc định là 192.168.1.2 thì bạn chỉnh lên vài số, nói chung nên là 192.168.1.10, tránh ko để thiết bị nào dùng IP 192.168.1.2-192.168.1.9.
@@ -124,5 +124,5 @@ Thông tin thêm:
 - Tác giả Diversion bàn luận ở đây. Forum này cũng là forum chuyên về bàn luận router của Asus và Merlin firmware.
 [url]https://www.snbforums.com/threads/diversion-the-router-ad-blocker.48538/page-71#post-447604[/url]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTg4MjI3NTUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTEwMjI2MzQ0MjcsNzMwOTk4MTE2XX0=
 -->
