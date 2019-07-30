@@ -166,7 +166,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 ### DNS
 1. Như đã giới thiệu ngắn gọn ở các phần trước, DNS là định nghĩa hệ thống phân giải tên miền, mà ở đây ta cũng dùng để nói ngắn gọn phương thức chặn mà theo đó bạn thiết lập cho hệ thống/thiết bị kết nối tới hệ thống DNS khác:
 - Hệ thống DNS ở xa đó sẽ đảm nhiệm việc lọc và chặn tên miền, rồi mới trả lại thông tin để thiết bị của bạn kết nối tới.
-- Có lẽ cũng là cách dễ nhất, vì hệ thống DNS ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp.
+- **Có lẽ cũng là cách dễ nhất**, vì hệ thống DNS ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp.
 - Áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số trường hợp, ví dụ như trên điện thoại thì có vẻ do quy định chung gì đó mà các nhà sản xuất không có phần cấu hình thay đổi DNS của kết nối dữ liệu di động (3G, 4G) nếu không root hoặc jailbreak.
 - Trên Android, ngoài cách thủ công thì có các ứng dụng để đổi DNS cũng bằng cách chạy giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
 
@@ -179,11 +179,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk2MDkwNzQsMTc5NTMxNTIwNSwtOD
-Q2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1
-MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMC
-wzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0MjcxOCw3ODk0MTk2
-MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02MzM0Njg0NzMsMT
-M4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2OTIsMTUzOTAy
-NDEzN119
+eyJoaXN0b3J5IjpbOTQ1MTI5MDM4LDE3OTUzMTUyMDUsLTg0Nj
+EwMjY0MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTEx
+LDEzMjYzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMz
+cyOTIyNjIwLDE0NTgwMTM2MjIsNzIwNDI3MTgsNzg5NDE5NjI3
+LDU3NjAwNTQyOSwtMTk5MjYyNzQ3MywtNjMzNDY4NDczLDEzOD
+A3MTY0MzYsLTExODcxOTg1MjcsMTQzNzc5NjkyLDE1MzkwMjQx
+MzddfQ==
 -->
