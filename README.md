@@ -31,7 +31,9 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 - Ưu điểm thường thấy là có thể ẩn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
 -  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp nâng cao khả năng chặn.
 
-*Hình minh họa: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
+*Hình minh họa 1: 
+
+*Hình minh họa 2: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
 
 ![So sánh](https://cdn.adguard.com/public/Adguard/Blog/Android/comparison/ad_leftovers_resized.png?1)
 
@@ -201,11 +203,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU0NjI1Mzc4LDEyNzE3NDU2MjEsMjIxMT
-Y5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3OTk0
-LC01MjQzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4ND
-YwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5
-MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0MCwxNT
-E0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMjYzODA4
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTE1MzI3ODI4NjksMTI3MTc0NTYyMSwyMj
+ExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5
+OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMD
+g0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2
+MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIwNSwtODQ2MTAyNjQwLD
+E1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4
+MDgxMl19
 -->
