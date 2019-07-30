@@ -180,7 +180,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - Hệ thống DNS ở xa đó sẽ đảm nhiệm việc lọc và chặn tên miền, rồi mới trả lại thông tin để thiết bị của bạn kết nối tới.
 - **Có lẽ cũng là cách dễ nhất**, vì hệ thống DNS ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp.
 - Áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số trường hợp, ví dụ như trên điện thoại thì có vẻ do quy định chung nào đó mà các nhà sản xuất không có phần cấu hình thay đổi DNS của kết nối dữ liệu di động (3G, 4G) nếu không root hoặc jailbreak.
-- Trên Android, ngoài cách thủ công thì có các ứng dụng để đổi DNS cũng bằng cách chạy giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
+- Trên Android, ngoài cách thủ công thì có các ứng dụng đổi DNS cũng bằng cách chạy giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
 
 2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên nextdns. Vì với Adguard DNS bạn không có tùy chọn bộ lọc theo ý mình, trong khi nextdns có lựa chọn.
 
@@ -212,11 +212,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjA5NzQ5NzUsNzY2NzAwODE4LC04Nj
-k5MzYxMjksLTE3MzM3ODMzMjgsLTExNjA2MjQzMzEsODYxMjcx
-MzM0LDI3ODQxMDYyNyw4MTc2MjA0MzQsMTU5NTI5NTUxMiwxMj
-cxNzQ1NjIxLDIyMTE2OTk2MSwtMTUxMjcxNTg2NywxODY1NzIy
-MTgzLDY0NzgxNzk5NCwtNTI0MzY0NjExLDU2MzIxMjc1NSwtNj
-YyNTg5MzY2LDEwODQ2MDM1OTcsMTQ0OTU4MzU4MSwtMjA0ODUy
-MDA4M119
+eyJoaXN0b3J5IjpbNjU1MzM4NDcxLDc2NjcwMDgxOCwtODY5OT
+M2MTI5LC0xNzMzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3MTMz
+NCwyNzg0MTA2MjcsODE3NjIwNDM0LDE1OTUyOTU1MTIsMTI3MT
+c0NTYyMSwyMjExNjk5NjEsLTE1MTI3MTU4NjcsMTg2NTcyMjE4
+Myw2NDc4MTc5OTQsLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2Mj
+U4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAw
+ODNdfQ==
 -->
