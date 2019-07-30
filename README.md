@@ -101,7 +101,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 - [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, nextdns, v.v..., áp dụng được cho nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Minh bạch: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus, uBlock Origin, v.v... , áp dụng được cho 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
 - [FMSF của nmtrung](https://github.com/nmtrung/FMSF-2.0): tác giả là thành viên voz.vn nên bộ lọc khá nổi bên đó, đáng tiếc là không thấy tác giả đề xuất được đưa vào các ứng dụng nổi tiếng, áp dụng được cho 2 nguyên lý như ABPVN.
-6. Các bộ  lọc tương khác để chặn web người lớn, bài bạc
+6. Các bộ lọc ương khác để chặn web người lớn, bài bạc
 
 ## Tổng quan và sơ lược các ứng dụng nên dùng
 
@@ -210,11 +210,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk4NTUwNzA3LC0xMDIxNzUxMzI5LDEyMz
-c5NzA1MjYsNzY2NzAwODE4LC04Njk5MzYxMjksLTE3MzM3ODMz
-MjgsLTExNjA2MjQzMzEsODYxMjcxMzM0LDI3ODQxMDYyNyw4MT
-c2MjA0MzQsMTU5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMTE2OTk2
-MSwtMTUxMjcxNTg2NywxODY1NzIyMTgzLDY0NzgxNzk5NCwtNT
-I0MzY0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2LDEwODQ2MDM1
-OTddfQ==
+eyJoaXN0b3J5IjpbLTU3Mjc2NTMsLTEwMjE3NTEzMjksMTIzNz
+k3MDUyNiw3NjY3MDA4MTgsLTg2OTkzNjEyOSwtMTczMzc4MzMy
+OCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEwNjI3LDgxNz
+YyMDQzNCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMjIxMTY5OTYx
+LC0xNTEyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3OTk0LC01Mj
+QzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4NDYwMzU5
+N119
 -->
