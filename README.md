@@ -170,18 +170,18 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - Áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số trường hợp, ví dụ như trên điện thoại thì có vẻ do quy định chung gì đó mà các nhà sản xuất không có phần cấu hình thay đổi DNS của kết nối dữ liệu di động (3G, 4G) nếu không root hoặc jailbreak.
 - Trên Android, ngoài cách thủ công thì có các ứng dụng để đổi DNS cũng bằng cách chạy giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
 
-2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên nextdns. Vì với Adguard DNS bạn chọn bộ lọc theo ý mình, trong khi nextdns có lựa chọn.
+2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên nextdns. Vì với Adguard DNS bạn không có tùy chọn bộ lọc theo ý mình, trong khi nextdns có lựa chọn.
 
 3. DNS mã hóa: Một số hệ thống và ứng dụng bắt đầu hỗ trợ các loại DNS mã hóa như DNS-over-HTTPS (DoH), DNS-over-TLS (DoT). Nếu có thể, hãy luôn chọn và thiết lập sử dụng các DNS mã hóa này.
 4. Hướng dẫn:
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMT
-UyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0Mjcx
-OCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02Mz
-M0Njg0NzMsMTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2
-OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0OTAsMj
-A4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC0xMDgy
-ODU1NDMxXX0=
+eyJoaXN0b3J5IjpbLTE1MTU1MTc1NDIsMTMyNjM4MDgxMiwtMT
+kzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAx
+MzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0xOT
+kyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMTE4NzE5
+ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4LC
+02MDc2OTA0OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMjcy
+NTgwMzc1XX0=
 -->
