@@ -93,7 +93,7 @@ Bạn có thể cũng đã từng nghe qua hoặc được chỉ cài phần m�
 3. Nhiều trang web có khả năng phát hiện người dùng đang chặn quảng cáo của họ, nên còn cần phải cài thêm ứng dụng "chống ứng dụng phát hiện quảng cáo bị chặn (anti-anti-adblock)". Có thể xem đây như cuộc chiến giữa người làm khóa và kẻ bẻ khóa vậy :)
 4. Trong trường hợp chặn theo phương thức DNS: Chrome với tính năng Async DNS Resolver, cũng như các trình duyệt tích hợp chức năng mã hóa DNS hoặc "tiết kiệm dung lượng" (data saver), có thể bỏ qua danh sách lọc. Khi đó cần tắt các tính năng này.
 5. Lưu ý 3 bộ lọc dành cho Việt Nam tốt nhất hiện nay.
-- [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, NextDNS, v.v..., áp dụng được cho nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Minh bạch: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
+- [HostsVN của BigDargon](https://github.com/bigdargon/hostsVN): bộ lọc đang nổi gần đây, dần có mặt chính thức trong các ứng dụng nổi tiếng như Adguard, nextdns, v.v..., áp dụng được cho nguyên lý 1 nên dùng được trên nhiều phần mềm, ứng dụng (Minh bạch: Bản thân bài viết này trỏ tới nhiều bài hướng dẫn chi tiết bên HostsVN :)
 - [ABPVN của hoangrio](https://github.com/abpvn/abpvn): có mặt chính thức trong vài ứng dụng nổi tiếng như Adblock Plus, uBlock Origin, v.v... , áp dụng được cho 2 nguyên lý nên hoạt động trên ít ứng dụng hơn (chủ yếu là cho các tiện ích cài bổ sung trình duyệt).
 - [FMSF của nmtrung](https://github.com/nmtrung/FMSF-2.0): tác giả là thành viên voz.vn nên bộ lọc khá nổi bên đó, đáng tiếc là không thấy tác giả đề xuất được đưa vào các ứng dụng nổi tiếng, áp dụng được cho 2 nguyên lý như ABPVN.
 
@@ -196,11 +196,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDM3NTU1MTMsNjQ3ODE3OTk0LC01Mj
-QzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4NDYwMzU5
-NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5MzMsLT
-IyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0MCwxNTE0OTQw
-NzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMjYzODA4MTIsLT
-E5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMzcyOTIyNjIwLDE0NTgw
-MTM2MjJdfQ==
+eyJoaXN0b3J5IjpbMTg2NTcyMjE4Myw2NDc4MTc5OTQsLTUyND
+M2NDYxMSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMDg0NjAzNTk3
+LDE0NDk1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMj
+I1ODk2MDgsMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3
+MDMsMTM4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMT
+kzODM2NTgzOCwtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAx
+MzYyMl19
 -->
