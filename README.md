@@ -207,16 +207,14 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 
-## Thông tin người viết
-Người viết từng là người điều phối việc bản địa hóa các phần mềm của Mozilla (Firefox, Thunderbird v.v...) sang tiếng Việt. Hiện tại, anh vẫn tiếp tục đóng góp và tư vấn cho các dự án này.
-
-Anh là người đầu tiên dịch ứng dụng và tạo bộ lọc chính thức đầu tiên của Việt Nam cho ứng dụng Adblock Plus trên trình duyệt. Hiện anh đã chuyển sang bộ Nano Adblocker và Nano Defender, cũng như chỉ góp một vài ý kiến nhỏ cho dự án HostsVN.
+## Thông tin thêm
+Nếu có thông tin gì cần biết thêm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzM3ODMzMjgsLTExNjA2MjQzMzEsOD
-YxMjcxMzM0LDI3ODQxMDYyNyw4MTc2MjA0MzQsMTU5NTI5NTUx
-MiwxMjcxNzQ1NjIxLDIyMTE2OTk2MSwtMTUxMjcxNTg2NywxOD
-Y1NzIyMTgzLDY0NzgxNzk5NCwtNTI0MzY0NjExLDU2MzIxMjc1
-NSwtNjYyNTg5MzY2LDEwODQ2MDM1OTcsMTQ0OTU4MzU4MSwtMj
-A0ODUyMDA4MywxNjQ1NjYwOTMzLC0yMjU4OTYwOCwxNzk1MzE1
-MjA1XX0=
+eyJoaXN0b3J5IjpbMTk5OTY5MTYxMiwtMTczMzc4MzMyOCwtMT
+E2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEwNjI3LDgxNzYyMDQz
+NCwxNTk1Mjk1NTEyLDEyNzE3NDU2MjEsMjIxMTY5OTYxLC0xNT
+EyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3OTk0LC01MjQzNjQ2
+MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4NDYwMzU5NywxND
+Q5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5MzMsLTIyNTg5
+NjA4XX0=
 -->
