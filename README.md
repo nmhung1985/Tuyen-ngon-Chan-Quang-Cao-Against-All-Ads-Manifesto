@@ -167,19 +167,19 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 1. Như đã giới thiệu ngắn gọn ở các phần trước, DNS là định nghĩa hệ thống phân giải tên miền, mà ở đây ta cũng dùng để nói ngắn gọn phương thức chặn mà theo đó bạn thiết lập cho hệ thống/thiết bị kết nối tới hệ thống DNS khác:
 - Hệ thống DNS ở xa đó sẽ đảm nhiệm việc lọc và chặn tên miền, rồi mới trả lại thông tin để thiết bị của bạn kết nối tới.
 - **Có lẽ cũng là cách dễ nhất**, vì hệ thống DNS ở xa xử lý rồi nên bạn không cần cấu hình, cài đặt gì phức tạp.
-- Áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số trường hợp, ví dụ như trên điện thoại thì có vẻ do quy định chung gì đó mà các nhà sản xuất không có phần cấu hình thay đổi DNS của kết nối dữ liệu di động (3G, 4G) nếu không root hoặc jailbreak.
+- Áp dụng được trên tất cả nền tảng (do DNS là yếu tố cơ bản để một hệ thống mạng hoạt động). Ngoại trừ một số trường hợp, ví dụ như trên điện thoại thì có vẻ do quy định chung nào đó mà các nhà sản xuất không có phần cấu hình thay đổi DNS của kết nối dữ liệu di động (3G, 4G) nếu không root hoặc jailbreak.
 - Trên Android, ngoài cách thủ công thì có các ứng dụng để đổi DNS cũng bằng cách chạy giả lập VPN. Vừa xung đột với ứng dụng chạy VPN khác, vừa chỉ có mỗi tính năng DNS, nên tất nhiên lời khuyên là dùng luôn các ứng dụng chặn quảng cáo có tích hợp DNS.
 
 2. Các nhà cung cấp DNS: Adguard DNS có thể xem là tốt nhất cho đến khi thời gian gần đây đang nổi lên nextdns. Vì với Adguard DNS bạn không có tùy chọn bộ lọc theo ý mình, trong khi nextdns có lựa chọn.
 
 3. DNS mã hóa: Một số hệ thống và ứng dụng bắt đầu hỗ trợ các loại DNS mã hóa như DNS-over-HTTPS (DoH), DNS-over-TLS (DoT). Nếu có thể, hãy luôn chọn và thiết lập sử dụng các *DNS-chặn-quảng-cáo-có-mã-hóa* này.
-**Lưu ý**: Nếu bạn dùng phương thức chặn DNS mà sử dụng trình duyệt tích hợp sẵn tính năng mã hóa DNS nhưng lại kết nối tới DNS-không-có-chặn-quảng-cáo của họ, thì cần tắt tính năng mã hóa DNS này trong trình duyệt (Ý 4 ở phần [Các bước cơ bản để chặn quảng cáo](#các-bước-cơ-bản-để-chặn-quảng-cáo))
+**Lưu ý**: Nếu bạn dùng phương thức chặn DNS mà sử dụng trình duyệt tích hợp sẵn tính năng mã hóa DNS nhưng lại kết nối tới DNS-không-có-chặn-quảng-cáo của họ, thì cần tắt tính năng mã hóa DNS này trong trình duyệt (đọc thêm ý 4 ở phần [Các bước cơ bản để chặn quảng cáo](#các-bước-cơ-bản-để-chặn-quảng-cáo))
 
 5. Hướng dẫn:
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1MTI5MDM4LDE3OTUzMTUyMDUsLTg0Nj
+eyJoaXN0b3J5IjpbLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0Nj
 EwMjY0MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTEx
 LDEzMjYzODA4MTIsLTE5MzgzNjU4MzgsLTE1MjAwMzE1MDAsMz
 cyOTIyNjIwLDE0NTgwMTM2MjIsNzIwNDI3MTgsNzg5NDE5NjI3
