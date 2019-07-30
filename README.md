@@ -184,13 +184,15 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 Đúng vậy, ban đầu các ứng dụng chống virus và ứng dụng chặn quảng cáo (theo đúng nghĩa chỉ chặn quảng cáo) là các ứng dụng chuyên biệt chỉ làm đúng nhiệm vụ của mình.
 
-Nhưng khi virus, mã độc dần được phát triển theo hướng lây lan qua mạng, thì ứng dụng chặn quảng cáo, với khả năng lọc và chặn các tên miền của mình, lại vô tình có tác dụng trong việc ngăn chặn các loại virus, mã độc kia.
+Nhưng khi virus, mã độc dần được phát triển theo hướng lây lan qua mạng, thì ứng dụng chặn quảng cáo, với khả năng lọc và chặn các tên miền của mình, lại vô tình có tác dụng trong việc ngăn chặn các **tên miền phân phối** virus, mã độc.
+
+Tức ứng dụng quảng cáo không có bộ máy phân tích để nhận diện virus, mã độc, mà chỉ ngăn chặn
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDM2NDYxMSw1NjMyMTI3NTUsLTY2Mj
-U4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1ODEsLTIwNDg1MjAw
-ODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NTMxNTIwNSwtOD
-Q2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1
-MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMC
-wzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0MjcxOCw3ODk0MTk2
-MjddfQ==
+eyJoaXN0b3J5IjpbLTEyMzE3NDU0NTksLTUyNDM2NDYxMSw1Nj
+MyMTI3NTUsLTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0NDk1ODM1
+ODEsLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2MDgsMT
+c5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2
+NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOC
+wtMTUyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0
+MjcxOF19
 -->
