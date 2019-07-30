@@ -19,6 +19,10 @@ Nói chung các dữ liệu rác rưởi và độc hại này (gọi chung là 
 
 Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
+*Hình minh họa 1: Sau khi áp dụng chặn quảng cáo, lưu lượng và thời gian tải được giảm tới gần 3 lần*
+
+![So sánh trước và sau khi chặn](https://cdn.adguard.com/public/Adguard/Blog/AGHome/devcomp.jpg)
+
 ## Nguyên lý chặn quảng cáo
 1.  Lọc lớp mạng (network filter): 
 - Không dữ liệu quảng cáo nào có thể đi vào hệ thống
@@ -31,9 +35,6 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 - Ưu điểm thường thấy là có thể ẩn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
 -  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp nâng cao khả năng chặn.
 
-*Hình minh họa 1: Sau khi áp dụng chặn quảng cáo, lưu lượng và thời gian tải được giảm tới gần 3 lần*
-
-![So sánh trước và sau khi chặn](https://cdn.adguard.com/public/Adguard/Blog/AGHome/devcomp.jpg)
 
 *Hình minh họa 2: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
 
@@ -205,11 +206,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTI5NTUxMiwxMjcxNzQ1NjIxLDIyMT
-E2OTk2MSwtMTUxMjcxNTg2NywxODY1NzIyMTgzLDY0NzgxNzk5
-NCwtNTI0MzY0NjExLDU2MzIxMjc1NSwtNjYyNTg5MzY2LDEwOD
-Q2MDM1OTcsMTQ0OTU4MzU4MSwtMjA0ODUyMDA4MywxNjQ1NjYw
-OTMzLC0yMjU4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2NDAsMT
-UxNDk0MDcwMywxMzgzMjY2NjI2LDgxNTMzODUxMSwxMzI2Mzgw
-ODEyXX0=
+eyJoaXN0b3J5IjpbMTIzMzE0MDA2OCwxNTk1Mjk1NTEyLDEyNz
+E3NDU2MjEsMjIxMTY5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIx
+ODMsNjQ3ODE3OTk0LC01MjQzNjQ2MTEsNTYzMjEyNzU1LC02Nj
+I1ODkzNjYsMTA4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIw
+MDgzLDE2NDU2NjA5MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLT
+g0NjEwMjY0MCwxNTE0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4
+NTExXX0=
 -->
