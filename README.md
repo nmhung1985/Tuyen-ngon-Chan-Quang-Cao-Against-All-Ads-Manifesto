@@ -24,12 +24,12 @@ Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả s
 ![So sánh trước và sau khi chặn](https://cdn.adguard.com/public/Adguard/Blog/AGHome/devcomp.jpg)
 
 ## Thông tin rất thú vị! Vậy tôi nên làm thế nào?
-Các chương trình, phần mềm và ứng dụng (gọi chung là "**ứng dụng**")  chặn quảng cáo hiện nay có rất nhiều, có thể khiến bạn cực kỳ bối rối. Tuy nhiên, chúng vẫn có những đặc điểm cơ bản để phân biệt. Nên đúng vậy, mục đích chính của bài viết này là cung cấp các thông tin cơ bản để bạn hiểu và từ đó có thể **tự mình dễ dàng** chọn được cái phù hợp nhất. Và hãy yên tâm, ở các phần kế tiếp vẫn có gợi ý sơ lược một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. 
+Các chương trình, phần mềm và ứng dụng (gọi chung là "**ứng dụng**")  chặn quảng cáo hiện nay có rất nhiều, có thể khiến bạn cực kỳ bối rối. Tuy nhiên, chúng vẫn có những đặc điểm cơ bản để phân biệt. Nên đúng vậy, mục đích chính của bài viết này là cung cấp các thông tin cơ bản đầy đủ nhất để bạn hiểu và từ đó có thể **tự mình dễ dàng** chọn được cái phù hợp. Và hãy yên tâm, ở các phần kế tiếp vẫn có gợi ý sơ lược một số ứng dụng nên dùng cho từng hệ thống, và dẫn link tới hướng dẫn chi tiết tương ứng. 
 
 ## Nguyên lý chặn quảng cáo
 1.  Lọc lớp mạng (network filter): 
-- Không dữ liệu quảng cáo nào có thể đi vào hệ thống
-- Hiệu quả trong việc không để băng thông hệ thống bị quảng cáo chiếm dụng
+- Không dữ liệu quảng cáo nào có thể đi vào hệ thống/thiết bị
+- Hiệu quả trong việc không để băng thông hệ thống/thiết bị bị quảng cáo chiếm dụng
 - Hạn chế hay được nhắc tới là khó chặn quảng cáo của YouTube, cũng như có thể làm vỡ bố cục trang web.
 
 2. Lọc lớp giao diện (cosmetic filter):
@@ -209,11 +209,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNzk3MDUyNiw3NjY3MDA4MTgsLTg2OT
-kzNjEyOSwtMTczMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEz
-MzQsMjc4NDEwNjI3LDgxNzYyMDQzNCwxNTk1Mjk1NTEyLDEyNz
-E3NDU2MjEsMjIxMTY5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIx
-ODMsNjQ3ODE3OTk0LC01MjQzNjQ2MTEsNTYzMjEyNzU1LC02Nj
-I1ODkzNjYsMTA4NDYwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIw
-MDgzXX0=
+eyJoaXN0b3J5IjpbLTEwMjE3NTEzMjksMTIzNzk3MDUyNiw3Nj
+Y3MDA4MTgsLTg2OTkzNjEyOSwtMTczMzc4MzMyOCwtMTE2MDYy
+NDMzMSw4NjEyNzEzMzQsMjc4NDEwNjI3LDgxNzYyMDQzNCwxNT
+k1Mjk1NTEyLDEyNzE3NDU2MjEsMjIxMTY5OTYxLC0xNTEyNzE1
+ODY3LDE4NjU3MjIxODMsNjQ3ODE3OTk0LC01MjQzNjQ2MTEsNT
+YzMjEyNzU1LC02NjI1ODkzNjYsMTA4NDYwMzU5NywxNDQ5NTgz
+NTgxXX0=
 -->
