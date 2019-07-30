@@ -112,7 +112,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 Đây là cấp độ khó nên người nào biết thiết lập cho cấp độ này thường là đã có kiến thức CNTT tốt. Do đó, phần này sẽ không có các thông tin chi tiết mà chỉ cung cấp một số link hướng dẫn.
 
 - Router Asus (chạy [firmware Merlin](https://www.asuswrt-merlin.net/)): cách dễ nhất cho người có kiến thức máy tính trung bình. Chỉ hoạt động trên một số loại router của Asus như AC66U, AC68U, AC86U, AC88U v.v... Hướng dẫn cho thiết bị đã flash Merlin: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/AsusRouter.md)
-- [pi-hole](https://pi-hole.net/): ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Hướng dẫn: [1](http://web.archive.org/web/20190730080355/https://cuccode.com/pihole.html), [voz](https://forums.voz.vn/showthread.php?t=7437968)
+- [pi-hole](https://pi-hole.net/): ứng dụng chặn quảng cáo cho mạng nội bộ phổ biến nhất hiện nay. Phát triển ban đầu cho dòng Raspberry Pi nhưng hiện tại có thể chạy trên nhiều thiết bị và hệ điều hành. Hướng dẫn: [1](http://web.archive.org/web/20190730080355/https://cuccode.com/pihole.html), [video](https://www.youtube.com/watch?v=1lmQqGZf_4A), [voz](https://forums.voz.vn/showthread.php?t=7437968)
 
 ### Máy tính
 
@@ -201,11 +201,11 @@ Ngoài ra:
 
 Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTc0NTYyMSwyMjExNjk5NjEsLTE1MT
-I3MTU4NjcsMTg2NTcyMjE4Myw2NDc4MTc5OTQsLTUyNDM2NDYx
-MSw1NjMyMTI3NTUsLTY2MjU4OTM2NiwxMDg0NjAzNTk3LDE0ND
-k1ODM1ODEsLTIwNDg1MjAwODMsMTY0NTY2MDkzMywtMjI1ODk2
-MDgsMTc5NTMxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMT
-M4MzI2NjYyNiw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2
-NTgzOF19
+eyJoaXN0b3J5IjpbNzU0NjI1Mzc4LDEyNzE3NDU2MjEsMjIxMT
+Y5OTYxLC0xNTEyNzE1ODY3LDE4NjU3MjIxODMsNjQ3ODE3OTk0
+LC01MjQzNjQ2MTEsNTYzMjEyNzU1LC02NjI1ODkzNjYsMTA4ND
+YwMzU5NywxNDQ5NTgzNTgxLC0yMDQ4NTIwMDgzLDE2NDU2NjA5
+MzMsLTIyNTg5NjA4LDE3OTUzMTUyMDUsLTg0NjEwMjY0MCwxNT
+E0OTQwNzAzLDEzODMyNjY2MjYsODE1MzM4NTExLDEzMjYzODA4
+MTJdfQ==
 -->
