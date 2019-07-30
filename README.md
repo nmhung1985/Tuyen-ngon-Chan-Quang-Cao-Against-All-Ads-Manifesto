@@ -167,13 +167,14 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 3. DNS mã hóa: Một số hệ thống và ứng dụng bắt đầu hỗ trợ các loại DNS mã hóa như DNS-over-HTTPS (DoH), DNS-over-TLS (DoT). Nếu có thể, hãy luôn chọn và thiết lập sử dụng các DNS mã hóa này.
 4. Hướng dẫn:
-- Adguard DNS
+- [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
+- nextdns
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NDM1MjExLDcyMDQyNzE4LDc4OTQxOT
-YyNyw1NzYwMDU0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3Mywx
-MzgwNzE2NDM2LC0xMTg3MTk4NTI3LDE0Mzc3OTY5MiwxNTM5MD
-I0MTM3LDE2MzgwNjI3NzgsLTYwNzY5MDQ5MCwyMDg3NDkwMzAz
-LC0xOTQwNjQ1NjksLTEyNzI1ODAzNzUsLTEwODI4NTU0MzEsMT
-k4NTQ1OTgzMywtMTI4MzkwMTY2NCwyNTU2NjY3MjIsLTkzNzAw
-NzI1MF19
+eyJoaXN0b3J5IjpbMTQwMjQ5NzgyMiw3MjA0MjcxOCw3ODk0MT
+k2MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02MzM0Njg0NzMs
+MTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2OTIsMTUzOT
+AyNDEzNywxNjM4MDYyNzc4LC02MDc2OTA0OTAsMjA4NzQ5MDMw
+MywtMTk0MDY0NTY5LC0xMjcyNTgwMzc1LC0xMDgyODU1NDMxLD
+E5ODU0NTk4MzMsLTEyODM5MDE2NjQsMjU1NjY2NzIyLC05Mzcw
+MDcyNTBdfQ==
 -->
