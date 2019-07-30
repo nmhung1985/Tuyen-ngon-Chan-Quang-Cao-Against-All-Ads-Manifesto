@@ -12,7 +12,7 @@ Nghiêm trọng hơn, bạn có biết nhiều trang web âm thầm nhúng mã t
 
 Nếu nhà có trẻ em, chắc bạn cũng không muốn trẻ vô tình thấy những nội dung người lớn?
 
-Nói chung các dữ liệu rác rưởi và độc hại này (gọi chung là "**quảng cáo**") thường chiếm trung bình ít nhất khoảng 40% trên các hệ thống hay thiết bị kết nối mạng của bạn:
+Nói chung các dữ liệu rác rưởi và độc hại này (gọi chung là "**quảng cáo**") thường chiếm trung bình ít nhất [khoảng 60%](http://web.archive.org/web/20190730053655/https://forums.voz.vn/showpost.php?p=149131673&postcount=49) trên các hệ thống hay thiết bị kết nối mạng của bạn:
 - Làm tốn dung lượng và khiến thông tin bạn cần bị tải chậm hơn
 - Làm tốn pin do dữ liệu luôn được tải ngầm
 - Gây ảnh hưởng tới trải nghiệm và sự an toàn của bạn khi thưởng thức các nội dung thú vị trên Internet.
@@ -179,11 +179,11 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTY2MDkzMywtMjI1ODk2MDgsMTc5NT
-MxNTIwNSwtODQ2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYy
-Niw4MTUzMzg1MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMT
-UyMDAzMTUwMCwzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0Mjcx
-OCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02Mz
-M0Njg0NzMsMTM4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTkwMDYzMTAxNSwxNjQ1NjYwOTMzLC0yMj
+U4OTYwOCwxNzk1MzE1MjA1LC04NDYxMDI2NDAsMTUxNDk0MDcw
+MywxMzgzMjY2NjI2LDgxNTMzODUxMSwxMzI2MzgwODEyLC0xOT
+M4MzY1ODM4LC0xNTIwMDMxNTAwLDM3MjkyMjYyMCwxNDU4MDEz
+NjIyLDcyMDQyNzE4LDc4OTQxOTYyNyw1NzYwMDU0MjksLTE5OT
+I2Mjc0NzMsLTYzMzQ2ODQ3MywxMzgwNzE2NDM2LC0xMTg3MTk4
+NTI3XX0=
 -->
