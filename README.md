@@ -147,7 +147,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US) (bản chuẩn cho Android): do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
 
-**Gợi ý lựa chọn nhanh của người viết**: AdClear/Blokada và Youtube Vanced
+**Gợi ý lựa chọn nhanh của người viết**: AdClear (hoặc Blokada), Youtube Vanced, Brave Browser
 ### iOS
 1. Dạng chạy giả lập VPN
 - [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Cần trả phí mới có tính năng HTTPS. Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
@@ -174,11 +174,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzE2MTk1OSwzNzI5MjI2MjAsMTQ1OD
-AxMzYyMiw3MjA0MjcxOCw3ODk0MTk2MjcsNTc2MDA1NDI5LC0x
-OTkyNjI3NDczLC02MzM0Njg0NzMsMTM4MDcxNjQzNiwtMTE4Nz
-E5ODUyNywxNDM3Nzk2OTIsMTUzOTAyNDEzNywxNjM4MDYyNzc4
-LC02MDc2OTA0OTAsMjA4NzQ5MDMwMywtMTk0MDY0NTY5LC0xMj
-cyNTgwMzc1LC0xMDgyODU1NDMxLDE5ODU0NTk4MzMsLTEyODM5
-MDE2NjRdfQ==
+eyJoaXN0b3J5IjpbOTE5NTc2Njg0LDM3MjkyMjYyMCwxNDU4MD
+EzNjIyLDcyMDQyNzE4LDc4OTQxOTYyNyw1NzYwMDU0MjksLTE5
+OTI2Mjc0NzMsLTYzMzQ2ODQ3MywxMzgwNzE2NDM2LC0xMTg3MT
+k4NTI3LDE0Mzc3OTY5MiwxNTM5MDI0MTM3LDE2MzgwNjI3Nzgs
+LTYwNzY5MDQ5MCwyMDg3NDkwMzAzLC0xOTQwNjQ1NjksLTEyNz
+I1ODAzNzUsLTEwODI4NTU0MzEsMTk4NTQ1OTgzMywtMTI4Mzkw
+MTY2NF19
 -->
