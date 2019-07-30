@@ -134,11 +134,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen): giả lập VPN, ứng dụng duy nhất trong danh sách này có hỗ trợ DNS mã hóa, chưa hỗ trợ HTTPS
 
-- [AdAway](https://adaway.org/) (**phải root**): chặn dạng hosts, 
+- [AdAway](https://adaway.org/) (**phải root**): chặn dạng hosts, liệt kê ở đây vì đã nổi tiếng lâu đời chứ để dùng ngay thì khó.
 
 - [Adhell3](https://gitlab.com/fusionjack/adhell3) (Trả phí): tốt nhất **cho và chỉ duy nhất máy Samsung**, chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung (không được Samsung hỗ trợ chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được.
 
-- Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho máy Android khác, tên "Disconnect Premium VPN". 
+- Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho các máy Android khác, tên "Disconnect Premium VPN". 
 
 *Các ứng dụng đặc biệt*
 
@@ -179,11 +179,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NDg5MDgzMSwxNzk1MzE1MjA1LC04ND
-YxMDI2NDAsMTUxNDk0MDcwMywxMzgzMjY2NjI2LDgxNTMzODUx
-MSwxMzI2MzgwODEyLC0xOTM4MzY1ODM4LC0xNTIwMDMxNTAwLD
-M3MjkyMjYyMCwxNDU4MDEzNjIyLDcyMDQyNzE4LDc4OTQxOTYy
-Nyw1NzYwMDU0MjksLTE5OTI2Mjc0NzMsLTYzMzQ2ODQ3MywxMz
-gwNzE2NDM2LC0xMTg3MTk4NTI3LDE0Mzc3OTY5MiwxNTM5MDI0
-MTM3XX0=
+eyJoaXN0b3J5IjpbLTE1Mzk2MDkwNzQsMTc5NTMxNTIwNSwtOD
+Q2MTAyNjQwLDE1MTQ5NDA3MDMsMTM4MzI2NjYyNiw4MTUzMzg1
+MTEsMTMyNjM4MDgxMiwtMTkzODM2NTgzOCwtMTUyMDAzMTUwMC
+wzNzI5MjI2MjAsMTQ1ODAxMzYyMiw3MjA0MjcxOCw3ODk0MTk2
+MjcsNTc2MDA1NDI5LC0xOTkyNjI3NDczLC02MzM0Njg0NzMsMT
+M4MDcxNjQzNiwtMTE4NzE5ODUyNywxNDM3Nzk2OTIsMTUzOTAy
+NDEzN119
 -->
