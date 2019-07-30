@@ -120,7 +120,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 2.2. Các trình duyệt khác (Edge, Safari, Opera, Yandex): tiện ích [Adguard cho trình duyệt](https://adguard.com/en/adguard-browser-extension/edge/overview.html) là tốt nhất.
 
-**Gợi ý lựa chọn nhanh của người viết**: Nano Adblocker & Nano Defender
+**Gợi ý lựa chọn nhanh**: Nano Adblocker & Nano Defender
 
 ### Android
 - [AdClear](https://adclear.com/en/adclear-installation.php): giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa, chưa hỗ trợ thêm bộ danh sách lọc. Mặc định không thiết lập chặn hết tất cả ứng dụng trên thiết bị để người dùng tìm hiểu cách bật/tắt chặn đối với **từng** ứng dụng. 
@@ -147,7 +147,7 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 
 - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US) (bản chuẩn cho Android): do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
 
-**Gợi ý lựa chọn nhanh của người viết**: AdClear (hoặc Blokada), Youtube Vanced, Brave Browser
+**Gợi ý lựa chọn nhanh**: AdClear (hoặc Blokada), Youtube Vanced, Brave Browser
 ### iOS
 1. Dạng chạy giả lập VPN
 - [Surge](https://itunes.apple.com/app/surge-3/id1442620678?mt=8): bản chất là ứng dụng phân tích truy vấn mạng, nhưng được tận dụng để có thể chặn quảng cáo. Cần trả phí mới có tính năng HTTPS. Áp dụng nguyên lý 1. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Surge)
@@ -159,6 +159,8 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): tốt nhất, tương tự như Surge sau khi trả phí nâng cấp. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 
 2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
+
+**Gợi ý lựa chọn nhanh**: Surge, Adguard, Brave Brow
 
 ### DNS
 1. Như đã giới thiệu ngắn gọn ở các phần trước, DNS là định nghĩa hệ thống phân giải tên miền, mà ở đây ta cũng dùng để nói ngắn gọn phương thức chặn mà theo đó bạn thiết lập cho hệ thống/thiết bị kết nối tới hệ thống DNS khác:
@@ -174,11 +176,11 @@ Tuy nhiên, đối với dòng Router Asus vẫn có cách thiết lập khá d�
 - [Adguard DNS](https://adguard.com/en/adguard-dns/overview.html#instruction)
 - [nextdns](https://www.nextdns.io/): tạo tài khoản để có thể xem hướng dẫn riêng
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE5NTc2Njg0LDM3MjkyMjYyMCwxNDU4MD
-EzNjIyLDcyMDQyNzE4LDc4OTQxOTYyNyw1NzYwMDU0MjksLTE5
-OTI2Mjc0NzMsLTYzMzQ2ODQ3MywxMzgwNzE2NDM2LC0xMTg3MT
-k4NTI3LDE0Mzc3OTY5MiwxNTM5MDI0MTM3LDE2MzgwNjI3Nzgs
-LTYwNzY5MDQ5MCwyMDg3NDkwMzAzLC0xOTQwNjQ1NjksLTEyNz
-I1ODAzNzUsLTEwODI4NTU0MzEsMTk4NTQ1OTgzMywtMTI4Mzkw
-MTY2NF19
+eyJoaXN0b3J5IjpbLTIwNzg2NTUsMzcyOTIyNjIwLDE0NTgwMT
+M2MjIsNzIwNDI3MTgsNzg5NDE5NjI3LDU3NjAwNTQyOSwtMTk5
+MjYyNzQ3MywtNjMzNDY4NDczLDEzODA3MTY0MzYsLTExODcxOT
+g1MjcsMTQzNzc5NjkyLDE1MzkwMjQxMzcsMTYzODA2Mjc3OCwt
+NjA3NjkwNDkwLDIwODc0OTAzMDMsLTE5NDA2NDU2OSwtMTI3Mj
+U4MDM3NSwtMTA4Mjg1NTQzMSwxOTg1NDU5ODMzLC0xMjgzOTAx
+NjY0XX0=
 -->
