@@ -48,6 +48,7 @@ a) Do Google tích hợp thêm khả năng cho phép Chrome tự bỏ qua DNS tr
 - Gõ chính xác cụm sau **chrome://flags** để truy cập trang cấu hình. Ở ô tìm kiếm, gõ "async", bạn sẽ thấy "Async DNS Resolver". Chọn "Disable" để tắt.
 - Chạm dấu ba chấm dọc để vào "Settings", chọn tiếp "Data Saver" và gạt sang "Off" để tắt.
 ![Hình 3](https://i.imgur.com/PB65rB9.jpg)
+
 b) Firefox đang dần tích hợp tính năng bảo mật DNS (DNS-over-HTTPS) nên có thể cũng bỏ qua DNS trên máy, khiến cũng bị tình trạng tương tự như trên. Bạn tắt bằng cách sau:
 - Gõ chính xác cụm sau **about:config** để truy cập trang cấu hình.
 - Gõ vào thanh tìm kiếm để tìm **network.trr.mode**. Chỉnh lại nếu cần để đảm bảo giá trị cho thuộc tính này là **0**
@@ -60,6 +61,6 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE2Mzc5NDQ4LDU3NTIyMTYxNCwxMDYxNT
-QxMTMyXX0=
+eyJoaXN0b3J5IjpbMTMyODkyOTQxOCw0MTYzNzk0NDgsNTc1Mj
+IxNjE0LDEwNjE1NDExMzJdfQ==
 -->
