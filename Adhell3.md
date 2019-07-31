@@ -30,8 +30,8 @@ Vào link MediaFire dưới đây và chỉ cần tải tập tin có tên **ah3
 
 ### Khởi chạy, cấu hình và sử dụng Adhell3
 1. Mở Adhell3. Lần đầu tiên chạy:
-- app sẽ đề nghị kích hoạt chức năng quản trị, chọn "Enable Admin permission"> "Activate"
-- điền key đã mua vào rồi "Submit/Activate License". Kể từ bây giờ Adhell3 sẽ chạy bình thường.
+- App sẽ đề nghị kích hoạt chức năng quản trị, chọn "Enable Admin permission"> "Activate"
+- Điền key đã mua vào rồi "Submit/Activate License". Kể từ bây giờ Adhell3 sẽ chạy bình thường.
 2. Vào "Domains"> "Providers", thêm hostsVN-dạng-domain theo link sau:
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 
@@ -53,7 +53,7 @@ b) Firefox đang dần tích hợp tính năng bảo mật DNS (DNS-over-HTTPS) 
 - Gõ chính xác cụm sau **about:config** để truy cập trang cấu hình.
 - Gõ vào thanh tìm kiếm để tìm **network.trr.mode**. Chỉnh lại nếu cần để đảm bảo giá trị cho thuộc tính này là **0**
 
-### Khắc phục một số vấn đề
+### Khắc phục vấn đề
 Nếu bạn cần gỡ bỏ Adhell3 thì nhớ hủy quyền hạn quản trị bằng cách vào `Cài đặt> Màn hình khóa và bảo mật> Cài đặt bảo mật khác> Ứng dụng quản trị thiết bị` (Settings> Lock screen and security> Other security settings> Device admin apps).  
 
 Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo hướng dẫn của chúng tôi. Hãy thử trải nghiệm nhé, đảm bảo bạn sẽ thấy cách chặn quảng cáo trên Samsung hiệu quả hơn rất nhiều trên các máy Android khác và bên iOS.
@@ -61,6 +61,6 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQyNjE5MTAsNDE2Mzc5NDQ4LDU3NT
-IyMTYxNCwxMDYxNTQxMTMyXX0=
+eyJoaXN0b3J5IjpbLTEyNjk0MDc2OSw0MTYzNzk0NDgsNTc1Mj
+IxNjE0LDEwNjE1NDExMzJdfQ==
 -->
