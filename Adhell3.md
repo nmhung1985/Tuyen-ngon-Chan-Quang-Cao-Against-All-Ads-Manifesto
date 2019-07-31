@@ -29,7 +29,7 @@ Vào link MediaFire dưới đây và chỉ cần tải tập tin có tên **ah3
 ### Khởi chạy, cấu hình và sử dụng Adhell3
 1. Mở Adhell3. Lần đầu tiên chạy:
 - app sẽ đề nghị kích hoạt chức năng quản trị, chọn "Enable Admin permission"> "Activate"
-- điền key Knox vào rồi "Submit/Activate License". Kể từ bây giờ Adhell3 sẽ chạy bình thường.
+- điền key đã mua vào rồi "Submit/Activate License". Kể từ bây giờ Adhell3 sẽ chạy bình thường.
 2. Vào "Domains"> "Providers", thêm hostsVN-dạng-domain theo link sau:
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 3. Vào "Domains"> "Blacklist", tạo thêm các rule sau:
@@ -55,5 +55,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTEzMTc3NiwxMDYxNTQxMTMyXX0=
+eyJoaXN0b3J5IjpbMTc0NTY0MjU2MSwxMDYxNTQxMTMyXX0=
 -->
