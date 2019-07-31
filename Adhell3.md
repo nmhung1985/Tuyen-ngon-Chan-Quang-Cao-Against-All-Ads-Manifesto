@@ -8,6 +8,8 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 - có thêm tính năng vô hiệu hóa các app ít dùng
 - Điểm trừ: Samsung đã chặn cách kích hoạt miễn phí, nên hiện tại phải tốn phí. Nhưng phí chỉ tương đương 1-2 ly cà phê mà có giấy phép vĩnh viễn (không bị phiền với việc thao tác nhiều bước và phải làm mỗi 3 tháng một lần như lúc miễn phí).
 
+![Hình 1]
+
 ### Thông tin về cách cài đặt
 - Samsung không hỗ trợ các loại app chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên, nên các loại app này sẽ không bao giờ có bản công khai chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không build sẵn app để tải về, mà đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của app. Tuy nhiên, trong cộng đồng có một người khác đã hỗ trợ build sẵn. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
 
@@ -55,5 +57,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTY0MjU2MSwxMDYxNTQxMTMyXX0=
+eyJoaXN0b3J5IjpbLTEwNTEyNTAwODcsMTA2MTU0MTEzMl19
 -->
