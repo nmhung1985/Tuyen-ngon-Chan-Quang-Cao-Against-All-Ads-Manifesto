@@ -37,9 +37,9 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 
 ![Hình 2](https://i.imgur.com/mfiU6BF.jpg)
 
-3. Vào "Domains"> "Blacklist", tạo thêm các rule sau:
-  Trình duyệt Chrome: `com.android.chrome|*|53`
-  Trình duyệt của Samsung (**có thể chỉ cần làm cho Note 9 và/hoặc Pie**): `com.sec.android.app.sbrowser|*|53`
+3. Vào "Domains"> "Blacklist", tạo thêm các rule sau:\
+Trình duyệt Chrome: `com.android.chrome|*|53`\
+Trình duyệt của Samsung (**có thể chỉ cần làm cho Note 9 và/hoặc Pie**): `com.sec.android.app.sbrowser|*|53`
 
 4. Về "Home", gạt để kích hoạt "Domain rules" và "Firewall rules".
 
@@ -61,6 +61,6 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk0MDc2OSw0MTYzNzk0NDgsNTc1Mj
-IxNjE0LDEwNjE1NDExMzJdfQ==
+eyJoaXN0b3J5IjpbLTI5OTkyMzA0MSwtMTI2OTQwNzY5LDQxNj
+M3OTQ0OCw1NzUyMjE2MTQsMTA2MTU0MTEzMl19
 -->
