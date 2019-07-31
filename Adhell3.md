@@ -8,7 +8,7 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 - có thêm tính năng vô hiệu hóa các app ít dùng
 - Điểm trừ: Samsung đã chặn cách kích hoạt miễn phí, nên hiện tại phải tốn phí. Nhưng phí chỉ tương đương 1-2 ly cà phê mà có giấy phép vĩnh viễn (không bị phiền với việc thao tác nhiều bước và phải làm mỗi 3 tháng một lần như lúc miễn phí).
 
-![Hình 1]
+![Hình 1](https://i.imgur.com/OxcgCcc.jpg)
 
 ### Thông tin về cách cài đặt
 - Samsung không hỗ trợ các loại app chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên, nên các loại app này sẽ không bao giờ có bản công khai chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không build sẵn app để tải về, mà đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của app. Tuy nhiên, trong cộng đồng có một người khác đã hỗ trợ build sẵn. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
@@ -34,6 +34,8 @@ Vào link MediaFire dưới đây và chỉ cần tải tập tin có tên **ah3
 - điền key đã mua vào rồi "Submit/Activate License". Kể từ bây giờ Adhell3 sẽ chạy bình thường.
 2. Vào "Domains"> "Providers", thêm hostsVN-dạng-domain theo link sau:
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+
+![Hình 2](https://i.imgur.com/mfiU6BF.jpg)
 3. Vào "Domains"> "Blacklist", tạo thêm các rule sau:
   Trình duyệt Chrome: `com.android.chrome|*|53`
   Trình duyệt của Samsung (**có thể chỉ cần làm cho Note 9 và/hoặc Pie**): `com.sec.android.app.sbrowser|*|53`
@@ -42,7 +44,7 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 a) Do Google tích hợp thêm khả năng cho phép Chrome tự bỏ qua DNS trên máy để dùng trực tiếp DNS 8.8.8.8 của họ (tính năng "Data Saver" cũng tương tự), khiến bộ lọc có thể không còn tác dụng. Khi đó, bạn tắt các tính năng này bằng cách sau:
 - Gõ chính xác cụm sau **chrome://flags** để truy cập trang cấu hình. Ở ô tìm kiếm, gõ "async", bạn sẽ thấy "Async DNS Resolver". Chọn "Disable" để tắt.
 - Chạm dấu ba chấm dọc để vào "Settings", chọn tiếp "Data Saver" và gạt sang "Off" để tắt.
-
+![Hình 3
 b) Firefox đang dần tích hợp tính năng bảo mật DNS (DNS-over-HTTPS) nên có thể cũng bỏ qua DNS trên máy, khiến cũng bị tình trạng tương tự như trên. Bạn tắt bằng cách sau:
 - Gõ chính xác cụm sau **about:config** để truy cập trang cấu hình.
 - Gõ vào thanh tìm kiếm để tìm **network.trr.mode**. Chỉnh lại nếu cần để đảm bảo giá trị cho thuộc tính này là **0**
@@ -57,5 +59,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEyNTAwODcsMTA2MTU0MTEzMl19
+eyJoaXN0b3J5IjpbLTE5MDc5MjY1ODIsMTA2MTU0MTEzMl19
 -->
