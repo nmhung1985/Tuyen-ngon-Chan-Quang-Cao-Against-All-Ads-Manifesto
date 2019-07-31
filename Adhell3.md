@@ -1,8 +1,4 @@
-Bài viết hướng dẫn cài Adhell3 cho dòng máy Samsung. Thông tin mới nhất luôn được cập nhật ở bài đầu này. (Các thông tin cũ nhưng có tính tham khảo sẽ được post ở dưới comment nếu cần).
-
-___________________
-
-### Adhell3 - App chặn quảng cáo hiệu quả nhất cho riêng dòng máy Samsung
+# Adhell3 - App chặn quảng cáo hiệu quả nhất cho riêng dòng máy Samsung
 Riêng đối với Samsung, hãng này có tích hợp module Knox trong các dòng máy của họ để thực hiện các tính năng bảo mật đặc biệt độc quyền, trong đó có tính năng tường lửa. Tận dụng module này, các nhà phát triển đã viết app Adhell3 để hỗ trợ chặn quảng cáo trên máy Samsung với các ưu điểm sau:
 - **KHÔNG CẦN** root 
 -  **KHÔNG** chạy nền, **KHÔNG** làm tốn pin như cách chặn dạng tạo VPN giả lập nội bộ
@@ -56,5 +52,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTU0MTEzMl19
+eyJoaXN0b3J5IjpbLTEzMzk5MDU3OTUsMTA2MTU0MTEzMl19
 -->
