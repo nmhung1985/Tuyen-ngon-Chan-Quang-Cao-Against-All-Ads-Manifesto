@@ -140,6 +140,8 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 **Đang vội và muốn thử ngay?** Nano Adblocker & Nano Defender
 
 ### Android
+- [Adhell3](https://gitlab.com/fusionjack/adhell3) (Trả phí): ==**Tốt nhất!**== **cho và chỉ duy nhất máy Samsung**. Chèn thông tin trực tiếp vào hệ thống Knox và can thiệp sâu vào hệ thống mà *không cần root* (nên không được Samsung cho phép chính thức). Hướng dẫn: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/Adhell3.md)
+
 - [AdClear](https://adclear.com/en/adclear-installation.php): giả lập VPN, DNS, hỗ trợ HTTPS, có tính năng tường lửa, chưa hỗ trợ thêm bộ danh sách lọc. Mặc định không thiết lập chặn hết tất cả ứng dụng trên thiết bị mà chỉ những ứng dụng AdClear cho rằng có thể có quảng cáo, còn lại để người dùng khám phá cách bật/tắt chặn đối với **từng** ứng dụng. 
 
 - [Blokada](https://blokada.org/): giả lập VPN, có tính năng kết nối VPN thật (cần trả phí), DNS, chưa hỗ trợ HTTPS (tác giả biết nhưng đang cân nhắc vì sự bảo mật của người dùng -> có vẻ như là rất có trách nhiệm, nên lưu ý để ủng hộ :). Hướng dẫn: [1](https://trainghiemso.vn/blokada-chan-quang-cao-tren-android/)
@@ -151,8 +153,6 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 - [Nebulo](https://play.google.com/store/apps/details?id=com.frostnerd.smokescreen): giả lập VPN, ứng dụng duy nhất trong danh sách này có hỗ trợ DNS mã hóa, chưa hỗ trợ HTTPS
 
 - [AdAway](https://adaway.org/) (**phải root**): chặn dạng hosts, liệt kê ở đây vì đã nổi tiếng lâu đời chứ để dùng ngay thì khó.
-
-- [Adhell3](https://gitlab.com/fusionjack/adhell3) (Trả phí): ==**Tốt nhất!**== **cho và chỉ duy nhất máy Samsung**. Chèn thông tin trực tiếp vào hệ thống Knox của máy Samsung và can thiệp sâu vào hệ thống mà không cần root (nên không được Samsung cho phép chính thức). Đang beta test vụ trả phí nên đến thời điểm này (29/7/2019) chưa thể mua được. Hướng dẫn: [1](https://github.com/nmhung1985/Tuyen-ngon-Chan-Quang-Cao-Against-All-Ads-Manifesto/blob/master/Adhell3.md)
 
 - Disconnect Pro (Trả phí): không được đánh giá cao nhưng do hơi đặc biệt nên cần nhắc tới. Có vẻ như có mối quan hệ tốt nên là ứng dụng duy nhất được Samsung chính thức cho phép can thiệp Knox, và bộ lọc của họ được trình duyệt của Mozilla, Brave sử dụng chính thức. Có phiên bản chạy dạng VPN cho các máy Android khác, tên "Disconnect Premium VPN". 
 
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzIxMDIwNiw4MzkyOTg2NjAsMTI1Mz
-k0MTM1NSwtMTI1NjUyMjMwMiwzNDE2NzkwNTUsNjM1OTcwODk0
-LC01MjYzMDI5MjYsNDk2NjM4MzI2LC03ODYxNzAwNjYsMTcxMj
-MzODA3MCwtNDExOTUxMDM2LC05NjE1ODgyMCwtMTAyMTc1MTMy
-OSwxMjM3OTcwNTI2LDc2NjcwMDgxOCwtODY5OTM2MTI5LC0xNz
-MzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3MTMzNCwyNzg0MTA2
-MjddfQ==
+eyJoaXN0b3J5IjpbLTEwNzE1NDg5NDIsODM5Mjk4NjYwLDEyNT
+M5NDEzNTUsLTEyNTY1MjIzMDIsMzQxNjc5MDU1LDYzNTk3MDg5
+NCwtNTI2MzAyOTI2LDQ5NjYzODMyNiwtNzg2MTcwMDY2LDE3MT
+IzMzgwNzAsLTQxMTk1MTAzNiwtOTYxNTg4MjAsLTEwMjE3NTEz
+MjksMTIzNzk3MDUyNiw3NjY3MDA4MTgsLTg2OTkzNjEyOSwtMT
+czMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEw
+NjI3XX0=
 -->
