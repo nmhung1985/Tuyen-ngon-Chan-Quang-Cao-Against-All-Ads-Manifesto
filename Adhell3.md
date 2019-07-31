@@ -3,9 +3,9 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 - **KHÔNG CẦN** root 
 -  **KHÔNG** chạy nền, **KHÔNG** làm tốn pin như cách chặn dạng tạo VPN giả lập nội bộ
 - **KHÔNG** bị chậm như cách chặn dạng DNS
-- cực kỳ nhanh và hiệu quả do mọi thứ được chính module tường lửa chính hãng xử lý
-- có thêm tính năng vô hiệu hóa thành phần của app (vd một số app đòi nhiều quyền truy cập danh bạ, hình ảnh không cần thiết)
-- có thêm tính năng vô hiệu hóa các app ít dùng
+- Cực kỳ nhanh và hiệu quả do mọi thứ được chính module tường lửa chính hãng xử lý
+- Có thêm tính năng vô hiệu hóa thành phần của app (vd một số app đòi nhiều quyền truy cập danh bạ, hình ảnh không cần thiết)
+- Có thêm tính năng vô hiệu hóa các app ít dùng
 - Điểm trừ: Samsung đã chặn cách kích hoạt miễn phí, nên hiện tại phải tốn phí. Nhưng phí chỉ tương đương 1-2 ly cà phê mà có giấy phép vĩnh viễn (không bị phiền với việc thao tác nhiều bước và phải làm mỗi 3 tháng một lần như lúc miễn phí).
 
 ![Hình 1](https://i.imgur.com/OxcgCcc.jpg)
@@ -61,6 +61,6 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODkyOTQxOCw0MTYzNzk0NDgsNTc1Mj
-IxNjE0LDEwNjE1NDExMzJdfQ==
+eyJoaXN0b3J5IjpbLTE5MTQyNjE5MTAsNDE2Mzc5NDQ4LDU3NT
+IyMTYxNCwxMDYxNTQxMTMyXX0=
 -->
