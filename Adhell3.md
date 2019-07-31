@@ -16,6 +16,8 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 ### Cách mua key
 Nhóm tác giả đang thử nghiệm giới hạn nên có thể cần chịu khó chờ. 
 1. Đầu tiên bạn tham gia vào Discord chính thức của Adhell3 tại https://discord.gg/prqxx5D
+2. Thiết lập thông báo cho kênh #general là "Only @mentions"
+3. Khi nào ứng dụng Discord thông báo thi
 
 Đó là bạn có thể viết và gửi đề nghị tới địa chỉ email sau: **smileappbeta@gmail.com** 
 
@@ -53,5 +55,5 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Hình ảnh:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzkzNDY1OCwxMDYxNTQxMTMyXX0=
+eyJoaXN0b3J5IjpbLTI5NTE1ODAwNSwxMDYxNTQxMTMyXX0=
 -->
