@@ -162,7 +162,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US): trình duyệt chuyên biệt chặn quảng cáo nên áp dụng được cả 2 nguyên lý, chặn được quảng cáo YouTube, dùng kết hợp bộ lọc của Disconnect và EasyList.
 
-- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US) (bản chuẩn cho Android): do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính.
+- [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox&hl=en_US) (bản chuẩn cho Android): do có thể cài tiện ích như bản cho máy tính nên mọi thông tin đều tương tự như phần tiện ích cho máy tính (tức **chặn được quảng cáo YouTube**!).
 
 **Đang vội và muốn thử ngay?** AdClear (hoặc Blokada), Youtube Vanced
 ### iOS
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE1NDg5NDIsODM5Mjk4NjYwLDEyNT
-M5NDEzNTUsLTEyNTY1MjIzMDIsMzQxNjc5MDU1LDYzNTk3MDg5
-NCwtNTI2MzAyOTI2LDQ5NjYzODMyNiwtNzg2MTcwMDY2LDE3MT
-IzMzgwNzAsLTQxMTk1MTAzNiwtOTYxNTg4MjAsLTEwMjE3NTEz
-MjksMTIzNzk3MDUyNiw3NjY3MDA4MTgsLTg2OTkzNjEyOSwtMT
-czMzc4MzMyOCwtMTE2MDYyNDMzMSw4NjEyNzEzMzQsMjc4NDEw
-NjI3XX0=
+eyJoaXN0b3J5IjpbMTY2ODU0NDU1NywtMTA3MTU0ODk0Miw4Mz
+kyOTg2NjAsMTI1Mzk0MTM1NSwtMTI1NjUyMjMwMiwzNDE2Nzkw
+NTUsNjM1OTcwODk0LC01MjYzMDI5MjYsNDk2NjM4MzI2LC03OD
+YxNzAwNjYsMTcxMjMzODA3MCwtNDExOTUxMDM2LC05NjE1ODgy
+MCwtMTAyMTc1MTMyOSwxMjM3OTcwNTI2LDc2NjcwMDgxOCwtOD
+Y5OTM2MTI5LC0xNzMzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3
+MTMzNF19
 -->
