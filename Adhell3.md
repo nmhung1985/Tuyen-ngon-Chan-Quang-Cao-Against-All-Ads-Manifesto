@@ -12,7 +12,7 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 
 ### Thông tin về cách cài đặt
 - Samsung không hỗ trợ các loại ứng dụng chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên, nên các loại ứng dụng này sẽ không bao giờ có bản công khai chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không tạo sẵn ứng dụng để tải về. Trước đây, đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của ứng dụng. Tuy nhiên, trong cộng đồng có một người khác đã hỗ trợ build sẵn. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
-- Để kích hoạt ứng dụng, vẫn phải cần có mã key từ Samsung, gọi là KPE (Knox Platform for Enterprise). Trước đây, Samsung cho cá nhân được quyền tạo ra key này để thử nghiệm, có thể tạo lại mỗi 3 tháng. Tuy nhiên, hiện tại Samsung chỉ bánquyền tạo key này cho đối tác doanh nghiệp. Trong cộng đồng có một người ủng hộ tác giả nên họ đã đăng ký làm doanh nghiệp đối tác đó và có quyền tạo key thoải mái có thời hạn vĩnh viễn.
+- Để kích hoạt ứng dụng, vẫn phải cần có mã key từ Samsung, gọi là KPE (Knox Platform for Enterprise). Trước đây, Samsung cho cá nhân được quyền tạo ra key này để thử nghiệm, có thể tạo lại mỗi 3 tháng. Tuy nhiên, hiện tại Samsung chỉ bán quyền tạo key này cho đối tác doanh nghiệp. Trong cộng đồng có một người ủng hộ tác giả nên họ đã đăng ký làm doanh nghiệp đối tác đó và có quyền tạo key thoải mái có thời hạn vĩnh viễn.
 
 - Chỉ hỗ trợ Knox 2.6 trở lên. Để biết phiên bản Knox máy mình là gì, bạn vào `Cài đặt> Về điện thoại> Thông tin phần mềm` (Settings> About Phone> Software Information)
 
@@ -62,7 +62,7 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5Njg1Njg2LC0xMDIyNDg1NTUzLC0yOT
-k5MjMwNDEsLTEyNjk0MDc2OSw0MTYzNzk0NDgsNTc1MjIxNjE0
-LDEwNjE1NDExMzJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDM2MzYzMTYsLTEwMjI0ODU1NTMsLT
+I5OTkyMzA0MSwtMTI2OTQwNzY5LDQxNjM3OTQ0OCw1NzUyMjE2
+MTQsMTA2MTU0MTEzMl19
 -->
