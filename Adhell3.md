@@ -12,6 +12,7 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 
 ### Thông tin về cách cài đặt
 - Samsung không hỗ trợ các loại ứng dụng chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên, nên các loại ứng dụng này sẽ không bao giờ có bản công khai chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không tạo sẵn ứng dụng để tải về. Trước đây, đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của ứng dụng. Tuy nhiên, trong cộng đồng có một người khác đã hỗ trợ build sẵn. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
+- Để kích hoạt sản phẩm, 
 
 - Chỉ hỗ trợ Knox 2.6 trở lên. Để biết phiên bản Knox máy mình là gì, bạn vào `Cài đặt> Về điện thoại> Thông tin phần mềm` (Settings> About Phone> Software Information)
 
@@ -61,7 +62,7 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njk2Mjg5NCwtMjk5OTIzMDQxLC0xMj
+eyJoaXN0b3J5IjpbLTc5NTQyOTczNSwtMjk5OTIzMDQxLC0xMj
 Y5NDA3NjksNDE2Mzc5NDQ4LDU3NTIyMTYxNCwxMDYxNTQxMTMy
 XX0=
 -->
