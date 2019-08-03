@@ -6,13 +6,13 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 - Cực kỳ nhanh và hiệu quả do mọi thứ được chính module tường lửa chính hãng xử lý
 - Có thêm tính năng vô hiệu hóa thành phần của ứng dụng (vd một số ứng dụng đòi nhiều quyền truy cập danh bạ, hình ảnh không cần thiết)
 - Có thêm tính năng vô hiệu hóa các ứng dụng ít dùng
-- Điểm trừ: Samsung đã chặn cách kích hoạt miễn phí, nên hiện tại phải tốn phí. Nhưng phí chỉ tương đương 1-2 ly cà phê mà có giấy phép vĩnh viễn (không bị phiền với việc thao tác nhiều bước và phải làm mỗi 3 tháng một lần như lúc miễn phí).
+
 
 ![Hình 1](https://i.imgur.com/OxcgCcc.jpg)
 
 ### Thông tin về cách cài đặt
 - Samsung không hỗ trợ các loại ứng dụng chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên, nên các loại ứng dụng này sẽ không bao giờ có bản công khai chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không tạo sẵn ứng dụng để tải về. Trước đây, đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của ứng dụng. Tuy nhiên, trong cộng đồng có một người khác đã hỗ trợ build sẵn. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
-- Để kích hoạt ứng dụng, vẫn phải cần có mã key từ Samsung, gọi là KPE (Knox Platform for Enterprise). Trước đây, Samsung cho cá nhân được quyền tạo ra key này để thử nghiệm, có thể tạo lại mỗi 3 tháng. Tuy nhiên, hiện tại Samsung chỉ cấp quyền tạo key này cho đối tác doanh nghiệp. Trong cộng đồng có một người ủng hộ tác giả nên họ đã đăng ký làm doanh nghiệp đối tác đó và có quyền tạo key thoải mái có thời hạn vĩnh viễn.
+- Để kích hoạt ứng dụng, vẫn phải cần có mã key từ Samsung, gọi là KPE (Knox Platform for Enterprise). Trước đây, Samsung cho cá nhân được quyền tạo ra key này để thử nghiệm, có thể tạo lại mỗi 3 tháng. Tuy nhiên, hiện tại Samsung chỉ bánquyền tạo key này cho đối tác doanh nghiệp. Trong cộng đồng có một người ủng hộ tác giả nên họ đã đăng ký làm doanh nghiệp đối tác đó và có quyền tạo key thoải mái có thời hạn vĩnh viễn.
 
 - Chỉ hỗ trợ Knox 2.6 trở lên. Để biết phiên bản Knox máy mình là gì, bạn vào `Cài đặt> Về điện thoại> Thông tin phần mềm` (Settings> About Phone> Software Information)
 
@@ -62,7 +62,7 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI0ODU1NTMsLTI5OTkyMzA0MSwtMT
-I2OTQwNzY5LDQxNjM3OTQ0OCw1NzUyMjE2MTQsMTA2MTU0MTEz
-Ml19
+eyJoaXN0b3J5IjpbODI5Njg1Njg2LC0xMDIyNDg1NTUzLC0yOT
+k5MjMwNDEsLTEyNjk0MDc2OSw0MTYzNzk0NDgsNTc1MjIxNjE0
+LDEwNjE1NDExMzJdfQ==
 -->
