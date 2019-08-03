@@ -1,17 +1,17 @@
-# Adhell3 - App chặn quảng cáo hiệu quả nhất cho riêng dòng máy Samsung
-Riêng đối với Samsung, hãng này có tích hợp module Knox trong các dòng máy của họ để thực hiện các tính năng bảo mật đặc biệt độc quyền, trong đó có tính năng tường lửa. Tận dụng module này, các nhà phát triển đã viết app Adhell3 để hỗ trợ chặn quảng cáo trên máy Samsung với các ưu điểm sau:
+# Adhell3 - Ứng dụng chặn quảng cáo hiệu quả nhất cho riêng dòng máy Samsung
+Riêng đối với Samsung, hãng này có tích hợp module Knox trong các dòng máy của họ để thực hiện các tính năng bảo mật đặc biệt độc quyền, trong đó có tính năng tường lửa. Tận dụng module này, các nhà phát triển đã viết ứng dụng Adhell3 để hỗ trợ chặn quảng cáo trên máy Samsung với các ưu điểm sau:
 - **KHÔNG CẦN** root 
 -  **KHÔNG** chạy nền, **KHÔNG** làm tốn pin như cách chặn dạng tạo VPN giả lập nội bộ
 - **KHÔNG** bị chậm như cách chặn dạng DNS
 - Cực kỳ nhanh và hiệu quả do mọi thứ được chính module tường lửa chính hãng xử lý
-- Có thêm tính năng vô hiệu hóa thành phần của app (vd một số app đòi nhiều quyền truy cập danh bạ, hình ảnh không cần thiết)
-- Có thêm tính năng vô hiệu hóa các app ít dùng
+- Có thêm tính năng vô hiệu hóa thành phần của ứng dụng (vd một số ứng dụng đòi nhiều quyền truy cập danh bạ, hình ảnh không cần thiết)
+- Có thêm tính năng vô hiệu hóa các ứng dụng ít dùng
 - Điểm trừ: Samsung đã chặn cách kích hoạt miễn phí, nên hiện tại phải tốn phí. Nhưng phí chỉ tương đương 1-2 ly cà phê mà có giấy phép vĩnh viễn (không bị phiền với việc thao tác nhiều bước và phải làm mỗi 3 tháng một lần như lúc miễn phí).
 
 ![Hình 1](https://i.imgur.com/OxcgCcc.jpg)
 
 ### Thông tin về cách cài đặt
-- Samsung không hỗ trợ các loại app chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên, nên các loại app này sẽ không bao giờ có bản công khai chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không build sẵn app để tải về, mà đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của app. Tuy nhiên, trong cộng đồng có một người khác đã hỗ trợ build sẵn. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
+- Samsung không hỗ trợ các loại ứng dụng chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên, nên các loại ứng dụng này sẽ không bao giờ có bản công khai chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không build sẵn ứng dụng để tải về, mà đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của ứng dụng. Tuy nhiên, trong cộng đồng có một người khác đã hỗ trợ build sẵn. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
 
 - Chỉ hỗ trợ Knox 2.6 trở lên. Để biết phiên bản Knox máy mình là gì, bạn vào `Cài đặt> Về điện thoại> Thông tin phần mềm` (Settings> About Phone> Software Information)
 
@@ -30,7 +30,7 @@ Vào link MediaFire dưới đây và chỉ cần tải tập tin có tên **ah3
 
 ### Khởi chạy, cấu hình và sử dụng Adhell3
 1. Mở Adhell3. Lần đầu tiên chạy:
-- App sẽ đề nghị kích hoạt chức năng quản trị, chọn "Enable Admin permission"> "Activate"
+- Ứng dụng sẽ đề nghị kích hoạt chức năng quản trị, chọn "Enable Admin permission"> "Activate"
 - Điền key đã mua vào rồi "Submit/Activate License". Kể từ bây giờ Adhell3 sẽ chạy bình thường.
 2. Vào "Domains"> "Providers", thêm hostsVN-dạng-domain theo link sau:
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
@@ -61,6 +61,7 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5OTkyMzA0MSwtMTI2OTQwNzY5LDQxNj
-M3OTQ0OCw1NzUyMjE2MTQsMTA2MTU0MTEzMl19
+eyJoaXN0b3J5IjpbLTEyMDM4NzgxNTcsLTI5OTkyMzA0MSwtMT
+I2OTQwNzY5LDQxNjM3OTQ0OCw1NzUyMjE2MTQsMTA2MTU0MTEz
+Ml19
 -->
