@@ -22,6 +22,7 @@ Nhóm tác giả đang thử nghiệm giới hạn nên có thể cần chịu k
 1. Đầu tiên bạn tham gia vào Discord chính thức của Adhell3 tại https://discord.gg/prqxx5D
 2. Thiết lập thông báo cho kênh #general là "Only @mentions" và bật chế độ thông báo cho ứng dụng Discord của bạn trên điện thoại, máy tính v.v...
 3. Khi nào ứng dụng Discord thông báo tin nhắn của nhóm tác giả thì vào đọc thông tin để đăng ký mua key.
+4. Chi phí là 3.20 USD. Thanh toán bằng Paypal hoặc Google Wallet
 (Nếu có gì chưa rõ, bạn có thể hỏi người viết qua email:
 nmhung1985 [A CÒNG] gmail.com)
 
@@ -63,7 +64,7 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTg2MDYzNiwyMDI3NzY5MjAyLC0xMD
-IyNDg1NTUzLC0yOTk5MjMwNDEsLTEyNjk0MDc2OSw0MTYzNzk0
-NDgsNTc1MjIxNjE0LDEwNjE1NDExMzJdfQ==
+eyJoaXN0b3J5IjpbMTA1OTQ5Njc3OSwxODI1ODYwNjM2LDIwMj
+c3NjkyMDIsLTEwMjI0ODU1NTMsLTI5OTkyMzA0MSwtMTI2OTQw
+NzY5LDQxNjM3OTQ0OCw1NzUyMjE2MTQsMTA2MTU0MTEzMl19
 -->
