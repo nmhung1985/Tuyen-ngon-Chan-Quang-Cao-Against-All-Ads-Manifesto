@@ -18,7 +18,7 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 - Chỉ hỗ trợ Knox 2.6 trở lên. Để biết phiên bản Knox máy mình là gì, bạn vào `Cài đặt> Về điện thoại> Thông tin phần mềm` (Settings> About Phone> Software Information)
 
 ### Cách mua key
-Nhóm tác giả đang thử nghiệm giới hạn nên có thể cần chịu khó chờ. 
+Nhóm tác giả đang thử nghiệm giới hạn nên phải làm việc như trong hội kín :D 
 1. Đầu tiên bạn tham gia vào Discord chính thức của Adhell3 tại https://discord.gg/prqxx5D
 2. Nhắn tin trực tiếp cho nick **B.O.S.S
 #0251** để được hướng dẫn quy trình mua key.
@@ -64,7 +64,7 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA5ODA3NTgsLTEzODQxMjYyMDQsMT
+eyJoaXN0b3J5IjpbLTE4OTEyNDEyMjYsLTEzODQxMjYyMDQsMT
 gyNTg2MDYzNiwyMDI3NzY5MjAyLC0xMDIyNDg1NTUzLC0yOTk5
 MjMwNDEsLTEyNjk0MDc2OSw0MTYzNzk0NDgsNTc1MjIxNjE0LD
 EwNjE1NDExMzJdfQ==
