@@ -175,7 +175,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): ==**Tốt nhất!**== Tương tự như Surge sau khi trả phí nâng cấp, nhưng không có DNS mã hóa. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 
-2. Trình duyệt riêng biệt:  [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)/[Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US) như trên Android
+2. Trình duyệt riêng biệt:  [Brave Browser](https://apps.apple.com/app/brave-fast-privacy-browser/id1052879175)/[Firefox Focus](https://apps.apple.com/app/firefox-private-safe-browser/id989804926) như trên Android
 
 **Đang vội và muốn thử ngay?** Surge, Adguard
 
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODU0NDU1NywtMTA3MTU0ODk0Miw4Mz
-kyOTg2NjAsMTI1Mzk0MTM1NSwtMTI1NjUyMjMwMiwzNDE2Nzkw
-NTUsNjM1OTcwODk0LC01MjYzMDI5MjYsNDk2NjM4MzI2LC03OD
-YxNzAwNjYsMTcxMjMzODA3MCwtNDExOTUxMDM2LC05NjE1ODgy
-MCwtMTAyMTc1MTMyOSwxMjM3OTcwNTI2LDc2NjcwMDgxOCwtOD
-Y5OTM2MTI5LC0xNzMzNzgzMzI4LC0xMTYwNjI0MzMxLDg2MTI3
-MTMzNF19
+eyJoaXN0b3J5IjpbLTI5NjY1MzEzMSwxNjY4NTQ0NTU3LC0xMD
+cxNTQ4OTQyLDgzOTI5ODY2MCwxMjUzOTQxMzU1LC0xMjU2NTIy
+MzAyLDM0MTY3OTA1NSw2MzU5NzA4OTQsLTUyNjMwMjkyNiw0OT
+Y2MzgzMjYsLTc4NjE3MDA2NiwxNzEyMzM4MDcwLC00MTE5NTEw
+MzYsLTk2MTU4ODIwLC0xMDIxNzUxMzI5LDEyMzc5NzA1MjYsNz
+Y2NzAwODE4LC04Njk5MzYxMjksLTE3MzM3ODMzMjgsLTExNjA2
+MjQzMzFdfQ==
 -->
