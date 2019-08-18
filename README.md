@@ -175,7 +175,7 @@ Các ứng dụng được liệt kê theo *cảm nhận tổng hợp* của cá
 
 - [Quantumult](https://itunes.apple.com/app/quantumult/id1252015438?mt=8) (Trả phí): ==**Tốt nhất!**== Tương tự như Surge sau khi trả phí nâng cấp, nhưng không có DNS mã hóa. Hướng dẫn: [1](https://github.com/bigdargon/hostsVN/wiki/Quantumult)
 
-2. Trình duyệt riêng biệt:  [Brave Browser](https://apps.apple.com/app/brave-fast-privacy-browser/id1052879175)/[Firefox Focus](https://apps.apple.com/app/firefox-private-safe-browser/id989804926) như trên Android
+2. Trình duyệt riêng biệt:  [Brave Browser](https://apps.apple.com/app/brave-fast-privacy-browser/id1052879175)/[Firefox Focus](https://apps.apple.com/app/firefox-focus-privacy-browser/id1055677337) như trên Android
 
 **Đang vội và muốn thử ngay?** Surge, Adguard
 
@@ -207,17 +207,17 @@ Ngoài ra:
 - Ứng dụng bảo mật thường rất cồng kềnh và nặng nề, do ít nhất phải có bộ máy phân tích nhận diện virus, mã độc.
 - Ứng dụng bảo mật tốt thì thường có giá đắt hơn nhiều so với ứng dụng chặn quảng cáo.
 
-Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
+Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng dụng bảo mật cho an toàn. Nhưng riêng tác giả bài viết này hiện chỉ dùng các ứng dụng chặn quảng cáo.
 
 ## Thông tin thêm
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjY1MzEzMSwxNjY4NTQ0NTU3LC0xMD
-cxNTQ4OTQyLDgzOTI5ODY2MCwxMjUzOTQxMzU1LC0xMjU2NTIy
-MzAyLDM0MTY3OTA1NSw2MzU5NzA4OTQsLTUyNjMwMjkyNiw0OT
-Y2MzgzMjYsLTc4NjE3MDA2NiwxNzEyMzM4MDcwLC00MTE5NTEw
-MzYsLTk2MTU4ODIwLC0xMDIxNzUxMzI5LDEyMzc5NzA1MjYsNz
-Y2NzAwODE4LC04Njk5MzYxMjksLTE3MzM3ODMzMjgsLTExNjA2
-MjQzMzFdfQ==
+eyJoaXN0b3J5IjpbMzA3MDQ4NDAwLDE2Njg1NDQ1NTcsLTEwNz
+E1NDg5NDIsODM5Mjk4NjYwLDEyNTM5NDEzNTUsLTEyNTY1MjIz
+MDIsMzQxNjc5MDU1LDYzNTk3MDg5NCwtNTI2MzAyOTI2LDQ5Nj
+YzODMyNiwtNzg2MTcwMDY2LDE3MTIzMzgwNzAsLTQxMTk1MTAz
+NiwtOTYxNTg4MjAsLTEwMjE3NTEzMjksMTIzNzk3MDUyNiw3Nj
+Y3MDA4MTgsLTg2OTkzNjEyOSwtMTczMzc4MzMyOCwtMTE2MDYy
+NDMzMV19
 -->
