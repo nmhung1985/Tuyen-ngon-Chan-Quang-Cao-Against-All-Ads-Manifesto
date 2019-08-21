@@ -19,7 +19,7 @@ Nói chung các dữ liệu rác rưởi và độc hại này (gọi chung là 
 
 Do đó, áp dụng phương thức **Chặn Quảng Cáo** (CQC) hiệu quả sẽ khiến hệ thống hoặc thiết bị của bạn luôn tải nhanh chóng và thể hiện đúng thông tin cần thiết, giúp đem lại một trải nghiệm an toàn và vui vẻ.
 
-*Hình minh họa 1: Sau khi áp dụng chặn quảng cáo, lưu lượng và thời gian tải được giảm tới gần 3 lần*
+*Hình minh họa 1: Sau khi áp dụng chặn quảng cáo, lưu lượng và thời gian tải được giảm tới gần 3 lần (Nguồn: Adguard)*
 
 ![So sánh trước và sau khi chặn](https://cdn.adguard.com/public/Adguard/Blog/AGHome/devcomp.jpg)
 
@@ -38,7 +38,7 @@ Các chương trình, phần mềm và ứng dụng (gọi chung là "**ứng d�
 - Ưu điểm thường thấy là có thể ẩn quảng cáo của YouTube, giữ bố cục trang web gọn gàng
 -  **Không bao giờ được áp dụng riêng** mà luôn bổ sung thêm cho nguyên lý trên, giúp nâng cao khả năng chặn.
 
-*Hình minh họa 2: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2.*
+*Hình minh họa 2: Bên trái áp dụng nguyên lý 1 chặn được quảng cáo nhưng vẫn còn khoảng trống bị dư thừa. Bên phải là sau khi áp dụng thêm nguyên lý 2 (Nguồn: Adguard)*
 
 ![So sánh nguyên lý 1 và 2](https://cdn.adguard.com/public/Adguard/Blog/Android/comparison/ad_leftovers_resized.png?1)
 
@@ -213,11 +213,11 @@ Cho nên những người cẩn thận vẫn có thể thích cài nhiều ứng
 Nếu có thông tin gì cần biết thêm hoặc chỉ đơn giản là có cảm nhận hoặc ý kiến gì về bài viết, bạn có thể thoải mái gửi email cho người viết theo địa chỉ:
 nmhung1985 [A CÒNG] gmail.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3MDQ4NDAwLDE2Njg1NDQ1NTcsLTEwNz
-E1NDg5NDIsODM5Mjk4NjYwLDEyNTM5NDEzNTUsLTEyNTY1MjIz
-MDIsMzQxNjc5MDU1LDYzNTk3MDg5NCwtNTI2MzAyOTI2LDQ5Nj
-YzODMyNiwtNzg2MTcwMDY2LDE3MTIzMzgwNzAsLTQxMTk1MTAz
-NiwtOTYxNTg4MjAsLTEwMjE3NTEzMjksMTIzNzk3MDUyNiw3Nj
-Y3MDA4MTgsLTg2OTkzNjEyOSwtMTczMzc4MzMyOCwtMTE2MDYy
-NDMzMV19
+eyJoaXN0b3J5IjpbLTIyNjkxODc1NCwzMDcwNDg0MDAsMTY2OD
+U0NDU1NywtMTA3MTU0ODk0Miw4MzkyOTg2NjAsMTI1Mzk0MTM1
+NSwtMTI1NjUyMjMwMiwzNDE2NzkwNTUsNjM1OTcwODk0LC01Mj
+YzMDI5MjYsNDk2NjM4MzI2LC03ODYxNzAwNjYsMTcxMjMzODA3
+MCwtNDExOTUxMDM2LC05NjE1ODgyMCwtMTAyMTc1MTMyOSwxMj
+M3OTcwNTI2LDc2NjcwMDgxOCwtODY5OTM2MTI5LC0xNzMzNzgz
+MzI4XX0=
 -->
