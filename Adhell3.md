@@ -20,10 +20,7 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 ### Cách mua key
 Nhóm tác giả đang thử nghiệm giới hạn nên phải làm việc như trong hội kín :D 
 1. Đầu tiên bạn tham gia vào Discord chính thức của Adhell3 tại https://discord.gg/prqxx5D
-2. Nhắn tin trực tiếp cho nick **B.O.S.S
-#0251** để được hướng dẫn quy trình mua key.
-3. Chi phí hiện tại là 3.20 USD. Thanh toán bằng Paypal hoặc Google Wallet. Nếu bạn không có 2 tài khoản này thì hãy hỏi nhóm tác giả xem có thể trả bằng hình thức khác được không.
-(Nếu có gì chưa rõ, bạn có thể hỏi người viết qua email:
+2. Nhóm tác giả đã yêu cầu người viết bỏ các thông tin chi tiết. Nên để biết thêm, bạn có thể hỏi người viết qua email:
 nmhung1985 [A CÒNG] gmail.com)
 
 ### Tải về
@@ -64,8 +61,8 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTEyNDEyMjYsLTEzODQxMjYyMDQsMT
-gyNTg2MDYzNiwyMDI3NzY5MjAyLC0xMDIyNDg1NTUzLC0yOTk5
-MjMwNDEsLTEyNjk0MDc2OSw0MTYzNzk0NDgsNTc1MjIxNjE0LD
-EwNjE1NDExMzJdfQ==
+eyJoaXN0b3J5IjpbLTY5ODE4OTgwNywtMTg5MTI0MTIyNiwtMT
+M4NDEyNjIwNCwxODI1ODYwNjM2LDIwMjc3NjkyMDIsLTEwMjI0
+ODU1NTMsLTI5OTkyMzA0MSwtMTI2OTQwNzY5LDQxNjM3OTQ0OC
+w1NzUyMjE2MTQsMTA2MTU0MTEzMl19
 -->
