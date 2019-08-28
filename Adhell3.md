@@ -21,7 +21,7 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 Nhóm tác giả đang thử nghiệm giới hạn nên phải làm việc như trong hội kín :D 
 1. Đầu tiên bạn tham gia vào Discord chính thức của Adhell3 tại https://discord.gg/prqxx5D
 2. Nhóm tác giả đã yêu cầu người viết bỏ các thông tin chi tiết. Nên để biết thêm, bạn có thể hỏi người viết qua email:
-nmhung1985 [A CÒNG] gmail.com)
+nmhung1985 [A CÒNG] gmail.com
 
 ### Tải về
 Vào link MediaFire dưới đây và chỉ cần tải tập tin có tên **ah3_v3.2.xxx...** ở ngoài. 
@@ -61,8 +61,8 @@ Như vậy là đã hoàn thành. Chúc mừng bạn đã chịu khó làm theo 
 Trang tổng hợp hình ảnh minh họa:
 http://imgur.com/gallery/aKhDQvu
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODE4OTgwNywtMTg5MTI0MTIyNiwtMT
-M4NDEyNjIwNCwxODI1ODYwNjM2LDIwMjc3NjkyMDIsLTEwMjI0
-ODU1NTMsLTI5OTkyMzA0MSwtMTI2OTQwNzY5LDQxNjM3OTQ0OC
-w1NzUyMjE2MTQsMTA2MTU0MTEzMl19
+eyJoaXN0b3J5IjpbLTIxMTA5MjIxMDgsLTE4OTEyNDEyMjYsLT
+EzODQxMjYyMDQsMTgyNTg2MDYzNiwyMDI3NzY5MjAyLC0xMDIy
+NDg1NTUzLC0yOTk5MjMwNDEsLTEyNjk0MDc2OSw0MTYzNzk0ND
+gsNTc1MjIxNjE0LDEwNjE1NDExMzJdfQ==
 -->
