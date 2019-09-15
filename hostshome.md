@@ -10,6 +10,7 @@
 192.168.1.2 play.google.com
 192.168.1.2 play.googleapis.com
 192.168.1.2 ggpht.com
+192.168.1.2 yt3.ggpht.com
 192.168.1.2 gvt1.com
 192.168.1.2 gvt2.com
 192.168.1.2 beacons.gvt2.com
