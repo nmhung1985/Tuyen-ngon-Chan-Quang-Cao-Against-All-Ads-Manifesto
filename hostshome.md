@@ -5,7 +5,7 @@
 192.168.1.2 youtube.com
 #! 192.168.1.2 www.youtube.com
 192.168.1.2 m.youtube.com
-192.168.1.2 android.googleapis.com
+#! 192.168.1.2 android.googleapis.com
 #! 192.168.1.2 clients4.google.com #assistant
 192.168.1.2 play.google.com
 192.168.1.2 play.googleapis.com
