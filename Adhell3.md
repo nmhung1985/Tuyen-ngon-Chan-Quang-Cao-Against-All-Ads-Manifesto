@@ -7,8 +7,8 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 - Có thêm tính năng vô hiệu hóa thành phần của ứng dụng (vd một số ứng dụng đòi nhiều quyền truy cập danh bạ, hình ảnh không cần thiết)
 - Có thêm tính năng vô hiệu hóa các ứng dụng ít dùng
 
+[<img src="https://i.imgur.com/OxcgCcc.jpg" width="372" height="752">](https://i.imgur.com/OxcgCcc.jpg)
 
-![Hình 1](https://i.imgur.com/OxcgCcc.jpg)
 
 ### Thông tin về cách cài đặt
 - Samsung không hỗ trợ các loại ứng dụng chặn quảng cáo này do có thể ảnh hưởng đến lợi ích của nhiều bên, nên các loại ứng dụng này sẽ không bao giờ có bản công khai chính thức hoặc trên Play Store. Để tránh bị Samsung làm phiền, bản thân tác giả không tạo sẵn ứng dụng để tải về. Trước đây, đáng nhẽ mỗi người sẽ phải tự làm thao tác build và đổi ID của ứng dụng. Tuy nhiên, trong cộng đồng có một người đã hỗ trợ build sẵn. Vì vậy, thực ra thì chúng ta không cần phải làm gì phức tạp, mà đây chỉ là thông tin thêm cho các bạn rõ.
@@ -35,7 +35,8 @@ Vào link MediaFire dưới đây và chỉ cần tải tập tin có tên **ah3
 2. Vào "Domains"> "Providers", thêm hostsVN-dạng-domain theo link sau:
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
 
-![Hình 2](https://i.imgur.com/mfiU6BF.jpg)
+[<img src="https://i.imgur.com/mfiU6BF.jpg" width="372" height="752">](https://i.imgur.com/mfiU6BF.jpg)
+
 
 3. Vào "Domains"> "Blacklist", tạo thêm các rule sau:\
 Trình duyệt Chrome: `com.android.chrome|*|53`\
@@ -50,8 +51,8 @@ a) Do Google tích hợp thêm khả năng cho phép Chrome tự bỏ qua DNS tr
 - Gõ chính xác cụm sau **chrome://flags** để truy cập trang cấu hình. Ở ô tìm kiếm, gõ "async", bạn sẽ thấy "Async DNS Resolver". Chọn "Disable" để tắt.
 - Chạm dấu ba chấm dọc để vào "Settings", chọn tiếp "Data Saver" và gạt sang "Off" để tắt.
 
-[<img src="https://i.imgur.com/PB65rB9.jpg" width="186" height="386">](https://i.imgur.com/PB65rB9.jpg)
-![Hình 3](https://i.imgur.com/PB65rB9.jpg)
+[<img src="https://i.imgur.com/PB65rB9.jpg" width="372" height="752">](https://i.imgur.com/PB65rB9.jpg)
+
 
 b) Firefox đang dần tích hợp tính năng bảo mật DNS (DNS-over-HTTPS) nên có thể cũng bỏ qua DNS trên máy, khiến cũng bị tình trạng tương tự như trên. Bạn tắt bằng cách sau:
 - Gõ chính xác cụm sau **about:config** để truy cập trang cấu hình.
