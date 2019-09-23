@@ -49,7 +49,7 @@ Trình duyệt của Samsung Beta (**có thể chỉ cần làm cho Note 9 và/h
 5. 
 a) Do Google tích hợp thêm khả năng cho phép Chrome tự bỏ qua DNS trên máy để dùng trực tiếp DNS 8.8.8.8 của họ (tính năng "Data Saver" cũng tương tự), khiến bộ lọc có thể không còn tác dụng. Khi đó, bạn tắt các tính năng này bằng cách sau:
 - Gõ chính xác cụm sau **chrome://flags** để truy cập trang cấu hình. Ở ô tìm kiếm, gõ "async", bạn sẽ thấy "Async DNS Resolver". Chọn "Disable" để tắt.
-- Chạm dấu ba chấm dọc để vào "Settings", chọn tiếp "Data Saver" và gạt sang "Off" để tắt.
+- Chạm dấu ba chấm dọc để vào "Settings", chọn tiếp "Lite Mode" (hoặc "Data Saver") và gạt sang "Off" để tắt.
 
 [<img src="https://i.imgur.com/PB65rB9.jpg" width="372" height="752">](https://i.imgur.com/PB65rB9.jpg)
 
