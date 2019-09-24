@@ -19,7 +19,7 @@ Riêng đối với Samsung, hãng này có tích hợp module Knox trong các d
 
 ### Hiểu về việc lấy key
 Vì lí do nêu ở trên, nên bây giờ nhóm tác giả làm việc như trong hội kín, để lấy key cần phải qua một số bước kiểm tra độ tin cậy.
-1. Đầu tiên bạn phải có tài khoản Paypal đã thiết lập thẻ (nói chung là dùng để thanh toán được) trước khi liên hệ với nhóm tác giả. Nếu chưa có tài khoản sẵn sàng thì sẽ không làm gì được.
+1. Đầu tiên bạn phải có tài khoản Paypal đã thiết lập thẻ (nói chung là dùng để thanh toán được) trước khi liên hệ với nhóm tác giả. (Ngoài ra, nếu biết cách thì bạn có thể dùng Google Wallet). Nếu chưa có tài khoản sẵn sàng thì sẽ không làm gì được.
 2. Tham gia vào Discord chính thức của Adhell3 tại https://discord.gg/prqxx5D
 3. Nhóm đã yêu cầu người viết bỏ các thông tin chi tiết. Nên để biết các bước tiếp theo, bạn chịu khó liên hệ tiếp với người viết bằng một trong các cách sau:
 - nick Discord (gõ vào khung tìm kiếm trong server Adhell3): Hung1985
